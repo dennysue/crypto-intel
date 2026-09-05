@@ -1,0 +1,61 @@
+{
+  "cap_date": "2026-09-05",
+  "cap_count": 5,
+  "sent": {
+    "new:robinhood:0x942e390b0d316c897336620da42a2f2a340f93ec": 1788637067,
+    "new:robinhood:0x7733de4b737e5cdc5891e53b86ffeab3f82916c3": 1788637068,
+    "radar:niu-lai": 1788637068,
+    "radar:akedo": 1788637069,
+    "radar:build-on": 1788637069
+  },
+  "seen_forever": {
+    "listing:283840": 1788637067
+  },
+  "history": [
+    {
+      "key": "new:robinhood:0x942e390b0d316c897336620da42a2f2a340f93ec",
+      "ts": 1788637067,
+      "type": "new",
+      "symbol": "RSRV",
+      "name": "RSRV",
+      "price": "0.0003470",
+      "address": "0x942e390b0d316c897336620da42a2f2a340f93ec"
+    },
+    {
+      "key": "new:robinhood:0x7733de4b737e5cdc5891e53b86ffeab3f82916c3",
+      "ts": 1788637068,
+      "type": "new",
+      "symbol": "GIMO",
+      "name": "GIMO",
+      "price": "0.0001213",
+      "address": "0x7733de4b737e5cdc5891e53b86ffeab3f82916c3"
+    },
+    {
+      "key": "radar:niu-lai",
+      "ts": 1788637068,
+      "type": "radar",
+      "symbol": "牛来",
+      "name": "牛来 (Niu Lai)",
+      "price": 0.119707,
+      "cg_id": "niu-lai"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1788637069,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.01881343,
+      "cg_id": "akedo"
+    },
+    {
+      "key": "radar:build-on",
+      "ts": 1788637069,
+      "type": "radar",
+      "symbol": "B",
+      "name": "BUILDon",
+      "price": 0.17458,
+      "cg_id": "build-on"
+    }
+  ]
+}
