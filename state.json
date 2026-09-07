@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-06",
+  "cap_date": "2026-09-07",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x8d1612b4b78ebf08cfbf01a04fa270ccbb0509a2": 1788653515,
-    "new:robinhood:0x1ec871553be07dc68ec1661c32eca7e2e46e1e18": 1788653516,
-    "new:robinhood:0x608970de78059c3eef829d21f979d78fe155c18f": 1788653516,
-    "radar:niu-lai": 1788653517,
-    "radar:akedo": 1788653518
+    "new:bsc:0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b": 1788743033,
+    "new:solana:dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae": 1788743034,
+    "new:robinhood:0xf05bcf94c8c020e43de8927b491c6be8b96777e3": 1788743034,
+    "new:solana:b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump": 1788743034,
+    "new:robinhood:0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2": 1788743035
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -84,6 +84,51 @@
       "name": "Akedo",
       "price": 0.01847193,
       "cg_id": "akedo"
+    },
+    {
+      "key": "new:bsc:0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b",
+      "ts": 1788743033,
+      "type": "new",
+      "symbol": "GROGU",
+      "name": "GROGU",
+      "price": "0.0001767",
+      "address": "0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b"
+    },
+    {
+      "key": "new:solana:dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae",
+      "ts": 1788743034,
+      "type": "new",
+      "symbol": "ZCHAN",
+      "name": "ZCHAN",
+      "price": "0.0002517",
+      "address": "dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae"
+    },
+    {
+      "key": "new:robinhood:0xf05bcf94c8c020e43de8927b491c6be8b96777e3",
+      "ts": 1788743034,
+      "type": "new",
+      "symbol": "QSTRAT",
+      "name": "QSTRAT",
+      "price": "0.001632",
+      "address": "0xf05bcf94c8c020e43de8927b491c6be8b96777e3"
+    },
+    {
+      "key": "new:solana:b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump",
+      "ts": 1788743034,
+      "type": "new",
+      "symbol": "BEBE",
+      "name": "BEBE",
+      "price": "0.001042",
+      "address": "b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump"
+    },
+    {
+      "key": "new:robinhood:0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2",
+      "ts": 1788743035,
+      "type": "new",
+      "symbol": "APT",
+      "name": "APT",
+      "price": "0.00007618",
+      "address": "0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2"
     }
   ]
 }
