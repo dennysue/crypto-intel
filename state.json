@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-07",
+  "cap_date": "2026-09-08",
   "cap_count": 5,
   "sent": {
-    "new:bsc:0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b": 1788743033,
-    "new:solana:dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae": 1788743034,
-    "new:robinhood:0xf05bcf94c8c020e43de8927b491c6be8b96777e3": 1788743034,
-    "new:solana:b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump": 1788743034,
-    "new:robinhood:0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2": 1788743035
+    "new:solana:fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump": 1788829703,
+    "new:solana:8rdq8d3ud9md5k75f1degyubn6jgardmzaa8j4mnpump": 1788829703,
+    "new:robinhood:0x39408763876499bd9c993b0422f3ff21dec64ed1": 1788829704,
+    "radar:a-meme-coin": 1788829705,
+    "radar:build-on": 1788829705
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -34,15 +34,6 @@
       "name": "GIMO",
       "price": "0.0001213",
       "address": "0x7733de4b737e5cdc5891e53b86ffeab3f82916c3"
-    },
-    {
-      "key": "radar:build-on",
-      "ts": 1788637069,
-      "type": "radar",
-      "symbol": "B",
-      "name": "BUILDon",
-      "price": 0.17458,
-      "cg_id": "build-on"
     },
     {
       "key": "new:robinhood:0x8d1612b4b78ebf08cfbf01a04fa270ccbb0509a2",
@@ -133,6 +124,51 @@
       "name": "APT",
       "price": "0.00007618",
       "address": "0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2"
+    },
+    {
+      "key": "new:solana:fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump",
+      "ts": 1788829703,
+      "type": "new",
+      "symbol": "AGI",
+      "name": "AGI",
+      "price": "0.0004936",
+      "address": "fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump"
+    },
+    {
+      "key": "new:solana:8rdq8d3ud9md5k75f1degyubn6jgardmzaa8j4mnpump",
+      "ts": 1788829703,
+      "type": "new",
+      "symbol": "ONLYPUMP",
+      "name": "ONLYPUMP",
+      "price": "0.0009000",
+      "address": "8rdq8d3ud9md5k75f1degyubn6jgardmzaa8j4mnpump"
+    },
+    {
+      "key": "new:robinhood:0x39408763876499bd9c993b0422f3ff21dec64ed1",
+      "ts": 1788829704,
+      "type": "new",
+      "symbol": "SPAGHETTI",
+      "name": "SPAGHETTI",
+      "price": "0.0002033",
+      "address": "0x39408763876499bd9c993b0422f3ff21dec64ed1"
+    },
+    {
+      "key": "radar:a-meme-coin",
+      "ts": 1788829705,
+      "type": "radar",
+      "symbol": "AMC",
+      "name": "A Meme Coin",
+      "price": 0.123172,
+      "cg_id": "a-meme-coin"
+    },
+    {
+      "key": "radar:build-on",
+      "ts": 1788829705,
+      "type": "radar",
+      "symbol": "B",
+      "name": "BUILDon",
+      "price": 0.197001,
+      "cg_id": "build-on"
     }
   ]
 }
