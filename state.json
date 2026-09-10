@@ -1,12 +1,8 @@
 {
-  "cap_date": "2026-09-09",
-  "cap_count": 5,
+  "cap_date": "2026-09-10",
+  "cap_count": 1,
   "sent": {
-    "new:bsc:0x7d1a8dbb40b7b5518ef69b93a6faeba91eea7777": 1788916874,
-    "new:solana:fhxcx7chmhdkfwzihycwn8vqrvefrk3zezokae8gl5q7": 1788916875,
-    "new:robinhood:0x5a1831827b7ef689f92402281130a0370b1e0316": 1788916875,
-    "radar:venice-token": 1788916876,
-    "radar:useless-3": 1788916877
+    "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661": 1789002636
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -22,54 +18,19 @@
     "newlist:OKX现货:XMVLL": 1788909677,
     "newlist:OKX现货:XSNXX": 1788909677,
     "newlist:OKX现货:XSOXS": 1788909678,
-    "listing:284193": 1788953605
+    "listing:284193": 1788953605,
+    "newlist:Gate:AAOI3L": 1789002631,
+    "newlist:Gate:AAOI3S": 1789002632,
+    "newlist:Gate:CRWV3L": 1789002632,
+    "newlist:Gate:CRWV3S": 1789002633,
+    "newlist:Gate:KORU3L": 1789002633,
+    "newlist:Gate:KORU3S": 1789002634,
+    "newlist:Gate:MINIMAX3L": 1789002634,
+    "newlist:Gate:MINIMAX3S": 1789002635,
+    "newlist:OKX合约:JP225": 1789002635,
+    "newlist:OKX合约:ZHONGJI": 1789002636
   },
   "history": [
-    {
-      "key": "new:bsc:0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b",
-      "ts": 1788743033,
-      "type": "new",
-      "symbol": "GROGU",
-      "name": "GROGU",
-      "price": "0.0001767",
-      "address": "0x9e9d2d61e5ef2d7d778aba46799e4bf731cd626b"
-    },
-    {
-      "key": "new:solana:dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae",
-      "ts": 1788743034,
-      "type": "new",
-      "symbol": "ZCHAN",
-      "name": "ZCHAN",
-      "price": "0.0002517",
-      "address": "dp1eyr86ppgvvpahzramklxxmxcbzjcizfzxxbwfygae"
-    },
-    {
-      "key": "new:robinhood:0xf05bcf94c8c020e43de8927b491c6be8b96777e3",
-      "ts": 1788743034,
-      "type": "new",
-      "symbol": "QSTRAT",
-      "name": "QSTRAT",
-      "price": "0.001632",
-      "address": "0xf05bcf94c8c020e43de8927b491c6be8b96777e3"
-    },
-    {
-      "key": "new:solana:b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump",
-      "ts": 1788743034,
-      "type": "new",
-      "symbol": "BEBE",
-      "name": "BEBE",
-      "price": "0.001042",
-      "address": "b5npkqvxajc3ojyfbfpwxfxxmpdqfssqrnhnk39xpump"
-    },
-    {
-      "key": "new:robinhood:0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2",
-      "ts": 1788743035,
-      "type": "new",
-      "symbol": "APT",
-      "name": "APT",
-      "price": "0.00007618",
-      "address": "0xd7f1b405c3ebb168f2c2329324d88a9e65c427d2"
-    },
     {
       "key": "new:solana:fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump",
       "ts": 1788829703,
@@ -159,6 +120,15 @@
       "name": "Useless Coin",
       "price": 0.28934,
       "cg_id": "useless-3"
+    },
+    {
+      "key": "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661",
+      "ts": 1789002636,
+      "type": "new",
+      "symbol": "LIFT",
+      "name": "LIFT",
+      "price": "0.0006504",
+      "address": "0x376aa5a3e413c04697028fa0428a0f0292514661"
     }
   ]
 }
