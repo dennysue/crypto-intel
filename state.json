@@ -1,8 +1,11 @@
 {
   "cap_date": "2026-09-10",
-  "cap_count": 1,
+  "cap_count": 4,
   "sent": {
-    "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661": 1789002636
+    "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661": 1789002636,
+    "new:solana:9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut": 1789020077,
+    "new:solana:a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj": 1789020078,
+    "new:robinhood:0x3e2889b53edf9e302d94cbc0b2456a09313a1e18": 1789020078
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -129,6 +132,33 @@
       "name": "LIFT",
       "price": "0.0006504",
       "address": "0x376aa5a3e413c04697028fa0428a0f0292514661"
+    },
+    {
+      "key": "new:solana:9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut",
+      "ts": 1789020077,
+      "type": "new",
+      "symbol": "🧲",
+      "name": "🧲",
+      "price": "0.001142",
+      "address": "9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut"
+    },
+    {
+      "key": "new:solana:a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj",
+      "ts": 1789020078,
+      "type": "new",
+      "symbol": "BRIAN",
+      "name": "BRIAN",
+      "price": "0.0005939",
+      "address": "a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj"
+    },
+    {
+      "key": "new:robinhood:0x3e2889b53edf9e302d94cbc0b2456a09313a1e18",
+      "ts": 1789020078,
+      "type": "new",
+      "symbol": "BRIAN",
+      "name": "BRIAN",
+      "price": "0.0001426",
+      "address": "0x3e2889b53edf9e302d94cbc0b2456a09313a1e18"
     }
   ]
 }
