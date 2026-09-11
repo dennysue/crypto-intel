@@ -1,10 +1,12 @@
 {
   "cap_date": "2026-09-11",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x00c7a526d693708e74cfde11293a1e09d6ba47b7": 1789087762,
     "new:robinhood:0x65c9882affde2a74b2d4904eac0ce9efb29b8d48": 1789087763,
-    "radar:raydium": 1789087763
+    "radar:raydium": 1789087763,
+    "radar:niu-lai": 1789104035,
+    "radar:stonk-3": 1789104036
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -30,54 +32,14 @@
     "newlist:Gate:MINIMAX3L": 1789002634,
     "newlist:Gate:MINIMAX3S": 1789002635,
     "newlist:OKX合约:JP225": 1789002635,
-    "newlist:OKX合约:ZHONGJI": 1789002636
+    "newlist:OKX合约:ZHONGJI": 1789002636,
+    "newlist:Gate:4STOCK": 1789104033,
+    "newlist:Gate:MCAT": 1789104033,
+    "newlist:OKX合约:US100": 1789104034,
+    "newlist:OKX合约:US500": 1789104034,
+    "newlist:OKX合约:XOM": 1789104035
   },
   "history": [
-    {
-      "key": "new:solana:fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump",
-      "ts": 1788829703,
-      "type": "new",
-      "symbol": "AGI",
-      "name": "AGI",
-      "price": "0.0004936",
-      "address": "fjhtgmedgse2bfo9nhsptvzanjrdgtvye78a1garpump"
-    },
-    {
-      "key": "new:solana:8rdq8d3ud9md5k75f1degyubn6jgardmzaa8j4mnpump",
-      "ts": 1788829703,
-      "type": "new",
-      "symbol": "ONLYPUMP",
-      "name": "ONLYPUMP",
-      "price": "0.0009000",
-      "address": "8rdq8d3ud9md5k75f1degyubn6jgardmzaa8j4mnpump"
-    },
-    {
-      "key": "new:robinhood:0x39408763876499bd9c993b0422f3ff21dec64ed1",
-      "ts": 1788829704,
-      "type": "new",
-      "symbol": "SPAGHETTI",
-      "name": "SPAGHETTI",
-      "price": "0.0002033",
-      "address": "0x39408763876499bd9c993b0422f3ff21dec64ed1"
-    },
-    {
-      "key": "radar:a-meme-coin",
-      "ts": 1788829705,
-      "type": "radar",
-      "symbol": "AMC",
-      "name": "A Meme Coin",
-      "price": 0.123172,
-      "cg_id": "a-meme-coin"
-    },
-    {
-      "key": "radar:build-on",
-      "ts": 1788829705,
-      "type": "radar",
-      "symbol": "B",
-      "name": "BUILDon",
-      "price": 0.197001,
-      "cg_id": "build-on"
-    },
     {
       "key": "new:bsc:0x7d1a8dbb40b7b5518ef69b93a6faeba91eea7777",
       "ts": 1788916874,
@@ -194,6 +156,24 @@
       "name": "Raydium",
       "price": 1.48,
       "cg_id": "raydium"
+    },
+    {
+      "key": "radar:niu-lai",
+      "ts": 1789104035,
+      "type": "radar",
+      "symbol": "牛来",
+      "name": "牛来 (Niu Lai)",
+      "price": 0.116235,
+      "cg_id": "niu-lai"
+    },
+    {
+      "key": "radar:stonk-3",
+      "ts": 1789104036,
+      "type": "radar",
+      "symbol": "STONK",
+      "name": "STONK",
+      "price": 0.271614,
+      "cg_id": "stonk-3"
     }
   ]
 }
