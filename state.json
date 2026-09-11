@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-09-10",
-  "cap_count": 5,
+  "cap_date": "2026-09-11",
+  "cap_count": 3,
   "sent": {
-    "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661": 1789002636,
-    "new:solana:9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut": 1789020077,
-    "new:solana:a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj": 1789020078,
-    "new:robinhood:0x3e2889b53edf9e302d94cbc0b2456a09313a1e18": 1789020078,
-    "new:bsc:0x06f7aeabc9c37d457922a9368f291c5d57c07777": 1789038652
+    "new:robinhood:0x00c7a526d693708e74cfde11293a1e09d6ba47b7": 1789087762,
+    "new:robinhood:0x65c9882affde2a74b2d4904eac0ce9efb29b8d48": 1789087763,
+    "radar:raydium": 1789087763
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -169,6 +167,33 @@
       "name": "UPONLY",
       "price": "0.003181",
       "address": "0x06f7aeabc9c37d457922a9368f291c5d57c07777"
+    },
+    {
+      "key": "new:robinhood:0x00c7a526d693708e74cfde11293a1e09d6ba47b7",
+      "ts": 1789087762,
+      "type": "new",
+      "symbol": "CPU",
+      "name": "CPU",
+      "price": "0.0006215",
+      "address": "0x00c7a526d693708e74cfde11293a1e09d6ba47b7"
+    },
+    {
+      "key": "new:robinhood:0x65c9882affde2a74b2d4904eac0ce9efb29b8d48",
+      "ts": 1789087763,
+      "type": "new",
+      "symbol": "GAP",
+      "name": "GAP",
+      "price": "0.0001318",
+      "address": "0x65c9882affde2a74b2d4904eac0ce9efb29b8d48"
+    },
+    {
+      "key": "radar:raydium",
+      "ts": 1789087763,
+      "type": "radar",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "price": 1.48,
+      "cg_id": "raydium"
     }
   ]
 }
