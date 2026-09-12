@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-11",
+  "cap_date": "2026-09-12",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x00c7a526d693708e74cfde11293a1e09d6ba47b7": 1789087762,
-    "new:robinhood:0x65c9882affde2a74b2d4904eac0ce9efb29b8d48": 1789087763,
-    "radar:raydium": 1789087763,
-    "radar:niu-lai": 1789104035,
-    "radar:stonk-3": 1789104036
+    "new:bsc:0x795a3a4e90f837ae137ed2c92509f5f59c474547": 1789173331,
+    "new:solana:dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx": 1789173332,
+    "new:robinhood:0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18": 1789173333,
+    "new:robinhood:0x351ab2c51e223b28d219fe28cc3956410cc11e18": 1789173333,
+    "new:robinhood:0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78": 1789173334
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -174,6 +174,51 @@
       "name": "STONK",
       "price": 0.271614,
       "cg_id": "stonk-3"
+    },
+    {
+      "key": "new:bsc:0x795a3a4e90f837ae137ed2c92509f5f59c474547",
+      "ts": 1789173331,
+      "type": "new",
+      "symbol": "KNOT",
+      "name": "KNOT",
+      "price": "0.0009891",
+      "address": "0x795a3a4e90f837ae137ed2c92509f5f59c474547"
+    },
+    {
+      "key": "new:solana:dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx",
+      "ts": 1789173332,
+      "type": "new",
+      "symbol": "TENDIES",
+      "name": "TENDIES",
+      "price": "0.0004652",
+      "address": "dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx"
+    },
+    {
+      "key": "new:robinhood:0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18",
+      "ts": 1789173333,
+      "type": "new",
+      "symbol": "CATGPT",
+      "name": "CATGPT",
+      "price": "0.003855",
+      "address": "0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18"
+    },
+    {
+      "key": "new:robinhood:0x351ab2c51e223b28d219fe28cc3956410cc11e18",
+      "ts": 1789173333,
+      "type": "new",
+      "symbol": "ANTHROPIG",
+      "name": "ANTHROPIG",
+      "price": "0.001353",
+      "address": "0x351ab2c51e223b28d219fe28cc3956410cc11e18"
+    },
+    {
+      "key": "new:robinhood:0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78",
+      "ts": 1789173334,
+      "type": "new",
+      "symbol": "CATGPT",
+      "name": "CATGPT",
+      "price": "0.0004285",
+      "address": "0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78"
     }
   ]
 }
