@@ -1,12 +1,9 @@
 {
-  "cap_date": "2026-09-12",
-  "cap_count": 5,
+  "cap_date": "2026-09-13",
+  "cap_count": 2,
   "sent": {
-    "new:bsc:0x795a3a4e90f837ae137ed2c92509f5f59c474547": 1789173331,
-    "new:solana:dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx": 1789173332,
-    "new:robinhood:0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18": 1789173333,
-    "new:robinhood:0x351ab2c51e223b28d219fe28cc3956410cc11e18": 1789173333,
-    "new:robinhood:0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78": 1789173334
+    "radar:lobster-2": 1789258255,
+    "radar:anonymous-cat": 1789258256
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -41,51 +38,6 @@
     "newlist:OKX合约:FLOCK": 1789203974
   },
   "history": [
-    {
-      "key": "new:bsc:0x7d1a8dbb40b7b5518ef69b93a6faeba91eea7777",
-      "ts": 1788916874,
-      "type": "new",
-      "symbol": "BITCAT",
-      "name": "BITCAT",
-      "price": "0.0008033",
-      "address": "0x7d1a8dbb40b7b5518ef69b93a6faeba91eea7777"
-    },
-    {
-      "key": "new:solana:fhxcx7chmhdkfwzihycwn8vqrvefrk3zezokae8gl5q7",
-      "ts": 1788916875,
-      "type": "new",
-      "symbol": "TIP",
-      "name": "TIP",
-      "price": "0.001392",
-      "address": "fhxcx7chmhdkfwzihycwn8vqrvefrk3zezokae8gl5q7"
-    },
-    {
-      "key": "new:robinhood:0x5a1831827b7ef689f92402281130a0370b1e0316",
-      "ts": 1788916875,
-      "type": "new",
-      "symbol": "APPUL",
-      "name": "APPUL",
-      "price": "0.0001750",
-      "address": "0x5a1831827b7ef689f92402281130a0370b1e0316"
-    },
-    {
-      "key": "radar:venice-token",
-      "ts": 1788916876,
-      "type": "radar",
-      "symbol": "VVV",
-      "name": "Venice Token",
-      "price": 24.3,
-      "cg_id": "venice-token"
-    },
-    {
-      "key": "radar:useless-3",
-      "ts": 1788916877,
-      "type": "radar",
-      "symbol": "USELESS",
-      "name": "Useless Coin",
-      "price": 0.28934,
-      "cg_id": "useless-3"
-    },
     {
       "key": "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661",
       "ts": 1789002636,
@@ -220,6 +172,24 @@
       "name": "CATGPT",
       "price": "0.0004285",
       "address": "0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78"
+    },
+    {
+      "key": "radar:lobster-2",
+      "ts": 1789258255,
+      "type": "radar",
+      "symbol": "龙虾",
+      "name": "龙虾 (Lobster)",
+      "price": 0.156249,
+      "cg_id": "lobster-2"
+    },
+    {
+      "key": "radar:anonymous-cat",
+      "ts": 1789258256,
+      "type": "radar",
+      "symbol": "ZCAT",
+      "name": "Anonymous Cat",
+      "price": 0.119952,
+      "cg_id": "anonymous-cat"
     }
   ]
 }
