@@ -1,9 +1,12 @@
 {
   "cap_date": "2026-09-13",
-  "cap_count": 2,
+  "cap_count": 5,
   "sent": {
     "radar:lobster-2": 1789258255,
-    "radar:anonymous-cat": 1789258256
+    "radar:anonymous-cat": 1789258256,
+    "new:robinhood:0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47": 1789275226,
+    "new:robinhood:0xf0c2054db03cfda94894dda67c10a386450dc54c": 1789275226,
+    "radar:lisk": 1789275227
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -38,15 +41,6 @@
     "newlist:OKX合约:FLOCK": 1789203974
   },
   "history": [
-    {
-      "key": "new:robinhood:0x376aa5a3e413c04697028fa0428a0f0292514661",
-      "ts": 1789002636,
-      "type": "new",
-      "symbol": "LIFT",
-      "name": "LIFT",
-      "price": "0.0006504",
-      "address": "0x376aa5a3e413c04697028fa0428a0f0292514661"
-    },
     {
       "key": "new:solana:9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut",
       "ts": 1789020077,
@@ -190,6 +184,33 @@
       "name": "Anonymous Cat",
       "price": 0.119952,
       "cg_id": "anonymous-cat"
+    },
+    {
+      "key": "new:robinhood:0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47",
+      "ts": 1789275226,
+      "type": "new",
+      "symbol": "GROK",
+      "name": "GROK",
+      "price": "0.0003214",
+      "address": "0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47"
+    },
+    {
+      "key": "new:robinhood:0xf0c2054db03cfda94894dda67c10a386450dc54c",
+      "ts": 1789275226,
+      "type": "new",
+      "symbol": "CC",
+      "name": "CC",
+      "price": "0.0003049",
+      "address": "0xf0c2054db03cfda94894dda67c10a386450dc54c"
+    },
+    {
+      "key": "radar:lisk",
+      "ts": 1789275227,
+      "type": "radar",
+      "symbol": "LSK",
+      "name": "Lisk",
+      "price": 1.086,
+      "cg_id": "lisk"
     }
   ]
 }
