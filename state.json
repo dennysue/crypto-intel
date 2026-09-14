@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-13",
+  "cap_date": "2026-09-14",
   "cap_count": 5,
   "sent": {
-    "radar:lobster-2": 1789258255,
-    "radar:anonymous-cat": 1789258256,
-    "new:robinhood:0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47": 1789275226,
-    "new:robinhood:0xf0c2054db03cfda94894dda67c10a386450dc54c": 1789275226,
-    "radar:lisk": 1789275227
+    "new:robinhood:0x6e18092316ea42b17286cd8b6bf8185ef34999d3": 1789349754,
+    "new:robinhood:0xe42b98a54912a910650431b3c44dd386134bba6b": 1789349754,
+    "radar:lisk": 1789349755,
+    "radar:filecoin": 1789349756,
+    "radar:bitway": 1789349756
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -41,69 +41,6 @@
     "newlist:OKX合约:FLOCK": 1789203974
   },
   "history": [
-    {
-      "key": "new:solana:9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut",
-      "ts": 1789020077,
-      "type": "new",
-      "symbol": "🧲",
-      "name": "🧲",
-      "price": "0.001142",
-      "address": "9lack5xfutibvzxaqnmjvcl5frustv2tvnxnlk5qexut"
-    },
-    {
-      "key": "new:solana:a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj",
-      "ts": 1789020078,
-      "type": "new",
-      "symbol": "BRIAN",
-      "name": "BRIAN",
-      "price": "0.0005939",
-      "address": "a8adxr4wqcmve9zdzsgktczgpuhyj7ejcqxnf2yy5smj"
-    },
-    {
-      "key": "new:robinhood:0x3e2889b53edf9e302d94cbc0b2456a09313a1e18",
-      "ts": 1789020078,
-      "type": "new",
-      "symbol": "BRIAN",
-      "name": "BRIAN",
-      "price": "0.0001426",
-      "address": "0x3e2889b53edf9e302d94cbc0b2456a09313a1e18"
-    },
-    {
-      "key": "new:bsc:0x06f7aeabc9c37d457922a9368f291c5d57c07777",
-      "ts": 1789038652,
-      "type": "new",
-      "symbol": "UPONLY",
-      "name": "UPONLY",
-      "price": "0.003181",
-      "address": "0x06f7aeabc9c37d457922a9368f291c5d57c07777"
-    },
-    {
-      "key": "new:robinhood:0x00c7a526d693708e74cfde11293a1e09d6ba47b7",
-      "ts": 1789087762,
-      "type": "new",
-      "symbol": "CPU",
-      "name": "CPU",
-      "price": "0.0006215",
-      "address": "0x00c7a526d693708e74cfde11293a1e09d6ba47b7"
-    },
-    {
-      "key": "new:robinhood:0x65c9882affde2a74b2d4904eac0ce9efb29b8d48",
-      "ts": 1789087763,
-      "type": "new",
-      "symbol": "GAP",
-      "name": "GAP",
-      "price": "0.0001318",
-      "address": "0x65c9882affde2a74b2d4904eac0ce9efb29b8d48"
-    },
-    {
-      "key": "radar:raydium",
-      "ts": 1789087763,
-      "type": "radar",
-      "symbol": "RAY",
-      "name": "Raydium",
-      "price": 1.48,
-      "cg_id": "raydium"
-    },
     {
       "key": "radar:niu-lai",
       "ts": 1789104035,
@@ -204,13 +141,49 @@
       "address": "0xf0c2054db03cfda94894dda67c10a386450dc54c"
     },
     {
+      "key": "new:robinhood:0x6e18092316ea42b17286cd8b6bf8185ef34999d3",
+      "ts": 1789349754,
+      "type": "new",
+      "symbol": "RUFUS",
+      "name": "RUFUS",
+      "price": "0.0001501",
+      "address": "0x6e18092316ea42b17286cd8b6bf8185ef34999d3"
+    },
+    {
+      "key": "new:robinhood:0xe42b98a54912a910650431b3c44dd386134bba6b",
+      "ts": 1789349754,
+      "type": "new",
+      "symbol": "AICROWN",
+      "name": "AICROWN",
+      "price": "0.0001221",
+      "address": "0xe42b98a54912a910650431b3c44dd386134bba6b"
+    },
+    {
       "key": "radar:lisk",
-      "ts": 1789275227,
+      "ts": 1789349755,
       "type": "radar",
       "symbol": "LSK",
       "name": "Lisk",
-      "price": 1.086,
+      "price": 0.863609,
       "cg_id": "lisk"
+    },
+    {
+      "key": "radar:filecoin",
+      "ts": 1789349756,
+      "type": "radar",
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "price": 0.989184,
+      "cg_id": "filecoin"
+    },
+    {
+      "key": "radar:bitway",
+      "ts": 1789349756,
+      "type": "radar",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "price": 0.671333,
+      "cg_id": "bitway"
     }
   ]
 }
