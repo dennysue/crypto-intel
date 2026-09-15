@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-14",
+  "cap_date": "2026-09-15",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x6e18092316ea42b17286cd8b6bf8185ef34999d3": 1789349754,
-    "new:robinhood:0xe42b98a54912a910650431b3c44dd386134bba6b": 1789349754,
-    "radar:lisk": 1789349755,
-    "radar:filecoin": 1789349756,
-    "radar:bitway": 1789349756
+    "new:robinhood:0x948647a06a6422dceea3711297f82aef68ec641c": 1789433216,
+    "new:solana:dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn": 1789433217,
+    "new:robinhood:0xff2692d5174e599e18430f14401ec98b243bfd41": 1789433218,
+    "radar:bedrock-token": 1789433218,
+    "radar:artificial-inu-3": 1789433219
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -43,69 +43,6 @@
     "newlist:Gate:STONK": 1789394197
   },
   "history": [
-    {
-      "key": "radar:niu-lai",
-      "ts": 1789104035,
-      "type": "radar",
-      "symbol": "牛来",
-      "name": "牛来 (Niu Lai)",
-      "price": 0.116235,
-      "cg_id": "niu-lai"
-    },
-    {
-      "key": "radar:stonk-3",
-      "ts": 1789104036,
-      "type": "radar",
-      "symbol": "STONK",
-      "name": "STONK",
-      "price": 0.271614,
-      "cg_id": "stonk-3"
-    },
-    {
-      "key": "new:bsc:0x795a3a4e90f837ae137ed2c92509f5f59c474547",
-      "ts": 1789173331,
-      "type": "new",
-      "symbol": "KNOT",
-      "name": "KNOT",
-      "price": "0.0009891",
-      "address": "0x795a3a4e90f837ae137ed2c92509f5f59c474547"
-    },
-    {
-      "key": "new:solana:dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx",
-      "ts": 1789173332,
-      "type": "new",
-      "symbol": "TENDIES",
-      "name": "TENDIES",
-      "price": "0.0004652",
-      "address": "dgrauqe8pw11wdyzzqst8gozgy34lpdcs3kxayaqpjx"
-    },
-    {
-      "key": "new:robinhood:0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18",
-      "ts": 1789173333,
-      "type": "new",
-      "symbol": "CATGPT",
-      "name": "CATGPT",
-      "price": "0.003855",
-      "address": "0xd6fde6a3fc6ab2d83b2be58383944ca1bade1e18"
-    },
-    {
-      "key": "new:robinhood:0x351ab2c51e223b28d219fe28cc3956410cc11e18",
-      "ts": 1789173333,
-      "type": "new",
-      "symbol": "ANTHROPIG",
-      "name": "ANTHROPIG",
-      "price": "0.001353",
-      "address": "0x351ab2c51e223b28d219fe28cc3956410cc11e18"
-    },
-    {
-      "key": "new:robinhood:0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78",
-      "ts": 1789173334,
-      "type": "new",
-      "symbol": "CATGPT",
-      "name": "CATGPT",
-      "price": "0.0004285",
-      "address": "0x843d6e8bd26a7617f44c76b6e48985a78a4c2b78"
-    },
     {
       "key": "radar:lobster-2",
       "ts": 1789258255,
@@ -186,6 +123,51 @@
       "name": "Bitway",
       "price": 0.671333,
       "cg_id": "bitway"
+    },
+    {
+      "key": "new:robinhood:0x948647a06a6422dceea3711297f82aef68ec641c",
+      "ts": 1789433216,
+      "type": "new",
+      "symbol": "WAIFU",
+      "name": "WAIFU",
+      "price": "0.0009925",
+      "address": "0x948647a06a6422dceea3711297f82aef68ec641c"
+    },
+    {
+      "key": "new:solana:dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn",
+      "ts": 1789433217,
+      "type": "new",
+      "symbol": "BASKET",
+      "name": "BASKET",
+      "price": "0.0002832",
+      "address": "dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn"
+    },
+    {
+      "key": "new:robinhood:0xff2692d5174e599e18430f14401ec98b243bfd41",
+      "ts": 1789433218,
+      "type": "new",
+      "symbol": "FOBE",
+      "name": "FOBE",
+      "price": "0.0003449",
+      "address": "0xff2692d5174e599e18430f14401ec98b243bfd41"
+    },
+    {
+      "key": "radar:bedrock-token",
+      "ts": 1789433218,
+      "type": "radar",
+      "symbol": "BR",
+      "name": "Bedrock",
+      "price": 0.531244,
+      "cg_id": "bedrock-token"
+    },
+    {
+      "key": "radar:artificial-inu-3",
+      "ts": 1789433219,
+      "type": "radar",
+      "symbol": "AI",
+      "name": "Artificial Inu",
+      "price": 0.298817,
+      "cg_id": "artificial-inu-3"
     }
   ]
 }
