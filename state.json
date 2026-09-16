@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-09-15",
-  "cap_count": 5,
+  "cap_date": "2026-09-16",
+  "cap_count": 4,
   "sent": {
-    "new:robinhood:0x948647a06a6422dceea3711297f82aef68ec641c": 1789433216,
-    "new:solana:dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn": 1789433217,
-    "new:robinhood:0xff2692d5174e599e18430f14401ec98b243bfd41": 1789433218,
-    "radar:bedrock-token": 1789433218,
-    "radar:artificial-inu-3": 1789433219
+    "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555": 1789527544,
+    "new:robinhood:0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777": 1789527544,
+    "radar:akedo": 1789527545,
+    "radar:lobster-2": 1789527545
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -45,24 +44,6 @@
     "newlist:OKX现货:VVV": 1789484727
   },
   "history": [
-    {
-      "key": "radar:lobster-2",
-      "ts": 1789258255,
-      "type": "radar",
-      "symbol": "龙虾",
-      "name": "龙虾 (Lobster)",
-      "price": 0.156249,
-      "cg_id": "lobster-2"
-    },
-    {
-      "key": "radar:anonymous-cat",
-      "ts": 1789258256,
-      "type": "radar",
-      "symbol": "ZCAT",
-      "name": "Anonymous Cat",
-      "price": 0.119952,
-      "cg_id": "anonymous-cat"
-    },
     {
       "key": "new:robinhood:0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47",
       "ts": 1789275226,
@@ -170,6 +151,42 @@
       "name": "Artificial Inu",
       "price": 0.298817,
       "cg_id": "artificial-inu-3"
+    },
+    {
+      "key": "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555",
+      "ts": 1789527544,
+      "type": "new",
+      "symbol": "CATE",
+      "name": "CATE",
+      "price": "0.0005513",
+      "address": "0xa4b0320fe6158823ce73a26300176747670b5555"
+    },
+    {
+      "key": "new:robinhood:0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777",
+      "ts": 1789527544,
+      "type": "new",
+      "symbol": "DECIST",
+      "name": "DECIST",
+      "price": "0.0004669",
+      "address": "0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1789527545,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.02872694,
+      "cg_id": "akedo"
+    },
+    {
+      "key": "radar:lobster-2",
+      "ts": 1789527545,
+      "type": "radar",
+      "symbol": "龙虾",
+      "name": "龙虾 (Lobster)",
+      "price": 0.200274,
+      "cg_id": "lobster-2"
     }
   ]
 }
