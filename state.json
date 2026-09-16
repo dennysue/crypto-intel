@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-09-16",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555": 1789527544,
     "new:robinhood:0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777": 1789527544,
     "radar:akedo": 1789527545,
-    "radar:lobster-2": 1789527545
+    "radar:lobster-2": 1789527545,
+    "new:arc:0x44b453d355835ce1269fc11d3fa4161c0dcc0087": 1789547179
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -44,24 +45,6 @@
     "newlist:OKX现货:VVV": 1789484727
   },
   "history": [
-    {
-      "key": "new:robinhood:0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47",
-      "ts": 1789275226,
-      "type": "new",
-      "symbol": "GROK",
-      "name": "GROK",
-      "price": "0.0003214",
-      "address": "0xd9e82b01fbd8eb7a59d456fef3b56d39d90caa47"
-    },
-    {
-      "key": "new:robinhood:0xf0c2054db03cfda94894dda67c10a386450dc54c",
-      "ts": 1789275226,
-      "type": "new",
-      "symbol": "CC",
-      "name": "CC",
-      "price": "0.0003049",
-      "address": "0xf0c2054db03cfda94894dda67c10a386450dc54c"
-    },
     {
       "key": "new:robinhood:0x6e18092316ea42b17286cd8b6bf8185ef34999d3",
       "ts": 1789349754,
@@ -187,6 +170,15 @@
       "name": "龙虾 (Lobster)",
       "price": 0.200274,
       "cg_id": "lobster-2"
+    },
+    {
+      "key": "new:arc:0x44b453d355835ce1269fc11d3fa4161c0dcc0087",
+      "ts": 1789547179,
+      "type": "new",
+      "symbol": "LIFT",
+      "name": "LIFT",
+      "price": "0.009676",
+      "address": "0x44b453d355835ce1269fc11d3fa4161c0dcc0087"
     }
   ]
 }
