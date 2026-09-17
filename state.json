@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-16",
+  "cap_date": "2026-09-17",
   "cap_count": 5,
   "sent": {
-    "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555": 1789527544,
-    "new:robinhood:0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777": 1789527544,
-    "radar:akedo": 1789527545,
-    "radar:lobster-2": 1789527545,
-    "new:arc:0x44b453d355835ce1269fc11d3fa4161c0dcc0087": 1789547179
+    "new:arc:0x997caf127536de5410dc7a17a920d0a1223d866d": 1789608210,
+    "radar:bedrock-token": 1789608210,
+    "radar:derive": 1789608211,
+    "radar:anonymous-cat": 1789608211,
+    "radar:stonk-3": 1789608212
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -124,15 +124,6 @@
       "address": "0xff2692d5174e599e18430f14401ec98b243bfd41"
     },
     {
-      "key": "radar:bedrock-token",
-      "ts": 1789433218,
-      "type": "radar",
-      "symbol": "BR",
-      "name": "Bedrock",
-      "price": 0.531244,
-      "cg_id": "bedrock-token"
-    },
-    {
       "key": "radar:artificial-inu-3",
       "ts": 1789433219,
       "type": "radar",
@@ -185,6 +176,51 @@
       "name": "LIFT",
       "price": "0.009676",
       "address": "0x44b453d355835ce1269fc11d3fa4161c0dcc0087"
+    },
+    {
+      "key": "new:arc:0x997caf127536de5410dc7a17a920d0a1223d866d",
+      "ts": 1789608210,
+      "type": "new",
+      "symbol": "BARC",
+      "name": "BARC",
+      "price": "0.0006065",
+      "address": "0x997caf127536de5410dc7a17a920d0a1223d866d"
+    },
+    {
+      "key": "radar:bedrock-token",
+      "ts": 1789608210,
+      "type": "radar",
+      "symbol": "BR",
+      "name": "Bedrock",
+      "price": 0.652004,
+      "cg_id": "bedrock-token"
+    },
+    {
+      "key": "radar:derive",
+      "ts": 1789608211,
+      "type": "radar",
+      "symbol": "DRV",
+      "name": "Derive",
+      "price": 0.265012,
+      "cg_id": "derive"
+    },
+    {
+      "key": "radar:anonymous-cat",
+      "ts": 1789608211,
+      "type": "radar",
+      "symbol": "ZCAT",
+      "name": "Anonymous Cat",
+      "price": 0.128305,
+      "cg_id": "anonymous-cat"
+    },
+    {
+      "key": "radar:stonk-3",
+      "ts": 1789608212,
+      "type": "radar",
+      "symbol": "STONK",
+      "name": "STONK",
+      "price": 0.21328,
+      "cg_id": "stonk-3"
     }
   ]
 }
