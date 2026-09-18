@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-17",
+  "cap_date": "2026-09-18",
   "cap_count": 5,
   "sent": {
-    "new:arc:0x997caf127536de5410dc7a17a920d0a1223d866d": 1789608210,
-    "radar:bedrock-token": 1789608210,
-    "radar:derive": 1789608211,
-    "radar:anonymous-cat": 1789608211,
-    "radar:stonk-3": 1789608212
+    "new:solana:chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco": 1789691890,
+    "new:robinhood:0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48": 1789691890,
+    "new:robinhood:0x5d102d1e69e77591d486aa4f663b3645151bbdf6": 1789691891,
+    "radar:marscat-token": 1789691892,
+    "radar:artificial-inu-3": 1789691892
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -56,51 +56,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x6e18092316ea42b17286cd8b6bf8185ef34999d3",
-      "ts": 1789349754,
-      "type": "new",
-      "symbol": "RUFUS",
-      "name": "RUFUS",
-      "price": "0.0001501",
-      "address": "0x6e18092316ea42b17286cd8b6bf8185ef34999d3"
-    },
-    {
-      "key": "new:robinhood:0xe42b98a54912a910650431b3c44dd386134bba6b",
-      "ts": 1789349754,
-      "type": "new",
-      "symbol": "AICROWN",
-      "name": "AICROWN",
-      "price": "0.0001221",
-      "address": "0xe42b98a54912a910650431b3c44dd386134bba6b"
-    },
-    {
-      "key": "radar:lisk",
-      "ts": 1789349755,
-      "type": "radar",
-      "symbol": "LSK",
-      "name": "Lisk",
-      "price": 0.863609,
-      "cg_id": "lisk"
-    },
-    {
-      "key": "radar:filecoin",
-      "ts": 1789349756,
-      "type": "radar",
-      "symbol": "FIL",
-      "name": "Filecoin",
-      "price": 0.989184,
-      "cg_id": "filecoin"
-    },
-    {
-      "key": "radar:bitway",
-      "ts": 1789349756,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 0.671333,
-      "cg_id": "bitway"
-    },
-    {
       "key": "new:robinhood:0x948647a06a6422dceea3711297f82aef68ec641c",
       "ts": 1789433216,
       "type": "new",
@@ -126,15 +81,6 @@
       "name": "FOBE",
       "price": "0.0003449",
       "address": "0xff2692d5174e599e18430f14401ec98b243bfd41"
-    },
-    {
-      "key": "radar:artificial-inu-3",
-      "ts": 1789433219,
-      "type": "radar",
-      "symbol": "AI",
-      "name": "Artificial Inu",
-      "price": 0.298817,
-      "cg_id": "artificial-inu-3"
     },
     {
       "key": "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555",
@@ -225,6 +171,51 @@
       "name": "STONK",
       "price": 0.21328,
       "cg_id": "stonk-3"
+    },
+    {
+      "key": "new:solana:chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco",
+      "ts": 1789691890,
+      "type": "new",
+      "symbol": "COLOSSEUM",
+      "name": "COLOSSEUM",
+      "price": "0.0003338",
+      "address": "chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco"
+    },
+    {
+      "key": "new:robinhood:0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48",
+      "ts": 1789691890,
+      "type": "new",
+      "symbol": "NASH",
+      "name": "NASH",
+      "price": "0.0002055",
+      "address": "0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48"
+    },
+    {
+      "key": "new:robinhood:0x5d102d1e69e77591d486aa4f663b3645151bbdf6",
+      "ts": 1789691891,
+      "type": "new",
+      "symbol": "VOLT",
+      "name": "VOLT",
+      "price": "0.002610",
+      "address": "0x5d102d1e69e77591d486aa4f663b3645151bbdf6"
+    },
+    {
+      "key": "radar:marscat-token",
+      "ts": 1789691892,
+      "type": "radar",
+      "symbol": "MCAT",
+      "name": "Marscat Token",
+      "price": 0.705827,
+      "cg_id": "marscat-token"
+    },
+    {
+      "key": "radar:artificial-inu-3",
+      "ts": 1789691892,
+      "type": "radar",
+      "symbol": "AI",
+      "name": "Artificial Inu",
+      "price": 0.319851,
+      "cg_id": "artificial-inu-3"
     }
   ]
 }
