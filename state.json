@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-18",
+  "cap_date": "2026-09-19",
   "cap_count": 5,
   "sent": {
-    "new:solana:chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco": 1789691890,
-    "new:robinhood:0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48": 1789691890,
-    "new:robinhood:0x5d102d1e69e77591d486aa4f663b3645151bbdf6": 1789691891,
-    "radar:marscat-token": 1789691892,
-    "radar:artificial-inu-3": 1789691892
+    "new:robinhood:0x893427d3fe2bafa2138e5264029c77a3b733d343": 1789777427,
+    "radar:akedo": 1789777428,
+    "radar:derive": 1789777428,
+    "radar:starknet": 1789777429,
+    "radar:pearl-2": 1789777429
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -57,33 +57,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x948647a06a6422dceea3711297f82aef68ec641c",
-      "ts": 1789433216,
-      "type": "new",
-      "symbol": "WAIFU",
-      "name": "WAIFU",
-      "price": "0.0009925",
-      "address": "0x948647a06a6422dceea3711297f82aef68ec641c"
-    },
-    {
-      "key": "new:solana:dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn",
-      "ts": 1789433217,
-      "type": "new",
-      "symbol": "BASKET",
-      "name": "BASKET",
-      "price": "0.0002832",
-      "address": "dyqtjl5xvryv4ghrrt4cdgnyf5xhkihhg2wqokfzkgyn"
-    },
-    {
-      "key": "new:robinhood:0xff2692d5174e599e18430f14401ec98b243bfd41",
-      "ts": 1789433218,
-      "type": "new",
-      "symbol": "FOBE",
-      "name": "FOBE",
-      "price": "0.0003449",
-      "address": "0xff2692d5174e599e18430f14401ec98b243bfd41"
-    },
-    {
       "key": "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555",
       "ts": 1789527544,
       "type": "new",
@@ -100,15 +73,6 @@
       "name": "DECIST",
       "price": "0.0004669",
       "address": "0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777"
-    },
-    {
-      "key": "radar:akedo",
-      "ts": 1789527545,
-      "type": "radar",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "price": 0.02872694,
-      "cg_id": "akedo"
     },
     {
       "key": "radar:lobster-2",
@@ -145,15 +109,6 @@
       "name": "Bedrock",
       "price": 0.652004,
       "cg_id": "bedrock-token"
-    },
-    {
-      "key": "radar:derive",
-      "ts": 1789608211,
-      "type": "radar",
-      "symbol": "DRV",
-      "name": "Derive",
-      "price": 0.265012,
-      "cg_id": "derive"
     },
     {
       "key": "radar:anonymous-cat",
@@ -217,6 +172,51 @@
       "name": "Artificial Inu",
       "price": 0.319851,
       "cg_id": "artificial-inu-3"
+    },
+    {
+      "key": "new:robinhood:0x893427d3fe2bafa2138e5264029c77a3b733d343",
+      "ts": 1789777427,
+      "type": "new",
+      "symbol": "CWB",
+      "name": "CWB",
+      "price": "0.00009493",
+      "address": "0x893427d3fe2bafa2138e5264029c77a3b733d343"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1789777428,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.04694146,
+      "cg_id": "akedo"
+    },
+    {
+      "key": "radar:derive",
+      "ts": 1789777428,
+      "type": "radar",
+      "symbol": "DRV",
+      "name": "Derive",
+      "price": 0.41547,
+      "cg_id": "derive"
+    },
+    {
+      "key": "radar:starknet",
+      "ts": 1789777429,
+      "type": "radar",
+      "symbol": "STRK",
+      "name": "Starknet",
+      "price": 0.04377283,
+      "cg_id": "starknet"
+    },
+    {
+      "key": "radar:pearl-2",
+      "ts": 1789777429,
+      "type": "radar",
+      "symbol": "PRL",
+      "name": "Pearl",
+      "price": 1.14,
+      "cg_id": "pearl-2"
     }
   ]
 }
