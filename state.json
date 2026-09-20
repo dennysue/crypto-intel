@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-19",
+  "cap_date": "2026-09-20",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x893427d3fe2bafa2138e5264029c77a3b733d343": 1789777427,
-    "radar:akedo": 1789777428,
-    "radar:derive": 1789777428,
-    "radar:starknet": 1789777429,
-    "radar:pearl-2": 1789777429
+    "new:solana:dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump": 1789864896,
+    "new:robinhood:0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc": 1789864897,
+    "radar:blorb": 1789864897,
+    "radar:bedrock-token": 1789864898,
+    "radar:akedo": 1789864898
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -57,42 +57,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0xa4b0320fe6158823ce73a26300176747670b5555",
-      "ts": 1789527544,
-      "type": "new",
-      "symbol": "CATE",
-      "name": "CATE",
-      "price": "0.0005513",
-      "address": "0xa4b0320fe6158823ce73a26300176747670b5555"
-    },
-    {
-      "key": "new:robinhood:0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777",
-      "ts": 1789527544,
-      "type": "new",
-      "symbol": "DECIST",
-      "name": "DECIST",
-      "price": "0.0004669",
-      "address": "0x2d86b97b4d96dc1b1ca72e67f54a5dbc0d5d7777"
-    },
-    {
-      "key": "radar:lobster-2",
-      "ts": 1789527545,
-      "type": "radar",
-      "symbol": "龙虾",
-      "name": "龙虾 (Lobster)",
-      "price": 0.200274,
-      "cg_id": "lobster-2"
-    },
-    {
-      "key": "new:arc:0x44b453d355835ce1269fc11d3fa4161c0dcc0087",
-      "ts": 1789547179,
-      "type": "new",
-      "symbol": "LIFT",
-      "name": "LIFT",
-      "price": "0.009676",
-      "address": "0x44b453d355835ce1269fc11d3fa4161c0dcc0087"
-    },
-    {
       "key": "new:arc:0x997caf127536de5410dc7a17a920d0a1223d866d",
       "ts": 1789608210,
       "type": "new",
@@ -100,15 +64,6 @@
       "name": "BARC",
       "price": "0.0006065",
       "address": "0x997caf127536de5410dc7a17a920d0a1223d866d"
-    },
-    {
-      "key": "radar:bedrock-token",
-      "ts": 1789608210,
-      "type": "radar",
-      "symbol": "BR",
-      "name": "Bedrock",
-      "price": 0.652004,
-      "cg_id": "bedrock-token"
     },
     {
       "key": "radar:anonymous-cat",
@@ -183,15 +138,6 @@
       "address": "0x893427d3fe2bafa2138e5264029c77a3b733d343"
     },
     {
-      "key": "radar:akedo",
-      "ts": 1789777428,
-      "type": "radar",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "price": 0.04694146,
-      "cg_id": "akedo"
-    },
-    {
       "key": "radar:derive",
       "ts": 1789777428,
       "type": "radar",
@@ -217,6 +163,51 @@
       "name": "Pearl",
       "price": 1.14,
       "cg_id": "pearl-2"
+    },
+    {
+      "key": "new:solana:dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump",
+      "ts": 1789864896,
+      "type": "new",
+      "symbol": "JEANTRUMP",
+      "name": "JEANTRUMP",
+      "price": "0.0003407",
+      "address": "dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump"
+    },
+    {
+      "key": "new:robinhood:0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc",
+      "ts": 1789864897,
+      "type": "new",
+      "symbol": "USELESS",
+      "name": "USELESS",
+      "price": "0.001704",
+      "address": "0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc"
+    },
+    {
+      "key": "radar:blorb",
+      "ts": 1789864897,
+      "type": "radar",
+      "symbol": "BLORB",
+      "name": "BLORB",
+      "price": 0.234383,
+      "cg_id": "blorb"
+    },
+    {
+      "key": "radar:bedrock-token",
+      "ts": 1789864898,
+      "type": "radar",
+      "symbol": "BR",
+      "name": "Bedrock",
+      "price": 1.11,
+      "cg_id": "bedrock-token"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1789864898,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.064124,
+      "cg_id": "akedo"
     }
   ]
 }
