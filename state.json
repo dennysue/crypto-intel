@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-20",
+  "cap_date": "2026-09-21",
   "cap_count": 5,
   "sent": {
-    "new:solana:dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump": 1789864896,
-    "new:robinhood:0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc": 1789864897,
-    "radar:blorb": 1789864897,
-    "radar:bedrock-token": 1789864898,
-    "radar:akedo": 1789864898
+    "new:avalanche:0xe508ff190ce1d94edd1a28256eaeedfab7cc2222": 1789954618,
+    "new:solana:7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc": 1789954619,
+    "new:solana:gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2": 1789954619,
+    "new:robinhood:0x35fac68d9b2145fb11763895d69a030d4aa7210d": 1789954620,
+    "new:robinhood:0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a": 1789954620
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -56,78 +56,6 @@
     "newlist:Gate:LAPTOP": 1789761057
   },
   "history": [
-    {
-      "key": "new:arc:0x997caf127536de5410dc7a17a920d0a1223d866d",
-      "ts": 1789608210,
-      "type": "new",
-      "symbol": "BARC",
-      "name": "BARC",
-      "price": "0.0006065",
-      "address": "0x997caf127536de5410dc7a17a920d0a1223d866d"
-    },
-    {
-      "key": "radar:anonymous-cat",
-      "ts": 1789608211,
-      "type": "radar",
-      "symbol": "ZCAT",
-      "name": "Anonymous Cat",
-      "price": 0.128305,
-      "cg_id": "anonymous-cat"
-    },
-    {
-      "key": "radar:stonk-3",
-      "ts": 1789608212,
-      "type": "radar",
-      "symbol": "STONK",
-      "name": "STONK",
-      "price": 0.21328,
-      "cg_id": "stonk-3"
-    },
-    {
-      "key": "new:solana:chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco",
-      "ts": 1789691890,
-      "type": "new",
-      "symbol": "COLOSSEUM",
-      "name": "COLOSSEUM",
-      "price": "0.0003338",
-      "address": "chgkemqxuuggy9ng9x3penv1q2bhfngfhzmxjuowqtco"
-    },
-    {
-      "key": "new:robinhood:0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48",
-      "ts": 1789691890,
-      "type": "new",
-      "symbol": "NASH",
-      "name": "NASH",
-      "price": "0.0002055",
-      "address": "0x120d14576cf1f4c6942b0ea9e45d5d10aedd7a48"
-    },
-    {
-      "key": "new:robinhood:0x5d102d1e69e77591d486aa4f663b3645151bbdf6",
-      "ts": 1789691891,
-      "type": "new",
-      "symbol": "VOLT",
-      "name": "VOLT",
-      "price": "0.002610",
-      "address": "0x5d102d1e69e77591d486aa4f663b3645151bbdf6"
-    },
-    {
-      "key": "radar:marscat-token",
-      "ts": 1789691892,
-      "type": "radar",
-      "symbol": "MCAT",
-      "name": "Marscat Token",
-      "price": 0.705827,
-      "cg_id": "marscat-token"
-    },
-    {
-      "key": "radar:artificial-inu-3",
-      "ts": 1789691892,
-      "type": "radar",
-      "symbol": "AI",
-      "name": "Artificial Inu",
-      "price": 0.319851,
-      "cg_id": "artificial-inu-3"
-    },
     {
       "key": "new:robinhood:0x893427d3fe2bafa2138e5264029c77a3b733d343",
       "ts": 1789777427,
@@ -208,6 +136,51 @@
       "name": "Akedo",
       "price": 0.064124,
       "cg_id": "akedo"
+    },
+    {
+      "key": "new:avalanche:0xe508ff190ce1d94edd1a28256eaeedfab7cc2222",
+      "ts": 1789954618,
+      "type": "new",
+      "symbol": "SUMMIT",
+      "name": "SUMMIT",
+      "price": "0.1950",
+      "address": "0xe508ff190ce1d94edd1a28256eaeedfab7cc2222"
+    },
+    {
+      "key": "new:solana:7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc",
+      "ts": 1789954619,
+      "type": "new",
+      "symbol": "ACAT",
+      "name": "ACAT",
+      "price": "0.0009859",
+      "address": "7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc"
+    },
+    {
+      "key": "new:solana:gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2",
+      "ts": 1789954619,
+      "type": "new",
+      "symbol": "🔺",
+      "name": "🔺",
+      "price": "0.0004924",
+      "address": "gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2"
+    },
+    {
+      "key": "new:robinhood:0x35fac68d9b2145fb11763895d69a030d4aa7210d",
+      "ts": 1789954620,
+      "type": "new",
+      "symbol": "TERMINATOR",
+      "name": "TERMINATOR",
+      "price": "0.0001375",
+      "address": "0x35fac68d9b2145fb11763895d69a030d4aa7210d"
+    },
+    {
+      "key": "new:robinhood:0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a",
+      "ts": 1789954620,
+      "type": "new",
+      "symbol": "PRAY",
+      "name": "PRAY",
+      "price": "0.0001098",
+      "address": "0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a"
     }
   ]
 }
