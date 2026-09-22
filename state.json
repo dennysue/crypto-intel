@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-21",
+  "cap_date": "2026-09-22",
   "cap_count": 5,
   "sent": {
-    "new:avalanche:0xe508ff190ce1d94edd1a28256eaeedfab7cc2222": 1789954618,
-    "new:solana:7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc": 1789954619,
-    "new:solana:gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2": 1789954619,
-    "new:robinhood:0x35fac68d9b2145fb11763895d69a030d4aa7210d": 1789954620,
-    "new:robinhood:0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a": 1789954620
+    "new:base:0x798b24ba106188002ea1349654be2b0d515c7777": 1790039634,
+    "new:solana:avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz": 1790039635,
+    "radar:aioz-network": 1790039635,
+    "radar:four": 1790039636,
+    "radar:pepe": 1790039637
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -61,42 +61,6 @@
     "newlist:OKX合约:TEM": 1790030496
   },
   "history": [
-    {
-      "key": "new:robinhood:0x893427d3fe2bafa2138e5264029c77a3b733d343",
-      "ts": 1789777427,
-      "type": "new",
-      "symbol": "CWB",
-      "name": "CWB",
-      "price": "0.00009493",
-      "address": "0x893427d3fe2bafa2138e5264029c77a3b733d343"
-    },
-    {
-      "key": "radar:derive",
-      "ts": 1789777428,
-      "type": "radar",
-      "symbol": "DRV",
-      "name": "Derive",
-      "price": 0.41547,
-      "cg_id": "derive"
-    },
-    {
-      "key": "radar:starknet",
-      "ts": 1789777429,
-      "type": "radar",
-      "symbol": "STRK",
-      "name": "Starknet",
-      "price": 0.04377283,
-      "cg_id": "starknet"
-    },
-    {
-      "key": "radar:pearl-2",
-      "ts": 1789777429,
-      "type": "radar",
-      "symbol": "PRL",
-      "name": "Pearl",
-      "price": 1.14,
-      "cg_id": "pearl-2"
-    },
     {
       "key": "new:solana:dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump",
       "ts": 1789864896,
@@ -186,6 +150,51 @@
       "name": "PRAY",
       "price": "0.0001098",
       "address": "0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a"
+    },
+    {
+      "key": "new:base:0x798b24ba106188002ea1349654be2b0d515c7777",
+      "ts": 1790039634,
+      "type": "new",
+      "symbol": "VDINO",
+      "name": "VDINO",
+      "price": "0.0002918",
+      "address": "0x798b24ba106188002ea1349654be2b0d515c7777"
+    },
+    {
+      "key": "new:solana:avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz",
+      "ts": 1790039635,
+      "type": "new",
+      "symbol": "SUIT",
+      "name": "SUIT",
+      "price": "0.0004366",
+      "address": "avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz"
+    },
+    {
+      "key": "radar:aioz-network",
+      "ts": 1790039635,
+      "type": "radar",
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "price": 0.133995,
+      "cg_id": "aioz-network"
+    },
+    {
+      "key": "radar:four",
+      "ts": 1790039636,
+      "type": "radar",
+      "symbol": "FORM",
+      "name": "Four",
+      "price": 0.359693,
+      "cg_id": "four"
+    },
+    {
+      "key": "radar:pepe",
+      "ts": 1790039637,
+      "type": "radar",
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "price": 5.01e-06,
+      "cg_id": "pepe"
     }
   ]
 }
