@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-22",
+  "cap_date": "2026-09-23",
   "cap_count": 5,
   "sent": {
-    "new:base:0x798b24ba106188002ea1349654be2b0d515c7777": 1790039634,
-    "new:solana:avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz": 1790039635,
-    "radar:aioz-network": 1790039635,
-    "radar:four": 1790039636,
-    "radar:pepe": 1790039637
+    "new:robinhood:0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5": 1790123903,
+    "radar:marscoin-4": 1790123903,
+    "radar:bitcoin-cash": 1790123904,
+    "radar:pearl-2": 1790123905,
+    "radar:mina-protocol": 1790123906
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -58,7 +58,9 @@
     "newlist:OKX合约:HUT": 1790030494,
     "newlist:OKX合约:OKLO": 1790030495,
     "newlist:OKX合约:TEAM": 1790030496,
-    "newlist:OKX合约:TEM": 1790030496
+    "newlist:OKX合约:TEM": 1790030496,
+    "newlist:Gate:FXNW": 1790123901,
+    "newlist:Gate:GSTOCKBSC": 1790123902
   },
   "history": [
     {
@@ -195,6 +197,51 @@
       "name": "Pepe",
       "price": 5.01e-06,
       "cg_id": "pepe"
+    },
+    {
+      "key": "new:robinhood:0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5",
+      "ts": 1790123903,
+      "type": "new",
+      "symbol": "SRI",
+      "name": "SRI",
+      "price": "0.0004563",
+      "address": "0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5"
+    },
+    {
+      "key": "radar:marscoin-4",
+      "ts": 1790123903,
+      "type": "radar",
+      "symbol": "MARSCOIN",
+      "name": "MarsCoin",
+      "price": 0.135569,
+      "cg_id": "marscoin-4"
+    },
+    {
+      "key": "radar:bitcoin-cash",
+      "ts": 1790123904,
+      "type": "radar",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "price": 345.22,
+      "cg_id": "bitcoin-cash"
+    },
+    {
+      "key": "radar:pearl-2",
+      "ts": 1790123905,
+      "type": "radar",
+      "symbol": "PRL",
+      "name": "Pearl",
+      "price": 1.31,
+      "cg_id": "pearl-2"
+    },
+    {
+      "key": "radar:mina-protocol",
+      "ts": 1790123906,
+      "type": "radar",
+      "symbol": "MINA",
+      "name": "Mina Protocol",
+      "price": 0.157028,
+      "cg_id": "mina-protocol"
     }
   ]
 }
