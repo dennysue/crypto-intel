@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-09-23",
-  "cap_count": 5,
+  "cap_date": "2026-09-24",
+  "cap_count": 3,
   "sent": {
-    "new:robinhood:0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5": 1790123903,
-    "radar:marscoin-4": 1790123903,
-    "radar:bitcoin-cash": 1790123904,
-    "radar:pearl-2": 1790123905,
-    "radar:mina-protocol": 1790123906
+    "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump": 1790208014,
+    "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d": 1790208014,
+    "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4": 1790208015
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -63,51 +61,6 @@
     "newlist:Gate:GSTOCKBSC": 1790123902
   },
   "history": [
-    {
-      "key": "new:solana:dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump",
-      "ts": 1789864896,
-      "type": "new",
-      "symbol": "JEANTRUMP",
-      "name": "JEANTRUMP",
-      "price": "0.0003407",
-      "address": "dgaey7sl4fwyqgudvya5a3yze2vnhtel5iejci79pump"
-    },
-    {
-      "key": "new:robinhood:0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc",
-      "ts": 1789864897,
-      "type": "new",
-      "symbol": "USELESS",
-      "name": "USELESS",
-      "price": "0.001704",
-      "address": "0x5e4a5b4fcf19ba5e43789b2368e542ea5dc38ecc"
-    },
-    {
-      "key": "radar:blorb",
-      "ts": 1789864897,
-      "type": "radar",
-      "symbol": "BLORB",
-      "name": "BLORB",
-      "price": 0.234383,
-      "cg_id": "blorb"
-    },
-    {
-      "key": "radar:bedrock-token",
-      "ts": 1789864898,
-      "type": "radar",
-      "symbol": "BR",
-      "name": "Bedrock",
-      "price": 1.11,
-      "cg_id": "bedrock-token"
-    },
-    {
-      "key": "radar:akedo",
-      "ts": 1789864898,
-      "type": "radar",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "price": 0.064124,
-      "cg_id": "akedo"
-    },
     {
       "key": "new:avalanche:0xe508ff190ce1d94edd1a28256eaeedfab7cc2222",
       "ts": 1789954618,
@@ -242,6 +195,33 @@
       "name": "Mina Protocol",
       "price": 0.157028,
       "cg_id": "mina-protocol"
+    },
+    {
+      "key": "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump",
+      "ts": 1790208014,
+      "type": "new",
+      "symbol": "FAMILIARS",
+      "name": "FAMILIARS",
+      "price": "0.0008259",
+      "address": "2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump"
+    },
+    {
+      "key": "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d",
+      "ts": 1790208014,
+      "type": "new",
+      "symbol": "IMDSTRTGY",
+      "name": "IMDSTRTGY",
+      "price": "0.001340",
+      "address": "0x97a5d4306a99571ecce5c2448ebfad85d7a8321d"
+    },
+    {
+      "key": "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4",
+      "ts": 1790208015,
+      "type": "new",
+      "symbol": "GAYMF",
+      "name": "GAYMF",
+      "price": "0.0004671",
+      "address": "74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4"
     }
   ]
 }
