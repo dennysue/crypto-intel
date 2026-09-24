@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-09-24",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump": 1790208014,
     "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d": 1790208014,
     "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4": 1790208015,
-    "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a": 1790224738
+    "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a": 1790224738,
+    "new:unichain:0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d": 1790242297
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -66,7 +67,8 @@
     "newlist:OKX合约:GTLB": 1790224736,
     "newlist:OKX合约:KSTR": 1790224736,
     "newlist:OKX合约:MSTU": 1790224737,
-    "newlist:OKX合约:OURA": 1790224738
+    "newlist:OKX合约:OURA": 1790224738,
+    "listing:285492": 1790242297
   },
   "history": [
     {
@@ -194,6 +196,15 @@
       "name": "UP",
       "price": "0.0004759",
       "address": "0x57413b9db50405bf7258d5cadbb80b9d5d63a00a"
+    },
+    {
+      "key": "new:unichain:0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d",
+      "ts": 1790242297,
+      "type": "new",
+      "symbol": "CRED",
+      "name": "CRED",
+      "price": "0.1928",
+      "address": "0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d"
     }
   ]
 }
