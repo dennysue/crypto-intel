@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-09-24",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump": 1790208014,
     "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d": 1790208014,
-    "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4": 1790208015
+    "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4": 1790208015,
+    "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a": 1790224738
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -58,54 +59,16 @@
     "newlist:OKX合约:TEAM": 1790030496,
     "newlist:OKX合约:TEM": 1790030496,
     "newlist:Gate:FXNW": 1790123901,
-    "newlist:Gate:GSTOCKBSC": 1790123902
+    "newlist:Gate:GSTOCKBSC": 1790123902,
+    "newlist:Gate:BELONG": 1790224734,
+    "newlist:Gate:MUSEBOOK": 1790224735,
+    "newlist:OKX合约:CYPH": 1790224735,
+    "newlist:OKX合约:GTLB": 1790224736,
+    "newlist:OKX合约:KSTR": 1790224736,
+    "newlist:OKX合约:MSTU": 1790224737,
+    "newlist:OKX合约:OURA": 1790224738
   },
   "history": [
-    {
-      "key": "new:avalanche:0xe508ff190ce1d94edd1a28256eaeedfab7cc2222",
-      "ts": 1789954618,
-      "type": "new",
-      "symbol": "SUMMIT",
-      "name": "SUMMIT",
-      "price": "0.1950",
-      "address": "0xe508ff190ce1d94edd1a28256eaeedfab7cc2222"
-    },
-    {
-      "key": "new:solana:7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc",
-      "ts": 1789954619,
-      "type": "new",
-      "symbol": "ACAT",
-      "name": "ACAT",
-      "price": "0.0009859",
-      "address": "7uvlyn87lsxw2gdwdeeiwmsjwqlvrcvyo7srvclbbtgc"
-    },
-    {
-      "key": "new:solana:gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2",
-      "ts": 1789954619,
-      "type": "new",
-      "symbol": "🔺",
-      "name": "🔺",
-      "price": "0.0004924",
-      "address": "gyu4drnqnbam2mpbuxxp86eqvy4wxdxkopcxwn2x7af2"
-    },
-    {
-      "key": "new:robinhood:0x35fac68d9b2145fb11763895d69a030d4aa7210d",
-      "ts": 1789954620,
-      "type": "new",
-      "symbol": "TERMINATOR",
-      "name": "TERMINATOR",
-      "price": "0.0001375",
-      "address": "0x35fac68d9b2145fb11763895d69a030d4aa7210d"
-    },
-    {
-      "key": "new:robinhood:0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a",
-      "ts": 1789954620,
-      "type": "new",
-      "symbol": "PRAY",
-      "name": "PRAY",
-      "price": "0.0001098",
-      "address": "0x9f5a8b3a0ddec4412ab11d8d1e71c77e9de7d69a"
-    },
     {
       "key": "new:base:0x798b24ba106188002ea1349654be2b0d515c7777",
       "ts": 1790039634,
@@ -222,6 +185,15 @@
       "name": "GAYMF",
       "price": "0.0004671",
       "address": "74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4"
+    },
+    {
+      "key": "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a",
+      "ts": 1790224738,
+      "type": "new",
+      "symbol": "UP",
+      "name": "UP",
+      "price": "0.0004759",
+      "address": "0x57413b9db50405bf7258d5cadbb80b9d5d63a00a"
     }
   ]
 }
