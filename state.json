@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-24",
+  "cap_date": "2026-09-25",
   "cap_count": 5,
   "sent": {
-    "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump": 1790208014,
-    "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d": 1790208014,
-    "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4": 1790208015,
-    "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a": 1790224738,
-    "new:unichain:0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d": 1790242297
+    "radar:quant-network": 1790294537,
+    "radar:ondo-finance": 1790294538,
+    "radar:debridge": 1790294538,
+    "radar:backpack": 1790294539,
+    "radar:plasma": 1790294540
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -205,6 +205,51 @@
       "name": "CRED",
       "price": "0.1928",
       "address": "0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d"
+    },
+    {
+      "key": "radar:quant-network",
+      "ts": 1790294537,
+      "type": "radar",
+      "symbol": "QNT",
+      "name": "Quant",
+      "price": 90.28,
+      "cg_id": "quant-network"
+    },
+    {
+      "key": "radar:ondo-finance",
+      "ts": 1790294538,
+      "type": "radar",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "price": 0.521741,
+      "cg_id": "ondo-finance"
+    },
+    {
+      "key": "radar:debridge",
+      "ts": 1790294538,
+      "type": "radar",
+      "symbol": "DBR",
+      "name": "deBridge",
+      "price": 0.02538882,
+      "cg_id": "debridge"
+    },
+    {
+      "key": "radar:backpack",
+      "ts": 1790294539,
+      "type": "radar",
+      "symbol": "BP",
+      "name": "Backpack",
+      "price": 1.052,
+      "cg_id": "backpack"
+    },
+    {
+      "key": "radar:plasma",
+      "ts": 1790294540,
+      "type": "radar",
+      "symbol": "XPL",
+      "name": "Plasma",
+      "price": 0.110059,
+      "cg_id": "plasma"
     }
   ]
 }
