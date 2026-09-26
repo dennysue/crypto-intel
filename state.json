@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-25",
+  "cap_date": "2026-09-26",
   "cap_count": 5,
   "sent": {
-    "radar:quant-network": 1790294537,
-    "radar:ondo-finance": 1790294538,
-    "radar:debridge": 1790294538,
-    "radar:backpack": 1790294539,
-    "radar:plasma": 1790294540
+    "new:robinhood:0x81b2ae5f1c126dacbbb50572fd0ddf2272780910": 1790383175,
+    "new:robinhood:0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500": 1790383175,
+    "new:robinhood:0x70967c315d512396575dad69b2480d44c87d2b90": 1790383176,
+    "radar:bitway": 1790383177,
+    "radar:backpack": 1790383177
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -72,96 +72,6 @@
     "newlist:OKX合约:KII": 1790311736
   },
   "history": [
-    {
-      "key": "new:base:0x798b24ba106188002ea1349654be2b0d515c7777",
-      "ts": 1790039634,
-      "type": "new",
-      "symbol": "VDINO",
-      "name": "VDINO",
-      "price": "0.0002918",
-      "address": "0x798b24ba106188002ea1349654be2b0d515c7777"
-    },
-    {
-      "key": "new:solana:avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz",
-      "ts": 1790039635,
-      "type": "new",
-      "symbol": "SUIT",
-      "name": "SUIT",
-      "price": "0.0004366",
-      "address": "avxpqqxd32abap5f7shhknewbpos9miktdh3ukqgxyjz"
-    },
-    {
-      "key": "radar:aioz-network",
-      "ts": 1790039635,
-      "type": "radar",
-      "symbol": "AIOZ",
-      "name": "AIOZ Network",
-      "price": 0.133995,
-      "cg_id": "aioz-network"
-    },
-    {
-      "key": "radar:four",
-      "ts": 1790039636,
-      "type": "radar",
-      "symbol": "FORM",
-      "name": "Four",
-      "price": 0.359693,
-      "cg_id": "four"
-    },
-    {
-      "key": "radar:pepe",
-      "ts": 1790039637,
-      "type": "radar",
-      "symbol": "PEPE",
-      "name": "Pepe",
-      "price": 5.01e-06,
-      "cg_id": "pepe"
-    },
-    {
-      "key": "new:robinhood:0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5",
-      "ts": 1790123903,
-      "type": "new",
-      "symbol": "SRI",
-      "name": "SRI",
-      "price": "0.0004563",
-      "address": "0xec1f4e3d8b56ca94dc4b6c19eb354bee60ce98d5"
-    },
-    {
-      "key": "radar:marscoin-4",
-      "ts": 1790123903,
-      "type": "radar",
-      "symbol": "MARSCOIN",
-      "name": "MarsCoin",
-      "price": 0.135569,
-      "cg_id": "marscoin-4"
-    },
-    {
-      "key": "radar:bitcoin-cash",
-      "ts": 1790123904,
-      "type": "radar",
-      "symbol": "BCH",
-      "name": "Bitcoin Cash",
-      "price": 345.22,
-      "cg_id": "bitcoin-cash"
-    },
-    {
-      "key": "radar:pearl-2",
-      "ts": 1790123905,
-      "type": "radar",
-      "symbol": "PRL",
-      "name": "Pearl",
-      "price": 1.31,
-      "cg_id": "pearl-2"
-    },
-    {
-      "key": "radar:mina-protocol",
-      "ts": 1790123906,
-      "type": "radar",
-      "symbol": "MINA",
-      "name": "Mina Protocol",
-      "price": 0.157028,
-      "cg_id": "mina-protocol"
-    },
     {
       "key": "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump",
       "ts": 1790208014,
@@ -235,15 +145,6 @@
       "cg_id": "debridge"
     },
     {
-      "key": "radar:backpack",
-      "ts": 1790294539,
-      "type": "radar",
-      "symbol": "BP",
-      "name": "Backpack",
-      "price": 1.052,
-      "cg_id": "backpack"
-    },
-    {
       "key": "radar:plasma",
       "ts": 1790294540,
       "type": "radar",
@@ -251,6 +152,51 @@
       "name": "Plasma",
       "price": 0.110059,
       "cg_id": "plasma"
+    },
+    {
+      "key": "new:robinhood:0x81b2ae5f1c126dacbbb50572fd0ddf2272780910",
+      "ts": 1790383175,
+      "type": "new",
+      "symbol": "HO",
+      "name": "HO",
+      "price": "0.00009096",
+      "address": "0x81b2ae5f1c126dacbbb50572fd0ddf2272780910"
+    },
+    {
+      "key": "new:robinhood:0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500",
+      "ts": 1790383175,
+      "type": "new",
+      "symbol": "GRACE",
+      "name": "GRACE",
+      "price": "0.0002948",
+      "address": "0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500"
+    },
+    {
+      "key": "new:robinhood:0x70967c315d512396575dad69b2480d44c87d2b90",
+      "ts": 1790383176,
+      "type": "new",
+      "symbol": "JAN",
+      "name": "JAN",
+      "price": "0.0001881",
+      "address": "0x70967c315d512396575dad69b2480d44c87d2b90"
+    },
+    {
+      "key": "radar:bitway",
+      "ts": 1790383177,
+      "type": "radar",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "price": 1.33,
+      "cg_id": "bitway"
+    },
+    {
+      "key": "radar:backpack",
+      "ts": 1790383177,
+      "type": "radar",
+      "symbol": "BP",
+      "name": "Backpack",
+      "price": 1.32,
+      "cg_id": "backpack"
     }
   ]
 }
