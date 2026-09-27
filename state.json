@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-26",
+  "cap_date": "2026-09-27",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x81b2ae5f1c126dacbbb50572fd0ddf2272780910": 1790383175,
-    "new:robinhood:0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500": 1790383175,
-    "new:robinhood:0x70967c315d512396575dad69b2480d44c87d2b90": 1790383176,
-    "radar:bitway": 1790383177,
-    "radar:backpack": 1790383177
+    "new:solana:bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump": 1790472204,
+    "new:solana:daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn": 1790472204,
+    "new:robinhood:0x692c8d95d78f4d709bb14e9aa1aacb47f320935b": 1790472205,
+    "new:robinhood:0x8132f4a899766c31f70d46e8efd2a5fc5b372715": 1790472206,
+    "radar:quant-network": 1790472206
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -73,33 +73,6 @@
   },
   "history": [
     {
-      "key": "new:solana:2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump",
-      "ts": 1790208014,
-      "type": "new",
-      "symbol": "FAMILIARS",
-      "name": "FAMILIARS",
-      "price": "0.0008259",
-      "address": "2penpmfgjfq6cg3k4byj4owwhf8serqakmyhmkuupump"
-    },
-    {
-      "key": "new:robinhood:0x97a5d4306a99571ecce5c2448ebfad85d7a8321d",
-      "ts": 1790208014,
-      "type": "new",
-      "symbol": "IMDSTRTGY",
-      "name": "IMDSTRTGY",
-      "price": "0.001340",
-      "address": "0x97a5d4306a99571ecce5c2448ebfad85d7a8321d"
-    },
-    {
-      "key": "new:solana:74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4",
-      "ts": 1790208015,
-      "type": "new",
-      "symbol": "GAYMF",
-      "name": "GAYMF",
-      "price": "0.0004671",
-      "address": "74shnxtvdhzvw4adktjgfhpznycv8ihvfhlpp6qzpdt4"
-    },
-    {
       "key": "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a",
       "ts": 1790224738,
       "type": "new",
@@ -116,15 +89,6 @@
       "name": "CRED",
       "price": "0.1928",
       "address": "0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d"
-    },
-    {
-      "key": "radar:quant-network",
-      "ts": 1790294537,
-      "type": "radar",
-      "symbol": "QNT",
-      "name": "Quant",
-      "price": 90.28,
-      "cg_id": "quant-network"
     },
     {
       "key": "radar:ondo-finance",
@@ -197,6 +161,51 @@
       "name": "Backpack",
       "price": 1.32,
       "cg_id": "backpack"
+    },
+    {
+      "key": "new:solana:bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump",
+      "ts": 1790472204,
+      "type": "new",
+      "symbol": "A/ACC",
+      "name": "A/ACC",
+      "price": "0.0004559",
+      "address": "bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump"
+    },
+    {
+      "key": "new:solana:daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn",
+      "ts": 1790472204,
+      "type": "new",
+      "symbol": "CAKE",
+      "name": "CAKE",
+      "price": "0.0008079",
+      "address": "daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn"
+    },
+    {
+      "key": "new:robinhood:0x692c8d95d78f4d709bb14e9aa1aacb47f320935b",
+      "ts": 1790472205,
+      "type": "new",
+      "symbol": "AURA",
+      "name": "AURA",
+      "price": "0.0003210",
+      "address": "0x692c8d95d78f4d709bb14e9aa1aacb47f320935b"
+    },
+    {
+      "key": "new:robinhood:0x8132f4a899766c31f70d46e8efd2a5fc5b372715",
+      "ts": 1790472206,
+      "type": "new",
+      "symbol": "RANDOMCOIN",
+      "name": "RANDOMCOIN",
+      "price": "0.0002149",
+      "address": "0x8132f4a899766c31f70d46e8efd2a5fc5b372715"
+    },
+    {
+      "key": "radar:quant-network",
+      "ts": 1790472206,
+      "type": "radar",
+      "symbol": "QNT",
+      "name": "Quant",
+      "price": 169.93,
+      "cg_id": "quant-network"
     }
   ]
 }
