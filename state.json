@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-27",
+  "cap_date": "2026-09-28",
   "cap_count": 5,
   "sent": {
-    "new:solana:bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump": 1790472204,
-    "new:solana:daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn": 1790472204,
-    "new:robinhood:0x692c8d95d78f4d709bb14e9aa1aacb47f320935b": 1790472205,
-    "new:robinhood:0x8132f4a899766c31f70d46e8efd2a5fc5b372715": 1790472206,
-    "radar:quant-network": 1790472206
+    "new:solana:dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q": 1790559353,
+    "new:solana:e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump": 1790559354,
+    "new:robinhood:0x430af05ce727df22302102efb168a1c4e97a3c7f": 1790559355,
+    "radar:shuffle-2": 1790559355,
+    "radar:quant-network": 1790559356
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -72,51 +72,6 @@
     "newlist:OKX合约:KII": 1790311736
   },
   "history": [
-    {
-      "key": "new:robinhood:0x57413b9db50405bf7258d5cadbb80b9d5d63a00a",
-      "ts": 1790224738,
-      "type": "new",
-      "symbol": "UP",
-      "name": "UP",
-      "price": "0.0004759",
-      "address": "0x57413b9db50405bf7258d5cadbb80b9d5d63a00a"
-    },
-    {
-      "key": "new:unichain:0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d",
-      "ts": 1790242297,
-      "type": "new",
-      "symbol": "CRED",
-      "name": "CRED",
-      "price": "0.1928",
-      "address": "0x0fbc2fc1366d5ba517e6ca5a304c10359f554e0d"
-    },
-    {
-      "key": "radar:ondo-finance",
-      "ts": 1790294538,
-      "type": "radar",
-      "symbol": "ONDO",
-      "name": "Ondo",
-      "price": 0.521741,
-      "cg_id": "ondo-finance"
-    },
-    {
-      "key": "radar:debridge",
-      "ts": 1790294538,
-      "type": "radar",
-      "symbol": "DBR",
-      "name": "deBridge",
-      "price": 0.02538882,
-      "cg_id": "debridge"
-    },
-    {
-      "key": "radar:plasma",
-      "ts": 1790294540,
-      "type": "radar",
-      "symbol": "XPL",
-      "name": "Plasma",
-      "price": 0.110059,
-      "cg_id": "plasma"
-    },
     {
       "key": "new:robinhood:0x81b2ae5f1c126dacbbb50572fd0ddf2272780910",
       "ts": 1790383175,
@@ -199,12 +154,48 @@
       "address": "0x8132f4a899766c31f70d46e8efd2a5fc5b372715"
     },
     {
+      "key": "new:solana:dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q",
+      "ts": 1790559353,
+      "type": "new",
+      "symbol": "ZMR",
+      "name": "ZMR",
+      "price": "0.0004091",
+      "address": "dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q"
+    },
+    {
+      "key": "new:solana:e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump",
+      "ts": 1790559354,
+      "type": "new",
+      "symbol": "BOB",
+      "name": "BOB",
+      "price": "0.0004284",
+      "address": "e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump"
+    },
+    {
+      "key": "new:robinhood:0x430af05ce727df22302102efb168a1c4e97a3c7f",
+      "ts": 1790559355,
+      "type": "new",
+      "symbol": "SLOPCORE",
+      "name": "SLOPCORE",
+      "price": "0.0002064",
+      "address": "0x430af05ce727df22302102efb168a1c4e97a3c7f"
+    },
+    {
+      "key": "radar:shuffle-2",
+      "ts": 1790559355,
+      "type": "radar",
+      "symbol": "SHFL",
+      "name": "Shuffle",
+      "price": 0.647004,
+      "cg_id": "shuffle-2"
+    },
+    {
       "key": "radar:quant-network",
-      "ts": 1790472206,
+      "ts": 1790559356,
       "type": "radar",
       "symbol": "QNT",
       "name": "Quant",
-      "price": 169.93,
+      "price": 263.9,
       "cg_id": "quant-network"
     }
   ]
