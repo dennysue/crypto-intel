@@ -1,10 +1,13 @@
 {
   "cap_date": "2026-09-29",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25": 1790644427,
     "radar:marscoin-4": 1790644428,
-    "radar:hedera-hashgraph": 1790644428
+    "radar:hedera-hashgraph": 1790644428,
+    "err:coingecko": 1790665141,
+    "new:bsc:0x36a376338af174e680aa35a5f1024f0fd9cb7777": 1790665146,
+    "new:solana:7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks": 1790665146
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -178,6 +181,24 @@
       "name": "Hedera",
       "price": 0.119554,
       "cg_id": "hedera-hashgraph"
+    },
+    {
+      "key": "new:bsc:0x36a376338af174e680aa35a5f1024f0fd9cb7777",
+      "ts": 1790665146,
+      "type": "new",
+      "symbol": "企鹅",
+      "name": "企鹅",
+      "price": "0.0003675",
+      "address": "0x36a376338af174e680aa35a5f1024f0fd9cb7777"
+    },
+    {
+      "key": "new:solana:7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks",
+      "ts": 1790665146,
+      "type": "new",
+      "symbol": "DOTS",
+      "name": "DOTS",
+      "price": "0.0003181",
+      "address": "7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks"
     }
   ]
 }
