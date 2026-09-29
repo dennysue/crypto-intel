@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-09-28",
-  "cap_count": 5,
+  "cap_date": "2026-09-29",
+  "cap_count": 3,
   "sent": {
-    "new:solana:dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q": 1790559353,
-    "new:solana:e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump": 1790559354,
-    "new:robinhood:0x430af05ce727df22302102efb168a1c4e97a3c7f": 1790559355,
-    "radar:shuffle-2": 1790559355,
-    "radar:quant-network": 1790559356
+    "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25": 1790644427,
+    "radar:marscoin-4": 1790644428,
+    "radar:hedera-hashgraph": 1790644428
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -73,51 +71,6 @@
     "newlist:OKX现货:XDP": 1790580910
   },
   "history": [
-    {
-      "key": "new:robinhood:0x81b2ae5f1c126dacbbb50572fd0ddf2272780910",
-      "ts": 1790383175,
-      "type": "new",
-      "symbol": "HO",
-      "name": "HO",
-      "price": "0.00009096",
-      "address": "0x81b2ae5f1c126dacbbb50572fd0ddf2272780910"
-    },
-    {
-      "key": "new:robinhood:0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500",
-      "ts": 1790383175,
-      "type": "new",
-      "symbol": "GRACE",
-      "name": "GRACE",
-      "price": "0.0002948",
-      "address": "0x2bd96e4f3c5aeb4d025e7cf98467ab7a9f30f500"
-    },
-    {
-      "key": "new:robinhood:0x70967c315d512396575dad69b2480d44c87d2b90",
-      "ts": 1790383176,
-      "type": "new",
-      "symbol": "JAN",
-      "name": "JAN",
-      "price": "0.0001881",
-      "address": "0x70967c315d512396575dad69b2480d44c87d2b90"
-    },
-    {
-      "key": "radar:bitway",
-      "ts": 1790383177,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 1.33,
-      "cg_id": "bitway"
-    },
-    {
-      "key": "radar:backpack",
-      "ts": 1790383177,
-      "type": "radar",
-      "symbol": "BP",
-      "name": "Backpack",
-      "price": 1.32,
-      "cg_id": "backpack"
-    },
     {
       "key": "new:solana:bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump",
       "ts": 1790472204,
@@ -198,6 +151,33 @@
       "name": "Quant",
       "price": 263.9,
       "cg_id": "quant-network"
+    },
+    {
+      "key": "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25",
+      "ts": 1790644427,
+      "type": "new",
+      "symbol": "FLAPPY",
+      "name": "FLAPPY",
+      "price": "0.001580",
+      "address": "0x0ce9145e8ed68f1bea0b7088d96459f107c18b25"
+    },
+    {
+      "key": "radar:marscoin-4",
+      "ts": 1790644428,
+      "type": "radar",
+      "symbol": "MARSCOIN",
+      "name": "MarsCoin",
+      "price": 0.157658,
+      "cg_id": "marscoin-4"
+    },
+    {
+      "key": "radar:hedera-hashgraph",
+      "ts": 1790644428,
+      "type": "radar",
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "price": 0.119554,
+      "cg_id": "hedera-hashgraph"
     }
   ]
 }
