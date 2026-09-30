@@ -1,13 +1,12 @@
 {
-  "cap_date": "2026-09-29",
+  "cap_date": "2026-09-30",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25": 1790644427,
-    "radar:marscoin-4": 1790644428,
-    "radar:hedera-hashgraph": 1790644428,
-    "err:coingecko": 1790665141,
-    "new:bsc:0x36a376338af174e680aa35a5f1024f0fd9cb7777": 1790665146,
-    "new:solana:7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks": 1790665146
+    "new:robinhood:0x50cfaa481026900994ccd3d8279824cfabc7d07f": 1790732996,
+    "new:robinhood:0xb274622368b9518ae02129de5a67bf9a3449f861": 1790732996,
+    "radar:soon-2": 1790732997,
+    "radar:stonk-3": 1790732997,
+    "radar:quant-network": 1790732998
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -85,42 +84,6 @@
   },
   "history": [
     {
-      "key": "new:solana:bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump",
-      "ts": 1790472204,
-      "type": "new",
-      "symbol": "A/ACC",
-      "name": "A/ACC",
-      "price": "0.0004559",
-      "address": "bulbq4j9wu6r63idgdqvsjt6i3nkstxgyj7qqcdpump"
-    },
-    {
-      "key": "new:solana:daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn",
-      "ts": 1790472204,
-      "type": "new",
-      "symbol": "CAKE",
-      "name": "CAKE",
-      "price": "0.0008079",
-      "address": "daempfnc3rtibbdkkua4el2ns11q9vrdbpptmqm8dgqn"
-    },
-    {
-      "key": "new:robinhood:0x692c8d95d78f4d709bb14e9aa1aacb47f320935b",
-      "ts": 1790472205,
-      "type": "new",
-      "symbol": "AURA",
-      "name": "AURA",
-      "price": "0.0003210",
-      "address": "0x692c8d95d78f4d709bb14e9aa1aacb47f320935b"
-    },
-    {
-      "key": "new:robinhood:0x8132f4a899766c31f70d46e8efd2a5fc5b372715",
-      "ts": 1790472206,
-      "type": "new",
-      "symbol": "RANDOMCOIN",
-      "name": "RANDOMCOIN",
-      "price": "0.0002149",
-      "address": "0x8132f4a899766c31f70d46e8efd2a5fc5b372715"
-    },
-    {
       "key": "new:solana:dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q",
       "ts": 1790559353,
       "type": "new",
@@ -155,15 +118,6 @@
       "name": "Shuffle",
       "price": 0.647004,
       "cg_id": "shuffle-2"
-    },
-    {
-      "key": "radar:quant-network",
-      "ts": 1790559356,
-      "type": "radar",
-      "symbol": "QNT",
-      "name": "Quant",
-      "price": 263.9,
-      "cg_id": "quant-network"
     },
     {
       "key": "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25",
@@ -209,6 +163,51 @@
       "name": "DOTS",
       "price": "0.0003181",
       "address": "7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks"
+    },
+    {
+      "key": "new:robinhood:0x50cfaa481026900994ccd3d8279824cfabc7d07f",
+      "ts": 1790732996,
+      "type": "new",
+      "symbol": "NEPTUNE",
+      "name": "NEPTUNE",
+      "price": "0.0002521",
+      "address": "0x50cfaa481026900994ccd3d8279824cfabc7d07f"
+    },
+    {
+      "key": "new:robinhood:0xb274622368b9518ae02129de5a67bf9a3449f861",
+      "ts": 1790732996,
+      "type": "new",
+      "symbol": "NUTFLEX",
+      "name": "NUTFLEX",
+      "price": "0.0002056",
+      "address": "0xb274622368b9518ae02129de5a67bf9a3449f861"
+    },
+    {
+      "key": "radar:soon-2",
+      "ts": 1790732997,
+      "type": "radar",
+      "symbol": "SOON",
+      "name": "SOON",
+      "price": 0.413764,
+      "cg_id": "soon-2"
+    },
+    {
+      "key": "radar:stonk-3",
+      "ts": 1790732997,
+      "type": "radar",
+      "symbol": "STONK",
+      "name": "STONK",
+      "price": 0.310809,
+      "cg_id": "stonk-3"
+    },
+    {
+      "key": "radar:quant-network",
+      "ts": 1790732998,
+      "type": "radar",
+      "symbol": "QNT",
+      "name": "Quant",
+      "price": 278.09,
+      "cg_id": "quant-network"
     }
   ]
 }
