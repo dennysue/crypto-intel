@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-09-30",
+  "cap_date": "2026-10-01",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x50cfaa481026900994ccd3d8279824cfabc7d07f": 1790732996,
-    "new:robinhood:0xb274622368b9518ae02129de5a67bf9a3449f861": 1790732996,
-    "radar:soon-2": 1790732997,
-    "radar:stonk-3": 1790732997,
-    "radar:quant-network": 1790732998
+    "new:robinhood:0x60042b65a0c0a90ba75d17879850b6f99d9422eb": 1790820289,
+    "new:solana:dkqyd9q2p7vsruikhj54wu4f9cbyqrucrkfewg3dpump": 1790820289,
+    "radar:origintrail": 1790820290,
+    "radar:soon-2": 1790820290,
+    "radar:backpack": 1790820291
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -88,42 +88,6 @@
   },
   "history": [
     {
-      "key": "new:solana:dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q",
-      "ts": 1790559353,
-      "type": "new",
-      "symbol": "ZMR",
-      "name": "ZMR",
-      "price": "0.0004091",
-      "address": "dborvzyrjmbhqrygavalmhirkqwe6bwp1rth7sgysk6q"
-    },
-    {
-      "key": "new:solana:e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump",
-      "ts": 1790559354,
-      "type": "new",
-      "symbol": "BOB",
-      "name": "BOB",
-      "price": "0.0004284",
-      "address": "e4vwsenwpkbxznxyv3msvlczyhu5sxrj1qwxeycypump"
-    },
-    {
-      "key": "new:robinhood:0x430af05ce727df22302102efb168a1c4e97a3c7f",
-      "ts": 1790559355,
-      "type": "new",
-      "symbol": "SLOPCORE",
-      "name": "SLOPCORE",
-      "price": "0.0002064",
-      "address": "0x430af05ce727df22302102efb168a1c4e97a3c7f"
-    },
-    {
-      "key": "radar:shuffle-2",
-      "ts": 1790559355,
-      "type": "radar",
-      "symbol": "SHFL",
-      "name": "Shuffle",
-      "price": 0.647004,
-      "cg_id": "shuffle-2"
-    },
-    {
       "key": "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25",
       "ts": 1790644427,
       "type": "new",
@@ -187,15 +151,6 @@
       "address": "0xb274622368b9518ae02129de5a67bf9a3449f861"
     },
     {
-      "key": "radar:soon-2",
-      "ts": 1790732997,
-      "type": "radar",
-      "symbol": "SOON",
-      "name": "SOON",
-      "price": 0.413764,
-      "cg_id": "soon-2"
-    },
-    {
       "key": "radar:stonk-3",
       "ts": 1790732997,
       "type": "radar",
@@ -212,6 +167,51 @@
       "name": "Quant",
       "price": 278.09,
       "cg_id": "quant-network"
+    },
+    {
+      "key": "new:robinhood:0x60042b65a0c0a90ba75d17879850b6f99d9422eb",
+      "ts": 1790820289,
+      "type": "new",
+      "symbol": "REVENUE",
+      "name": "REVENUE",
+      "price": "0.002434",
+      "address": "0x60042b65a0c0a90ba75d17879850b6f99d9422eb"
+    },
+    {
+      "key": "new:solana:dkqyd9q2p7vsruikhj54wu4f9cbyqrucrkfewg3dpump",
+      "ts": 1790820289,
+      "type": "new",
+      "symbol": "AGI",
+      "name": "AGI",
+      "price": "0.0004459",
+      "address": "dkqyd9q2p7vsruikhj54wu4f9cbyqrucrkfewg3dpump"
+    },
+    {
+      "key": "radar:origintrail",
+      "ts": 1790820290,
+      "type": "radar",
+      "symbol": "TRAC",
+      "name": "OriginTrail",
+      "price": 0.498097,
+      "cg_id": "origintrail"
+    },
+    {
+      "key": "radar:soon-2",
+      "ts": 1790820290,
+      "type": "radar",
+      "symbol": "SOON",
+      "name": "SOON",
+      "price": 0.496265,
+      "cg_id": "soon-2"
+    },
+    {
+      "key": "radar:backpack",
+      "ts": 1790820291,
+      "type": "radar",
+      "symbol": "BP",
+      "name": "Backpack",
+      "price": 1.53,
+      "cg_id": "backpack"
     }
   ]
 }
