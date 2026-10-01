@@ -84,7 +84,9 @@
     "newlist:Gate:CARDS": 1790777580,
     "newlist:Gate:CT": 1790777581,
     "newlist:OKX现货:CT": 1790777581,
-    "newlist:OKX合约:CT": 1790777582
+    "newlist:OKX合约:CT": 1790777582,
+    "newlist:Gate:SI": 1790869429,
+    "newlist:OKX合约:QUANT": 1790869430
   },
   "history": [
     {
