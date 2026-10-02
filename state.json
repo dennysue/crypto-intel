@@ -1,8 +1,10 @@
 {
   "cap_date": "2026-10-02",
-  "cap_count": 1,
+  "cap_count": 3,
   "sent": {
-    "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump": 1790899790
+    "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump": 1790899790,
+    "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce": 1790919192,
+    "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933": 1790919192
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -85,33 +87,6 @@
     "newlist:OKX合约:QUANT": 1790869430
   },
   "history": [
-    {
-      "key": "new:robinhood:0x0ce9145e8ed68f1bea0b7088d96459f107c18b25",
-      "ts": 1790644427,
-      "type": "new",
-      "symbol": "FLAPPY",
-      "name": "FLAPPY",
-      "price": "0.001580",
-      "address": "0x0ce9145e8ed68f1bea0b7088d96459f107c18b25"
-    },
-    {
-      "key": "radar:marscoin-4",
-      "ts": 1790644428,
-      "type": "radar",
-      "symbol": "MARSCOIN",
-      "name": "MarsCoin",
-      "price": 0.157658,
-      "cg_id": "marscoin-4"
-    },
-    {
-      "key": "radar:hedera-hashgraph",
-      "ts": 1790644428,
-      "type": "radar",
-      "symbol": "HBAR",
-      "name": "Hedera",
-      "price": 0.119554,
-      "cg_id": "hedera-hashgraph"
-    },
     {
       "key": "new:bsc:0x36a376338af174e680aa35a5f1024f0fd9cb7777",
       "ts": 1790665146,
@@ -219,6 +194,24 @@
       "name": "C/ACC",
       "price": "0.0003300",
       "address": "j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump"
+    },
+    {
+      "key": "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce",
+      "ts": 1790919192,
+      "type": "new",
+      "symbol": "LUCY",
+      "name": "LUCY",
+      "price": "0.0002508",
+      "address": "0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce"
+    },
+    {
+      "key": "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933",
+      "ts": 1790919192,
+      "type": "new",
+      "symbol": "MSI",
+      "name": "MSI",
+      "price": "0.0001350",
+      "address": "0x374d35db6d2fa048ac8ce3fb7971c16ba5343933"
     }
   ]
 }
