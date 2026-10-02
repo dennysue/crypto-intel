@@ -1,10 +1,12 @@
 {
   "cap_date": "2026-10-02",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump": 1790899790,
     "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce": 1790919192,
-    "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933": 1790919192
+    "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933": 1790919192,
+    "radar:the-sandbox": 1790939944,
+    "radar:collector-crypt": 1790939945
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -87,24 +89,6 @@
     "newlist:OKX合约:QUANT": 1790869430
   },
   "history": [
-    {
-      "key": "new:bsc:0x36a376338af174e680aa35a5f1024f0fd9cb7777",
-      "ts": 1790665146,
-      "type": "new",
-      "symbol": "企鹅",
-      "name": "企鹅",
-      "price": "0.0003675",
-      "address": "0x36a376338af174e680aa35a5f1024f0fd9cb7777"
-    },
-    {
-      "key": "new:solana:7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks",
-      "ts": 1790665146,
-      "type": "new",
-      "symbol": "DOTS",
-      "name": "DOTS",
-      "price": "0.0003181",
-      "address": "7mypdaz1uorg1qtkjwk25x2k4uonk88854jfopaxxnks"
-    },
     {
       "key": "new:robinhood:0x50cfaa481026900994ccd3d8279824cfabc7d07f",
       "ts": 1790732996,
@@ -212,6 +196,24 @@
       "name": "MSI",
       "price": "0.0001350",
       "address": "0x374d35db6d2fa048ac8ce3fb7971c16ba5343933"
+    },
+    {
+      "key": "radar:the-sandbox",
+      "ts": 1790939944,
+      "type": "radar",
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "price": 0.065149,
+      "cg_id": "the-sandbox"
+    },
+    {
+      "key": "radar:collector-crypt",
+      "ts": 1790939945,
+      "type": "radar",
+      "symbol": "CARDS",
+      "name": "Collector Crypt",
+      "price": 0.253268,
+      "cg_id": "collector-crypt"
     }
   ]
 }
