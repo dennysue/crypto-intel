@@ -1,12 +1,8 @@
 {
-  "cap_date": "2026-10-01",
-  "cap_count": 5,
+  "cap_date": "2026-10-02",
+  "cap_count": 1,
   "sent": {
-    "new:robinhood:0x60042b65a0c0a90ba75d17879850b6f99d9422eb": 1790820289,
-    "new:solana:dkqyd9q2p7vsruikhj54wu4f9cbyqrucrkfewg3dpump": 1790820289,
-    "radar:origintrail": 1790820290,
-    "radar:soon-2": 1790820290,
-    "radar:backpack": 1790820291
+    "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump": 1790899790
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -214,6 +210,15 @@
       "name": "Backpack",
       "price": 1.53,
       "cg_id": "backpack"
+    },
+    {
+      "key": "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump",
+      "ts": 1790899790,
+      "type": "new",
+      "symbol": "C/ACC",
+      "name": "C/ACC",
+      "price": "0.0003300",
+      "address": "j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump"
     }
   ]
 }
