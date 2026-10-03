@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-02",
+  "cap_date": "2026-10-03",
   "cap_count": 5,
   "sent": {
-    "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump": 1790899790,
-    "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce": 1790919192,
-    "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933": 1790919192,
-    "radar:the-sandbox": 1790939944,
-    "radar:collector-crypt": 1790939945
+    "new:bsc:0x3ae862cbf9584d4d9dbe65f65a0fe346c08980f2": 1790987129,
+    "new:solana:8f5m7y8po64wvitev1lknn43m8z8guvdnnwrkdk1asxo": 1790987130,
+    "new:robinhood:0xf9d7691a78b96b7a1e4bb2d1f15fe63fabef885b": 1790987130,
+    "new:robinhood:0xb78afd7a8ece14007e35fe0f1e2b3a774f8714c8": 1790987131,
+    "new:robinhood:0xaa73c888c1432c575fd98a2b30703d861e4b5496": 1790987131
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -219,6 +219,51 @@
       "name": "Collector Crypt",
       "price": 0.253268,
       "cg_id": "collector-crypt"
+    },
+    {
+      "key": "new:bsc:0x3ae862cbf9584d4d9dbe65f65a0fe346c08980f2",
+      "ts": 1790987129,
+      "type": "new",
+      "symbol": "PACT",
+      "name": "PACT",
+      "price": "0.0002050",
+      "address": "0x3ae862cbf9584d4d9dbe65f65a0fe346c08980f2"
+    },
+    {
+      "key": "new:solana:8f5m7y8po64wvitev1lknn43m8z8guvdnnwrkdk1asxo",
+      "ts": 1790987130,
+      "type": "new",
+      "symbol": "LLAMA",
+      "name": "LLAMA",
+      "price": "0.0004327",
+      "address": "8f5m7y8po64wvitev1lknn43m8z8guvdnnwrkdk1asxo"
+    },
+    {
+      "key": "new:robinhood:0xf9d7691a78b96b7a1e4bb2d1f15fe63fabef885b",
+      "ts": 1790987130,
+      "type": "new",
+      "symbol": "ORBIO",
+      "name": "ORBIO",
+      "price": "0.003583",
+      "address": "0xf9d7691a78b96b7a1e4bb2d1f15fe63fabef885b"
+    },
+    {
+      "key": "new:robinhood:0xb78afd7a8ece14007e35fe0f1e2b3a774f8714c8",
+      "ts": 1790987131,
+      "type": "new",
+      "symbol": "SI",
+      "name": "SI",
+      "price": "0.001575",
+      "address": "0xb78afd7a8ece14007e35fe0f1e2b3a774f8714c8"
+    },
+    {
+      "key": "new:robinhood:0xaa73c888c1432c575fd98a2b30703d861e4b5496",
+      "ts": 1790987131,
+      "type": "new",
+      "symbol": "CINCINNATI",
+      "name": "CINCINNATI",
+      "price": "0.0002603",
+      "address": "0xaa73c888c1432c575fd98a2b30703d861e4b5496"
     }
   ]
 }
