@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-10-05",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump": 1791161993,
     "new:robinhood:0x3d633499b75437170c5e1bcc7e3f1fa522e509f7": 1791161993,
-    "radar:bitway": 1791161994
+    "radar:bitway": 1791161994,
+    "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump": 1791182977
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -92,24 +93,6 @@
     "newlist:OKX合约:SECZ": 1790959348
   },
   "history": [
-    {
-      "key": "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce",
-      "ts": 1790919192,
-      "type": "new",
-      "symbol": "LUCY",
-      "name": "LUCY",
-      "price": "0.0002508",
-      "address": "0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce"
-    },
-    {
-      "key": "new:robinhood:0x374d35db6d2fa048ac8ce3fb7971c16ba5343933",
-      "ts": 1790919192,
-      "type": "new",
-      "symbol": "MSI",
-      "name": "MSI",
-      "price": "0.0001350",
-      "address": "0x374d35db6d2fa048ac8ce3fb7971c16ba5343933"
-    },
     {
       "key": "radar:the-sandbox",
       "ts": 1790939944,
@@ -244,6 +227,15 @@
       "name": "Bitway",
       "price": 1.25,
       "cg_id": "bitway"
+    },
+    {
+      "key": "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump",
+      "ts": 1791182977,
+      "type": "new",
+      "symbol": "SM",
+      "name": "SM",
+      "price": "0.0006236",
+      "address": "aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump"
     }
   ]
 }
