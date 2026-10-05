@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-05",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump": 1791161993,
     "new:robinhood:0x3d633499b75437170c5e1bcc7e3f1fa522e509f7": 1791161993,
     "radar:bitway": 1791161994,
-    "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump": 1791182977
+    "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump": 1791182977,
+    "new:solana:gsrkwgt5uiodbum59nhvb67fs9aqmgafrmngzqevpump": 1791213574
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -93,24 +94,6 @@
     "newlist:OKX合约:SECZ": 1790959348
   },
   "history": [
-    {
-      "key": "radar:the-sandbox",
-      "ts": 1790939944,
-      "type": "radar",
-      "symbol": "SAND",
-      "name": "The Sandbox",
-      "price": 0.065149,
-      "cg_id": "the-sandbox"
-    },
-    {
-      "key": "radar:collector-crypt",
-      "ts": 1790939945,
-      "type": "radar",
-      "symbol": "CARDS",
-      "name": "Collector Crypt",
-      "price": 0.253268,
-      "cg_id": "collector-crypt"
-    },
     {
       "key": "new:bsc:0x3ae862cbf9584d4d9dbe65f65a0fe346c08980f2",
       "ts": 1790987129,
@@ -236,6 +219,15 @@
       "name": "SM",
       "price": "0.0006236",
       "address": "aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump"
+    },
+    {
+      "key": "new:solana:gsrkwgt5uiodbum59nhvb67fs9aqmgafrmngzqevpump",
+      "ts": 1791213574,
+      "type": "new",
+      "symbol": "COINPUTER",
+      "name": "COINPUTER",
+      "price": "0.0003901",
+      "address": "gsrkwgt5uiodbum59nhvb67fs9aqmgafrmngzqevpump"
     }
   ]
 }
