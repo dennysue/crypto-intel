@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-10-04",
-  "cap_count": 5,
+  "cap_date": "2026-10-05",
+  "cap_count": 3,
   "sent": {
-    "new:robinhood:0xf4f7568a3abefc7378d701ded7366bf43cb751a0": 1791072389,
-    "radar:starknet": 1791072390,
-    "new:robinhood:0x8cf263adfd88d72597a251908378a782a4e97aaf": 1791092679,
-    "radar:rain": 1791092679,
-    "new:robinhood:0x06d2d9229a9491969ecfb4c94d2e45c31b463f59": 1791112786
+    "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump": 1791161993,
+    "new:robinhood:0x3d633499b75437170c5e1bcc7e3f1fa522e509f7": 1791161993,
+    "radar:bitway": 1791161994
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -94,15 +92,6 @@
     "newlist:OKX合约:SECZ": 1790959348
   },
   "history": [
-    {
-      "key": "new:solana:j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump",
-      "ts": 1790899790,
-      "type": "new",
-      "symbol": "C/ACC",
-      "name": "C/ACC",
-      "price": "0.0003300",
-      "address": "j2aygniqakvuctldja1w1l4vxat4qvtorahbqxdcpump"
-    },
     {
       "key": "new:robinhood:0x169e557f6df6c58c7fe6c53be7ed5328fd50f0ce",
       "ts": 1790919192,
@@ -228,6 +217,33 @@
       "name": "MEOWFI",
       "price": "0.000006040",
       "address": "0x06d2d9229a9491969ecfb4c94d2e45c31b463f59"
+    },
+    {
+      "key": "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump",
+      "ts": 1791161993,
+      "type": "new",
+      "symbol": "MEMEAGENCY",
+      "name": "MEMEAGENCY",
+      "price": "0.001150",
+      "address": "cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump"
+    },
+    {
+      "key": "new:robinhood:0x3d633499b75437170c5e1bcc7e3f1fa522e509f7",
+      "ts": 1791161993,
+      "type": "new",
+      "symbol": "ABU",
+      "name": "ABU",
+      "price": "0.0002396",
+      "address": "0x3d633499b75437170c5e1bcc7e3f1fa522e509f7"
+    },
+    {
+      "key": "radar:bitway",
+      "ts": 1791161994,
+      "type": "radar",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "price": 1.25,
+      "cg_id": "bitway"
     }
   ]
 }
