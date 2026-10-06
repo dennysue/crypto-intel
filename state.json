@@ -1,9 +1,12 @@
 {
   "cap_date": "2026-10-06",
-  "cap_count": 2,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x772bd1fabec3a91d9f8141c6698a3e00f6d140ab": 1791252860,
-    "radar:instadapp": 1791252860
+    "radar:instadapp": 1791252860,
+    "new:robinhood:0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf": 1791277420,
+    "radar:orca": 1791277421,
+    "radar:bedrock-token": 1791277421
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -198,6 +201,33 @@
       "name": "Fluid",
       "price": 2.16,
       "cg_id": "instadapp"
+    },
+    {
+      "key": "new:robinhood:0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf",
+      "ts": 1791277420,
+      "type": "new",
+      "symbol": "CAESAR",
+      "name": "CAESAR",
+      "price": "0.0003431",
+      "address": "0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf"
+    },
+    {
+      "key": "radar:orca",
+      "ts": 1791277421,
+      "type": "radar",
+      "symbol": "ORCA",
+      "name": "Orca",
+      "price": 2.56,
+      "cg_id": "orca"
+    },
+    {
+      "key": "radar:bedrock-token",
+      "ts": 1791277421,
+      "type": "radar",
+      "symbol": "BR",
+      "name": "Bedrock",
+      "price": 0.525478,
+      "cg_id": "bedrock-token"
     }
   ]
 }
