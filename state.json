@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-07",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x1ec25a196c49dd3445f1fcc53c37c513af92839c": 1791331873,
     "new:solana:546kklu9bxk3e32cagmrixxfvdmrjppqh8hd8kjypump": 1791331874,
     "radar:bedrock-token": 1791331874,
-    "radar:orca": 1791331875
+    "radar:orca": 1791331875,
+    "new:bsc:0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777": 1791378838
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -93,33 +94,6 @@
     "newlist:OKX合约:SECZ": 1790959348
   },
   "history": [
-    {
-      "key": "new:robinhood:0x8cf263adfd88d72597a251908378a782a4e97aaf",
-      "ts": 1791092679,
-      "type": "new",
-      "symbol": "KNIGHTCAT",
-      "name": "KNIGHTCAT",
-      "price": "0.001199",
-      "address": "0x8cf263adfd88d72597a251908378a782a4e97aaf"
-    },
-    {
-      "key": "radar:rain",
-      "ts": 1791092679,
-      "type": "radar",
-      "symbol": "RAIN",
-      "name": "Rain",
-      "price": 0.01280364,
-      "cg_id": "rain"
-    },
-    {
-      "key": "new:robinhood:0x06d2d9229a9491969ecfb4c94d2e45c31b463f59",
-      "ts": 1791112786,
-      "type": "new",
-      "symbol": "MEOWFI",
-      "name": "MEOWFI",
-      "price": "0.000006040",
-      "address": "0x06d2d9229a9491969ecfb4c94d2e45c31b463f59"
-    },
     {
       "key": "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump",
       "ts": 1791161993,
@@ -227,6 +201,15 @@
       "name": "Orca",
       "price": 3.19,
       "cg_id": "orca"
+    },
+    {
+      "key": "new:bsc:0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777",
+      "ts": 1791378838,
+      "type": "new",
+      "symbol": "SPACEXSI",
+      "name": "SPACEXSI",
+      "price": "0.0003420",
+      "address": "0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777"
     }
   ]
 }
