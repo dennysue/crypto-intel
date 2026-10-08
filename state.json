@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-07",
+  "cap_date": "2026-10-08",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x1ec25a196c49dd3445f1fcc53c37c513af92839c": 1791331873,
-    "new:solana:546kklu9bxk3e32cagmrixxfvdmrjppqh8hd8kjypump": 1791331874,
-    "radar:bedrock-token": 1791331874,
-    "radar:orca": 1791331875,
-    "new:bsc:0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777": 1791378838
+    "new:solana:6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr": 1791428169,
+    "new:robinhood:0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2": 1791428169,
+    "new:solana:hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump": 1791428170,
+    "new:robinhood:0xaebc764c588c9a480307dd59bd55f542e2b5b35c": 1791428171,
+    "new:robinhood:0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b": 1791428172
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -91,36 +91,10 @@
     "newlist:OKX合约:BWET": 1790959347,
     "newlist:OKX合约:H100": 1790959347,
     "newlist:OKX合约:NKE": 1790959348,
-    "newlist:OKX合约:SECZ": 1790959348
+    "newlist:OKX合约:SECZ": 1790959348,
+    "newlist:Gate:MSP": 1791428168
   },
   "history": [
-    {
-      "key": "new:solana:cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump",
-      "ts": 1791161993,
-      "type": "new",
-      "symbol": "MEMEAGENCY",
-      "name": "MEMEAGENCY",
-      "price": "0.001150",
-      "address": "cychqhfyv6cn8rp1mynfhdvcgq25fcah6wztkiu9pump"
-    },
-    {
-      "key": "new:robinhood:0x3d633499b75437170c5e1bcc7e3f1fa522e509f7",
-      "ts": 1791161993,
-      "type": "new",
-      "symbol": "ABU",
-      "name": "ABU",
-      "price": "0.0002396",
-      "address": "0x3d633499b75437170c5e1bcc7e3f1fa522e509f7"
-    },
-    {
-      "key": "radar:bitway",
-      "ts": 1791161994,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 1.25,
-      "cg_id": "bitway"
-    },
     {
       "key": "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump",
       "ts": 1791182977,
@@ -210,6 +184,51 @@
       "name": "SPACEXSI",
       "price": "0.0003420",
       "address": "0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777"
+    },
+    {
+      "key": "new:solana:6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr",
+      "ts": 1791428169,
+      "type": "new",
+      "symbol": "BORDR",
+      "name": "BORDR",
+      "price": "0.001405",
+      "address": "6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr"
+    },
+    {
+      "key": "new:robinhood:0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2",
+      "ts": 1791428169,
+      "type": "new",
+      "symbol": "GIF",
+      "name": "GIF",
+      "price": "0.0003230",
+      "address": "0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2"
+    },
+    {
+      "key": "new:solana:hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump",
+      "ts": 1791428170,
+      "type": "new",
+      "symbol": "ZKDARK",
+      "name": "ZKDARK",
+      "price": "0.0005313",
+      "address": "hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump"
+    },
+    {
+      "key": "new:robinhood:0xaebc764c588c9a480307dd59bd55f542e2b5b35c",
+      "ts": 1791428171,
+      "type": "new",
+      "symbol": "ONE",
+      "name": "ONE",
+      "price": "0.0001694",
+      "address": "0xaebc764c588c9a480307dd59bd55f542e2b5b35c"
+    },
+    {
+      "key": "new:robinhood:0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b",
+      "ts": 1791428172,
+      "type": "new",
+      "symbol": "CRAWLSCAN",
+      "name": "CRAWLSCAN",
+      "price": "0.0003995",
+      "address": "0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b"
     }
   ]
 }
