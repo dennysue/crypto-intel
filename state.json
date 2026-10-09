@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-08",
-  "cap_count": 5,
+  "cap_date": "2026-10-09",
+  "cap_count": 4,
   "sent": {
-    "new:solana:6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr": 1791428169,
-    "new:robinhood:0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2": 1791428169,
-    "new:solana:hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump": 1791428170,
-    "new:robinhood:0xaebc764c588c9a480307dd59bd55f542e2b5b35c": 1791428171,
-    "new:robinhood:0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b": 1791428172
+    "new:bsc:0xf7e575be59e38a0bd0984a6de368029e57b48ae5": 1791511578,
+    "new:robinhood:0xf30eaec0f333d0afac16c145162a2ba8c72bf092": 1791511579,
+    "radar:derive": 1791511579,
+    "radar:starknet": 1791511580
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -95,24 +94,6 @@
     "newlist:Gate:MSP": 1791428168
   },
   "history": [
-    {
-      "key": "new:solana:aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump",
-      "ts": 1791182977,
-      "type": "new",
-      "symbol": "SM",
-      "name": "SM",
-      "price": "0.0006236",
-      "address": "aqv8gj8messzuesgigq4kedwvrfhgpuzq4po4q1mpump"
-    },
-    {
-      "key": "new:solana:gsrkwgt5uiodbum59nhvb67fs9aqmgafrmngzqevpump",
-      "ts": 1791213574,
-      "type": "new",
-      "symbol": "COINPUTER",
-      "name": "COINPUTER",
-      "price": "0.0003901",
-      "address": "gsrkwgt5uiodbum59nhvb67fs9aqmgafrmngzqevpump"
-    },
     {
       "key": "new:robinhood:0x772bd1fabec3a91d9f8141c6698a3e00f6d140ab",
       "ts": 1791252860,
@@ -229,6 +210,42 @@
       "name": "CRAWLSCAN",
       "price": "0.0003995",
       "address": "0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b"
+    },
+    {
+      "key": "new:bsc:0xf7e575be59e38a0bd0984a6de368029e57b48ae5",
+      "ts": 1791511578,
+      "type": "new",
+      "symbol": "BAI",
+      "name": "BAI",
+      "price": "0.004213",
+      "address": "0xf7e575be59e38a0bd0984a6de368029e57b48ae5"
+    },
+    {
+      "key": "new:robinhood:0xf30eaec0f333d0afac16c145162a2ba8c72bf092",
+      "ts": 1791511579,
+      "type": "new",
+      "symbol": "BAZUCAT",
+      "name": "BAZUCAT",
+      "price": "0.0003291",
+      "address": "0xf30eaec0f333d0afac16c145162a2ba8c72bf092"
+    },
+    {
+      "key": "radar:derive",
+      "ts": 1791511579,
+      "type": "radar",
+      "symbol": "DRV",
+      "name": "Derive",
+      "price": 0.47362,
+      "cg_id": "derive"
+    },
+    {
+      "key": "radar:starknet",
+      "ts": 1791511580,
+      "type": "radar",
+      "symbol": "STRK",
+      "name": "Starknet",
+      "price": 0.060949,
+      "cg_id": "starknet"
     }
   ]
 }
