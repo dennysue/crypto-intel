@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-09",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:bsc:0xf7e575be59e38a0bd0984a6de368029e57b48ae5": 1791511578,
     "new:robinhood:0xf30eaec0f333d0afac16c145162a2ba8c72bf092": 1791511579,
     "radar:derive": 1791511579,
-    "radar:starknet": 1791511580
+    "radar:starknet": 1791511580,
+    "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump": 1791536180
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -91,27 +92,17 @@
     "newlist:OKX合约:H100": 1790959347,
     "newlist:OKX合约:NKE": 1790959348,
     "newlist:OKX合约:SECZ": 1790959348,
-    "newlist:Gate:MSP": 1791428168
+    "newlist:Gate:MSP": 1791428168,
+    "newlist:OKX现货:XAEHR": 1791536176,
+    "newlist:OKX现货:XBRKB": 1791536176,
+    "newlist:OKX现货:XCRDO": 1791536177,
+    "newlist:OKX现货:XFLNC": 1791536177,
+    "newlist:OKX现货:XGPRO": 1791536178,
+    "newlist:OKX现货:XOUST": 1791536178,
+    "newlist:OKX现货:XPOET": 1791536179,
+    "newlist:OKX现货:XWEN": 1791536179
   },
   "history": [
-    {
-      "key": "new:robinhood:0x772bd1fabec3a91d9f8141c6698a3e00f6d140ab",
-      "ts": 1791252860,
-      "type": "new",
-      "symbol": "SI",
-      "name": "SI",
-      "price": "0.0001873",
-      "address": "0x772bd1fabec3a91d9f8141c6698a3e00f6d140ab"
-    },
-    {
-      "key": "radar:instadapp",
-      "ts": 1791252861,
-      "type": "radar",
-      "symbol": "FLUID",
-      "name": "Fluid",
-      "price": 2.16,
-      "cg_id": "instadapp"
-    },
     {
       "key": "new:robinhood:0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf",
       "ts": 1791277420,
@@ -246,6 +237,15 @@
       "name": "Starknet",
       "price": 0.060949,
       "cg_id": "starknet"
+    },
+    {
+      "key": "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump",
+      "ts": 1791536180,
+      "type": "new",
+      "symbol": "4206066",
+      "name": "4206066",
+      "price": "0.0003344",
+      "address": "ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump"
     }
   ]
 }
