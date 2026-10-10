@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-09",
+  "cap_date": "2026-10-10",
   "cap_count": 5,
   "sent": {
-    "new:bsc:0xf7e575be59e38a0bd0984a6de368029e57b48ae5": 1791511578,
-    "new:robinhood:0xf30eaec0f333d0afac16c145162a2ba8c72bf092": 1791511579,
-    "radar:derive": 1791511579,
-    "radar:starknet": 1791511580,
-    "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump": 1791536180
+    "new:bsc:0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4": 1791591037,
+    "new:solana:bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump": 1791591038,
+    "radar:kaia": 1791591038,
+    "radar:basic-attention-token": 1791591039,
+    "radar:starknet": 1791591039
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -103,15 +103,6 @@
     "newlist:OKX现货:XWEN": 1791536179
   },
   "history": [
-    {
-      "key": "new:robinhood:0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf",
-      "ts": 1791277420,
-      "type": "new",
-      "symbol": "CAESAR",
-      "name": "CAESAR",
-      "price": "0.0003431",
-      "address": "0xedb6b2a5cb28696fd573cf484f3e9ca3a34787bf"
-    },
     {
       "key": "new:robinhood:0x1ec25a196c49dd3445f1fcc53c37c513af92839c",
       "ts": 1791331873,
@@ -230,15 +221,6 @@
       "cg_id": "derive"
     },
     {
-      "key": "radar:starknet",
-      "ts": 1791511580,
-      "type": "radar",
-      "symbol": "STRK",
-      "name": "Starknet",
-      "price": 0.060949,
-      "cg_id": "starknet"
-    },
-    {
       "key": "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump",
       "ts": 1791536180,
       "type": "new",
@@ -246,6 +228,51 @@
       "name": "4206066",
       "price": "0.0003344",
       "address": "ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump"
+    },
+    {
+      "key": "new:bsc:0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4",
+      "ts": 1791591037,
+      "type": "new",
+      "symbol": "币安人能飞",
+      "name": "币安人能飞",
+      "price": "0.003047",
+      "address": "0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4"
+    },
+    {
+      "key": "new:solana:bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump",
+      "ts": 1791591038,
+      "type": "new",
+      "symbol": "QOMPUTE",
+      "name": "QOMPUTE",
+      "price": "0.003827",
+      "address": "bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump"
+    },
+    {
+      "key": "radar:kaia",
+      "ts": 1791591038,
+      "type": "radar",
+      "symbol": "KAIA",
+      "name": "Kaia",
+      "price": 0.06324,
+      "cg_id": "kaia"
+    },
+    {
+      "key": "radar:basic-attention-token",
+      "ts": 1791591039,
+      "type": "radar",
+      "symbol": "BAT",
+      "name": "Basic Attention",
+      "price": 0.13622,
+      "cg_id": "basic-attention-token"
+    },
+    {
+      "key": "radar:starknet",
+      "ts": 1791591039,
+      "type": "radar",
+      "symbol": "STRK",
+      "name": "Starknet",
+      "price": 0.074272,
+      "cg_id": "starknet"
     }
   ]
 }
