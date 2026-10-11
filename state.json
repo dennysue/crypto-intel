@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-10",
+  "cap_date": "2026-10-11",
   "cap_count": 5,
   "sent": {
-    "new:bsc:0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4": 1791591037,
-    "new:solana:bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump": 1791591038,
-    "radar:kaia": 1791591038,
-    "radar:basic-attention-token": 1791591039,
-    "radar:starknet": 1791591039
+    "new:solana:3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump": 1791684985,
+    "new:robinhood:0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d": 1791684985,
+    "radar:starknet": 1791684986,
+    "radar:chip-2": 1791684987,
+    "radar:celestia": 1791684987
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -103,51 +103,6 @@
     "newlist:OKX现货:XWEN": 1791536179
   },
   "history": [
-    {
-      "key": "new:robinhood:0x1ec25a196c49dd3445f1fcc53c37c513af92839c",
-      "ts": 1791331873,
-      "type": "new",
-      "symbol": "CRAWLSCAN",
-      "name": "CRAWLSCAN",
-      "price": "0.001066",
-      "address": "0x1ec25a196c49dd3445f1fcc53c37c513af92839c"
-    },
-    {
-      "key": "new:solana:546kklu9bxk3e32cagmrixxfvdmrjppqh8hd8kjypump",
-      "ts": 1791331874,
-      "type": "new",
-      "symbol": "BABYBATON",
-      "name": "BABYBATON",
-      "price": "0.0008240",
-      "address": "546kklu9bxk3e32cagmrixxfvdmrjppqh8hd8kjypump"
-    },
-    {
-      "key": "radar:bedrock-token",
-      "ts": 1791331874,
-      "type": "radar",
-      "symbol": "BR",
-      "name": "Bedrock",
-      "price": 0.578675,
-      "cg_id": "bedrock-token"
-    },
-    {
-      "key": "radar:orca",
-      "ts": 1791331875,
-      "type": "radar",
-      "symbol": "ORCA",
-      "name": "Orca",
-      "price": 3.19,
-      "cg_id": "orca"
-    },
-    {
-      "key": "new:bsc:0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777",
-      "ts": 1791378838,
-      "type": "new",
-      "symbol": "SPACEXSI",
-      "name": "SPACEXSI",
-      "price": "0.0003420",
-      "address": "0xf36a8e18890e4b61dd85b5ce37fe271ee2da7777"
-    },
     {
       "key": "new:solana:6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr",
       "ts": 1791428169,
@@ -266,13 +221,49 @@
       "cg_id": "basic-attention-token"
     },
     {
+      "key": "new:solana:3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump",
+      "ts": 1791684985,
+      "type": "new",
+      "symbol": "SUPMKT",
+      "name": "SUPMKT",
+      "price": "0.001430",
+      "address": "3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump"
+    },
+    {
+      "key": "new:robinhood:0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d",
+      "ts": 1791684985,
+      "type": "new",
+      "symbol": "UZICAT",
+      "name": "UZICAT",
+      "price": "0.0002702",
+      "address": "0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d"
+    },
+    {
       "key": "radar:starknet",
-      "ts": 1791591039,
+      "ts": 1791684986,
       "type": "radar",
       "symbol": "STRK",
       "name": "Starknet",
-      "price": 0.074272,
+      "price": 0.114939,
       "cg_id": "starknet"
+    },
+    {
+      "key": "radar:chip-2",
+      "ts": 1791684987,
+      "type": "radar",
+      "symbol": "CHIP",
+      "name": "USD.AI",
+      "price": 0.068082,
+      "cg_id": "chip-2"
+    },
+    {
+      "key": "radar:celestia",
+      "ts": 1791684987,
+      "type": "radar",
+      "symbol": "TIA",
+      "name": "Celestia",
+      "price": 0.599078,
+      "cg_id": "celestia"
     }
   ]
 }
