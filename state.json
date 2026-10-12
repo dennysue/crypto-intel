@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-11",
+  "cap_date": "2026-10-12",
   "cap_count": 5,
   "sent": {
-    "new:solana:3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump": 1791684985,
-    "new:robinhood:0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d": 1791684985,
-    "radar:starknet": 1791684986,
-    "radar:chip-2": 1791684987,
-    "radar:celestia": 1791684987
+    "new:solana:avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump": 1791772041,
+    "new:robinhood:0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f": 1791772042,
+    "radar:wormhole": 1791772043,
+    "radar:sonic-3": 1791772043,
+    "radar:grass": 1791772044
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -104,78 +104,6 @@
   },
   "history": [
     {
-      "key": "new:solana:6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr",
-      "ts": 1791428169,
-      "type": "new",
-      "symbol": "BORDR",
-      "name": "BORDR",
-      "price": "0.001405",
-      "address": "6mix12lihrqfojaqenfpuc65qkwd6x4y5qg93ofbordr"
-    },
-    {
-      "key": "new:robinhood:0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2",
-      "ts": 1791428169,
-      "type": "new",
-      "symbol": "GIF",
-      "name": "GIF",
-      "price": "0.0003230",
-      "address": "0x5b6ce079cd0dad8d0b7de3d73c8fdb5d63b093a2"
-    },
-    {
-      "key": "new:solana:hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump",
-      "ts": 1791428170,
-      "type": "new",
-      "symbol": "ZKDARK",
-      "name": "ZKDARK",
-      "price": "0.0005313",
-      "address": "hxqxtwczreuxnk4cbndgneueh2jlzfkdc4tvtuojpump"
-    },
-    {
-      "key": "new:robinhood:0xaebc764c588c9a480307dd59bd55f542e2b5b35c",
-      "ts": 1791428171,
-      "type": "new",
-      "symbol": "ONE",
-      "name": "ONE",
-      "price": "0.0001694",
-      "address": "0xaebc764c588c9a480307dd59bd55f542e2b5b35c"
-    },
-    {
-      "key": "new:robinhood:0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b",
-      "ts": 1791428172,
-      "type": "new",
-      "symbol": "CRAWLSCAN",
-      "name": "CRAWLSCAN",
-      "price": "0.0003995",
-      "address": "0xdeaacc5dcce808e1d267e3c65b831f55baf99b2b"
-    },
-    {
-      "key": "new:bsc:0xf7e575be59e38a0bd0984a6de368029e57b48ae5",
-      "ts": 1791511578,
-      "type": "new",
-      "symbol": "BAI",
-      "name": "BAI",
-      "price": "0.004213",
-      "address": "0xf7e575be59e38a0bd0984a6de368029e57b48ae5"
-    },
-    {
-      "key": "new:robinhood:0xf30eaec0f333d0afac16c145162a2ba8c72bf092",
-      "ts": 1791511579,
-      "type": "new",
-      "symbol": "BAZUCAT",
-      "name": "BAZUCAT",
-      "price": "0.0003291",
-      "address": "0xf30eaec0f333d0afac16c145162a2ba8c72bf092"
-    },
-    {
-      "key": "radar:derive",
-      "ts": 1791511579,
-      "type": "radar",
-      "symbol": "DRV",
-      "name": "Derive",
-      "price": 0.47362,
-      "cg_id": "derive"
-    },
-    {
       "key": "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump",
       "ts": 1791536180,
       "type": "new",
@@ -264,6 +192,51 @@
       "name": "Celestia",
       "price": 0.599078,
       "cg_id": "celestia"
+    },
+    {
+      "key": "new:solana:avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump",
+      "ts": 1791772041,
+      "type": "new",
+      "symbol": "GOMODOGE",
+      "name": "GOMODOGE",
+      "price": "0.0003315",
+      "address": "avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump"
+    },
+    {
+      "key": "new:robinhood:0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f",
+      "ts": 1791772042,
+      "type": "new",
+      "symbol": "CA",
+      "name": "CA",
+      "price": "0.0002238",
+      "address": "0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f"
+    },
+    {
+      "key": "radar:wormhole",
+      "ts": 1791772043,
+      "type": "radar",
+      "symbol": "W",
+      "name": "Wormhole",
+      "price": 0.02412686,
+      "cg_id": "wormhole"
+    },
+    {
+      "key": "radar:sonic-3",
+      "ts": 1791772043,
+      "type": "radar",
+      "symbol": "S",
+      "name": "Sonic",
+      "price": 0.060525,
+      "cg_id": "sonic-3"
+    },
+    {
+      "key": "radar:grass",
+      "ts": 1791772044,
+      "type": "radar",
+      "symbol": "GRASS",
+      "name": "Grass",
+      "price": 0.824865,
+      "cg_id": "grass"
     }
   ]
 }
