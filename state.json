@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-13",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump": 1791854719,
     "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55": 1791854719,
     "radar:reserve-rights-token": 1791854720,
-    "radar:pearl-2": 1791878460
+    "radar:pearl-2": 1791878460,
+    "new:ethereum:0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887": 1791906823
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -237,6 +238,15 @@
       "name": "Pearl",
       "price": 1.64,
       "cg_id": "pearl-2"
+    },
+    {
+      "key": "new:ethereum:0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887",
+      "ts": 1791906823,
+      "type": "new",
+      "symbol": "DOGEBALL",
+      "name": "DOGEBALL",
+      "price": "0.01035",
+      "address": "0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887"
     }
   ]
 }
