@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-10-12",
-  "cap_count": 5,
+  "cap_date": "2026-10-13",
+  "cap_count": 3,
   "sent": {
-    "new:solana:avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump": 1791772041,
-    "new:robinhood:0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f": 1791772042,
-    "radar:wormhole": 1791772043,
-    "radar:sonic-3": 1791772043,
-    "radar:grass": 1791772044
+    "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump": 1791854719,
+    "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55": 1791854719,
+    "radar:reserve-rights-token": 1791854720
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -113,51 +111,6 @@
   },
   "history": [
     {
-      "key": "new:solana:ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump",
-      "ts": 1791536180,
-      "type": "new",
-      "symbol": "4206066",
-      "name": "4206066",
-      "price": "0.0003344",
-      "address": "ysyxexcdnhdhpbexrt8yxvcg4yllfjt5y3tppltpump"
-    },
-    {
-      "key": "new:bsc:0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4",
-      "ts": 1791591037,
-      "type": "new",
-      "symbol": "币安人能飞",
-      "name": "币安人能飞",
-      "price": "0.003047",
-      "address": "0xaf1052bda20f0fe48ff7a9433ddf29ffa52c5ff4"
-    },
-    {
-      "key": "new:solana:bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump",
-      "ts": 1791591038,
-      "type": "new",
-      "symbol": "QOMPUTE",
-      "name": "QOMPUTE",
-      "price": "0.003827",
-      "address": "bqaeesowpwex8km8gcporcbulkq4a7eqceh3f2qzpump"
-    },
-    {
-      "key": "radar:kaia",
-      "ts": 1791591038,
-      "type": "radar",
-      "symbol": "KAIA",
-      "name": "Kaia",
-      "price": 0.06324,
-      "cg_id": "kaia"
-    },
-    {
-      "key": "radar:basic-attention-token",
-      "ts": 1791591039,
-      "type": "radar",
-      "symbol": "BAT",
-      "name": "Basic Attention",
-      "price": 0.13622,
-      "cg_id": "basic-attention-token"
-    },
-    {
       "key": "new:solana:3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump",
       "ts": 1791684985,
       "type": "new",
@@ -246,6 +199,33 @@
       "name": "Grass",
       "price": 0.824865,
       "cg_id": "grass"
+    },
+    {
+      "key": "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump",
+      "ts": 1791854719,
+      "type": "new",
+      "symbol": "HUMPH",
+      "name": "HUMPH",
+      "price": "0.003794",
+      "address": "7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump"
+    },
+    {
+      "key": "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55",
+      "ts": 1791854719,
+      "type": "new",
+      "symbol": "FORGE",
+      "name": "FORGE",
+      "price": "0.0004403",
+      "address": "0x278fe8f5b4978f78ed33d1d705e920fa67e17b55"
+    },
+    {
+      "key": "radar:reserve-rights-token",
+      "ts": 1791854720,
+      "type": "radar",
+      "symbol": "RSR",
+      "name": "Reserve Rights",
+      "price": 0.00200708,
+      "cg_id": "reserve-rights-token"
     }
   ]
 }
