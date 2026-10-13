@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-10-13",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump": 1791854719,
     "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55": 1791854719,
-    "radar:reserve-rights-token": 1791854720
+    "radar:reserve-rights-token": 1791854720,
+    "radar:pearl-2": 1791878460
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -107,7 +108,8 @@
     "newlist:OKX现货:XFWDI": 1791832671,
     "newlist:OKX现货:XINFQ": 1791832671,
     "newlist:OKX现货:XIONQ": 1791832672,
-    "newlist:OKX现货:XQNT": 1791832672
+    "newlist:OKX现货:XQNT": 1791832672,
+    "listing:286557": 1791878459
   },
   "history": [
     {
@@ -226,6 +228,15 @@
       "name": "Reserve Rights",
       "price": 0.00200708,
       "cg_id": "reserve-rights-token"
+    },
+    {
+      "key": "radar:pearl-2",
+      "ts": 1791878460,
+      "type": "radar",
+      "symbol": "PRL",
+      "name": "Pearl",
+      "price": 1.64,
+      "cg_id": "pearl-2"
     }
   ]
 }
