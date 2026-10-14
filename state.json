@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-14",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump": 1791936627,
     "radar:quack-ai": 1791936627,
     "radar:basic-attention-token": 1791936628,
-    "radar:optimism": 1791936628
+    "radar:optimism": 1791936628,
+    "new:robinhood:0x9faf478c3f9b407523a3d12307c0d34739062182": 1791953960
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -120,51 +121,6 @@
     "newlist:OKX现货:XSONY": 1791925047
   },
   "history": [
-    {
-      "key": "new:solana:3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump",
-      "ts": 1791684985,
-      "type": "new",
-      "symbol": "SUPMKT",
-      "name": "SUPMKT",
-      "price": "0.001430",
-      "address": "3y9qz7tr3wud1zdsrjwe2unadxeszebo2xacpw7vpump"
-    },
-    {
-      "key": "new:robinhood:0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d",
-      "ts": 1791684985,
-      "type": "new",
-      "symbol": "UZICAT",
-      "name": "UZICAT",
-      "price": "0.0002702",
-      "address": "0xacbe4ba8603a74562fc5cf233ae2f1b9856e496d"
-    },
-    {
-      "key": "radar:starknet",
-      "ts": 1791684986,
-      "type": "radar",
-      "symbol": "STRK",
-      "name": "Starknet",
-      "price": 0.114939,
-      "cg_id": "starknet"
-    },
-    {
-      "key": "radar:chip-2",
-      "ts": 1791684987,
-      "type": "radar",
-      "symbol": "CHIP",
-      "name": "USD.AI",
-      "price": 0.068082,
-      "cg_id": "chip-2"
-    },
-    {
-      "key": "radar:celestia",
-      "ts": 1791684987,
-      "type": "radar",
-      "symbol": "TIA",
-      "name": "Celestia",
-      "price": 0.599078,
-      "cg_id": "celestia"
-    },
     {
       "key": "new:solana:avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump",
       "ts": 1791772041,
@@ -290,6 +246,15 @@
       "name": "Optimism",
       "price": 0.160082,
       "cg_id": "optimism"
+    },
+    {
+      "key": "new:robinhood:0x9faf478c3f9b407523a3d12307c0d34739062182",
+      "ts": 1791953960,
+      "type": "new",
+      "symbol": "IGNITION",
+      "name": "IGNITION",
+      "price": "0.006838",
+      "address": "0x9faf478c3f9b407523a3d12307c0d34739062182"
     }
   ]
 }
