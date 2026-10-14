@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-13",
-  "cap_count": 5,
+  "cap_date": "2026-10-14",
+  "cap_count": 4,
   "sent": {
-    "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump": 1791854719,
-    "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55": 1791854719,
-    "radar:reserve-rights-token": 1791854720,
-    "radar:pearl-2": 1791878460,
-    "new:ethereum:0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887": 1791906823
+    "new:solana:2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump": 1791936627,
+    "radar:quack-ai": 1791936627,
+    "radar:basic-attention-token": 1791936628,
+    "radar:optimism": 1791936628
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -255,6 +254,42 @@
       "name": "DOGEBALL",
       "price": "0.01035",
       "address": "0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887"
+    },
+    {
+      "key": "new:solana:2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump",
+      "ts": 1791936627,
+      "type": "new",
+      "symbol": "USDR",
+      "name": "USDR",
+      "price": "0.0007701",
+      "address": "2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1791936627,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.04220302,
+      "cg_id": "quack-ai"
+    },
+    {
+      "key": "radar:basic-attention-token",
+      "ts": 1791936628,
+      "type": "radar",
+      "symbol": "BAT",
+      "name": "Basic Attention",
+      "price": 0.199629,
+      "cg_id": "basic-attention-token"
+    },
+    {
+      "key": "radar:optimism",
+      "ts": 1791936628,
+      "type": "radar",
+      "symbol": "OP",
+      "name": "Optimism",
+      "price": 0.160082,
+      "cg_id": "optimism"
     }
   ]
 }
