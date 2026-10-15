@@ -1,12 +1,9 @@
 {
-  "cap_date": "2026-10-14",
-  "cap_count": 5,
+  "cap_date": "2026-10-15",
+  "cap_count": 2,
   "sent": {
-    "new:solana:2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump": 1791936627,
-    "radar:quack-ai": 1791936627,
-    "radar:basic-attention-token": 1791936628,
-    "radar:optimism": 1791936628,
-    "new:robinhood:0x9faf478c3f9b407523a3d12307c0d34739062182": 1791953960
+    "radar:walrus-2": 1792024891,
+    "radar:quack-ai": 1792024892
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -233,15 +230,6 @@
       "address": "2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump"
     },
     {
-      "key": "radar:quack-ai",
-      "ts": 1791936627,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.04220302,
-      "cg_id": "quack-ai"
-    },
-    {
       "key": "radar:basic-attention-token",
       "ts": 1791936628,
       "type": "radar",
@@ -267,6 +255,24 @@
       "name": "IGNITION",
       "price": "0.006838",
       "address": "0x9faf478c3f9b407523a3d12307c0d34739062182"
+    },
+    {
+      "key": "radar:walrus-2",
+      "ts": 1792024891,
+      "type": "radar",
+      "symbol": "WAL",
+      "name": "Walrus",
+      "price": 0.058814,
+      "cg_id": "walrus-2"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1792024892,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.051008,
+      "cg_id": "quack-ai"
     }
   ]
 }
