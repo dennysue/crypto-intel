@@ -1,9 +1,12 @@
 {
   "cap_date": "2026-10-15",
-  "cap_count": 2,
+  "cap_count": 5,
   "sent": {
     "radar:walrus-2": 1792024891,
-    "radar:quack-ai": 1792024892
+    "radar:quack-ai": 1792024892,
+    "new:solana:dotnybdhqs2xrcn7vkh2tr7k6h7b6esezncpqjyapump": 1792041471,
+    "new:robinhood:0x9ef71f3c2f2d2b0bae183fe4eba12ef333b069b2": 1792041472,
+    "radar:zksync": 1792041472
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -131,51 +134,6 @@
   },
   "history": [
     {
-      "key": "new:solana:avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump",
-      "ts": 1791772041,
-      "type": "new",
-      "symbol": "GOMODOGE",
-      "name": "GOMODOGE",
-      "price": "0.0003315",
-      "address": "avfeas6mlgkxnvvwcc6qehlpyea8nrx42ib9wbkhpump"
-    },
-    {
-      "key": "new:robinhood:0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f",
-      "ts": 1791772042,
-      "type": "new",
-      "symbol": "CA",
-      "name": "CA",
-      "price": "0.0002238",
-      "address": "0xe2a953b5cfd68563393c3db89c4d5e746ea7ea6f"
-    },
-    {
-      "key": "radar:wormhole",
-      "ts": 1791772043,
-      "type": "radar",
-      "symbol": "W",
-      "name": "Wormhole",
-      "price": 0.02412686,
-      "cg_id": "wormhole"
-    },
-    {
-      "key": "radar:sonic-3",
-      "ts": 1791772043,
-      "type": "radar",
-      "symbol": "S",
-      "name": "Sonic",
-      "price": 0.060525,
-      "cg_id": "sonic-3"
-    },
-    {
-      "key": "radar:grass",
-      "ts": 1791772044,
-      "type": "radar",
-      "symbol": "GRASS",
-      "name": "Grass",
-      "price": 0.824865,
-      "cg_id": "grass"
-    },
-    {
       "key": "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump",
       "ts": 1791854719,
       "type": "new",
@@ -273,6 +231,33 @@
       "name": "Quack AI",
       "price": 0.051008,
       "cg_id": "quack-ai"
+    },
+    {
+      "key": "new:solana:dotnybdhqs2xrcn7vkh2tr7k6h7b6esezncpqjyapump",
+      "ts": 1792041471,
+      "type": "new",
+      "symbol": "BABYDOPE",
+      "name": "BABYDOPE",
+      "price": "0.0004112",
+      "address": "dotnybdhqs2xrcn7vkh2tr7k6h7b6esezncpqjyapump"
+    },
+    {
+      "key": "new:robinhood:0x9ef71f3c2f2d2b0bae183fe4eba12ef333b069b2",
+      "ts": 1792041472,
+      "type": "new",
+      "symbol": "STARMAN",
+      "name": "STARMAN",
+      "price": "0.0001492",
+      "address": "0x9ef71f3c2f2d2b0bae183fe4eba12ef333b069b2"
+    },
+    {
+      "key": "radar:zksync",
+      "ts": 1792041472,
+      "type": "radar",
+      "symbol": "ZK",
+      "name": "ZKsync",
+      "price": 0.01816526,
+      "cg_id": "zksync"
     }
   ]
 }
