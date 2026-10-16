@@ -1,10 +1,12 @@
 {
   "cap_date": "2026-10-16",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:solana:j2njsb6brnllmjm7a4cebryjwgoqxtrfuczuyytfpump": 1792108870,
     "radar:basic-attention-token": 1792108871,
-    "radar:akedo": 1792108871
+    "radar:akedo": 1792108871,
+    "new:robinhood:0xb7aee7411c850e480eaed50d37aeace4e601fe70": 1792124588,
+    "radar:injective-protocol": 1792124588
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -140,33 +142,6 @@
   },
   "history": [
     {
-      "key": "new:solana:7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump",
-      "ts": 1791854719,
-      "type": "new",
-      "symbol": "HUMPH",
-      "name": "HUMPH",
-      "price": "0.003794",
-      "address": "7jnwx4me9zgejmwy7zardg2lyjvs1wxd6dz1jvsfpump"
-    },
-    {
-      "key": "new:robinhood:0x278fe8f5b4978f78ed33d1d705e920fa67e17b55",
-      "ts": 1791854719,
-      "type": "new",
-      "symbol": "FORGE",
-      "name": "FORGE",
-      "price": "0.0004403",
-      "address": "0x278fe8f5b4978f78ed33d1d705e920fa67e17b55"
-    },
-    {
-      "key": "radar:reserve-rights-token",
-      "ts": 1791854720,
-      "type": "radar",
-      "symbol": "RSR",
-      "name": "Reserve Rights",
-      "price": 0.00200708,
-      "cg_id": "reserve-rights-token"
-    },
-    {
       "key": "radar:pearl-2",
       "ts": 1791878460,
       "type": "radar",
@@ -282,6 +257,24 @@
       "name": "Akedo",
       "price": 0.03271272,
       "cg_id": "akedo"
+    },
+    {
+      "key": "new:robinhood:0xb7aee7411c850e480eaed50d37aeace4e601fe70",
+      "ts": 1792124588,
+      "type": "new",
+      "symbol": "BANANA",
+      "name": "BANANA",
+      "price": "0.0002842",
+      "address": "0xb7aee7411c850e480eaed50d37aeace4e601fe70"
+    },
+    {
+      "key": "radar:injective-protocol",
+      "ts": 1792124588,
+      "type": "radar",
+      "symbol": "INJ",
+      "name": "Injective",
+      "price": 9.1,
+      "cg_id": "injective-protocol"
     }
   ]
 }
