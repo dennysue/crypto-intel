@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-16",
-  "cap_count": 5,
+  "cap_date": "2026-10-17",
+  "cap_count": 4,
   "sent": {
-    "new:solana:j2njsb6brnllmjm7a4cebryjwgoqxtrfuczuyytfpump": 1792108870,
-    "radar:basic-attention-token": 1792108871,
-    "radar:akedo": 1792108871,
-    "new:robinhood:0xb7aee7411c850e480eaed50d37aeace4e601fe70": 1792124588,
-    "radar:injective-protocol": 1792124588
+    "new:robinhood:0x48d343cae84ab737c46ce63cb74c926609eb03bb": 1792199255,
+    "new:solana:dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump": 1792199256,
+    "new:robinhood:0x177daf3d674e358c5cb0fe335ca8c23e003843e3": 1792199256,
+    "radar:quack-ai": 1792199257
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -138,45 +137,15 @@
     "newlist:OKX现货:XURNM": 1792108868,
     "newlist:OKX现货:XUSO": 1792108868,
     "newlist:OKX现货:XUVXY": 1792108869,
-    "newlist:OKX现货:XXBI": 1792108869
+    "newlist:OKX现货:XXBI": 1792108869,
+    "newlist:Gate:DNA": 1792199251,
+    "newlist:OKX合约:DNA": 1792199252,
+    "newlist:OKX合约:GS": 1792199252,
+    "newlist:OKX合约:JPM": 1792199253,
+    "newlist:OKX合约:MCD": 1792199254,
+    "newlist:OKX合约:V": 1792199254
   },
   "history": [
-    {
-      "key": "radar:pearl-2",
-      "ts": 1791878460,
-      "type": "radar",
-      "symbol": "PRL",
-      "name": "Pearl",
-      "price": 1.64,
-      "cg_id": "pearl-2"
-    },
-    {
-      "key": "new:ethereum:0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887",
-      "ts": 1791906823,
-      "type": "new",
-      "symbol": "DOGEBALL",
-      "name": "DOGEBALL",
-      "price": "0.01035",
-      "address": "0xba41ff65fd0a19aa75dd4e6a04e9d3c15acab887"
-    },
-    {
-      "key": "new:solana:2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump",
-      "ts": 1791936627,
-      "type": "new",
-      "symbol": "USDR",
-      "name": "USDR",
-      "price": "0.0007701",
-      "address": "2luv5g5mxsupfhddqjodvtygvsvszwuttrud1vuxpump"
-    },
-    {
-      "key": "radar:optimism",
-      "ts": 1791936628,
-      "type": "radar",
-      "symbol": "OP",
-      "name": "Optimism",
-      "price": 0.160082,
-      "cg_id": "optimism"
-    },
     {
       "key": "new:robinhood:0x9faf478c3f9b407523a3d12307c0d34739062182",
       "ts": 1791953960,
@@ -194,15 +163,6 @@
       "name": "Walrus",
       "price": 0.058814,
       "cg_id": "walrus-2"
-    },
-    {
-      "key": "radar:quack-ai",
-      "ts": 1792024892,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.051008,
-      "cg_id": "quack-ai"
     },
     {
       "key": "new:solana:dotnybdhqs2xrcn7vkh2tr7k6h7b6esezncpqjyapump",
@@ -275,6 +235,42 @@
       "name": "Injective",
       "price": 9.1,
       "cg_id": "injective-protocol"
+    },
+    {
+      "key": "new:robinhood:0x48d343cae84ab737c46ce63cb74c926609eb03bb",
+      "ts": 1792199255,
+      "type": "new",
+      "symbol": "MUT8",
+      "name": "MUT8",
+      "price": "0.001106",
+      "address": "0x48d343cae84ab737c46ce63cb74c926609eb03bb"
+    },
+    {
+      "key": "new:solana:dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump",
+      "ts": 1792199256,
+      "type": "new",
+      "symbol": "MAGA2028",
+      "name": "MAGA2028",
+      "price": "0.0004165",
+      "address": "dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump"
+    },
+    {
+      "key": "new:robinhood:0x177daf3d674e358c5cb0fe335ca8c23e003843e3",
+      "ts": 1792199256,
+      "type": "new",
+      "symbol": "COMS",
+      "name": "COMS",
+      "price": "0.0003369",
+      "address": "0x177daf3d674e358c5cb0fe335ca8c23e003843e3"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1792199257,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.064791,
+      "cg_id": "quack-ai"
     }
   ]
 }
