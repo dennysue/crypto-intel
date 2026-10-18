@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-17",
+  "cap_date": "2026-10-18",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x48d343cae84ab737c46ce63cb74c926609eb03bb": 1792199255,
-    "new:solana:dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump": 1792199256,
-    "new:robinhood:0x177daf3d674e358c5cb0fe335ca8c23e003843e3": 1792199256,
-    "radar:quack-ai": 1792199257,
-    "new:robinhood:0x6ce63b11a5d538f0633bdf08509249f253993d12": 1792215189
+    "new:ethereum:0xd58813e2bdb4647bd63d42304bd1d50cef605261": 1792284995,
+    "new:solana:6jve4nqpab3nkkxe6vakceijvsz8hpszyvdhh54hpump": 1792284996,
+    "new:robinhood:0xed8c0904bd5bf4001dc0feddf0d6f3087b457d2d": 1792284996,
+    "new:robinhood:0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798": 1792284997,
+    "radar:quack-ai": 1792284998
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -148,15 +148,6 @@
   },
   "history": [
     {
-      "key": "radar:walrus-2",
-      "ts": 1792024891,
-      "type": "radar",
-      "symbol": "WAL",
-      "name": "Walrus",
-      "price": 0.058814,
-      "cg_id": "walrus-2"
-    },
-    {
       "key": "new:solana:dotnybdhqs2xrcn7vkh2tr7k6h7b6esezncpqjyapump",
       "ts": 1792041471,
       "type": "new",
@@ -256,15 +247,6 @@
       "address": "0x177daf3d674e358c5cb0fe335ca8c23e003843e3"
     },
     {
-      "key": "radar:quack-ai",
-      "ts": 1792199257,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.064791,
-      "cg_id": "quack-ai"
-    },
-    {
       "key": "new:robinhood:0x6ce63b11a5d538f0633bdf08509249f253993d12",
       "ts": 1792215189,
       "type": "new",
@@ -272,6 +254,51 @@
       "name": "CHAMELEON",
       "price": "0.001420",
       "address": "0x6ce63b11a5d538f0633bdf08509249f253993d12"
+    },
+    {
+      "key": "new:ethereum:0xd58813e2bdb4647bd63d42304bd1d50cef605261",
+      "ts": 1792284995,
+      "type": "new",
+      "symbol": "CLAUDIA",
+      "name": "CLAUDIA",
+      "price": "0.006675",
+      "address": "0xd58813e2bdb4647bd63d42304bd1d50cef605261"
+    },
+    {
+      "key": "new:solana:6jve4nqpab3nkkxe6vakceijvsz8hpszyvdhh54hpump",
+      "ts": 1792284996,
+      "type": "new",
+      "symbol": "QTITS",
+      "name": "QTITS",
+      "price": "0.0004448",
+      "address": "6jve4nqpab3nkkxe6vakceijvsz8hpszyvdhh54hpump"
+    },
+    {
+      "key": "new:robinhood:0xed8c0904bd5bf4001dc0feddf0d6f3087b457d2d",
+      "ts": 1792284996,
+      "type": "new",
+      "symbol": "KOINU",
+      "name": "KOINU",
+      "price": "0.0004274",
+      "address": "0xed8c0904bd5bf4001dc0feddf0d6f3087b457d2d"
+    },
+    {
+      "key": "new:robinhood:0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798",
+      "ts": 1792284997,
+      "type": "new",
+      "symbol": "ANTWAR",
+      "name": "ANTWAR",
+      "price": "0.0001109",
+      "address": "0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1792284998,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.129193,
+      "cg_id": "quack-ai"
     }
   ]
 }
