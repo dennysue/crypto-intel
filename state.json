@@ -1,8 +1,12 @@
 {
   "cap_date": "2026-10-19",
-  "cap_count": 1,
+  "cap_count": 5,
   "sent": {
-    "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550": 1792373861
+    "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550": 1792373861,
+    "new:bsc:0x792567ede27247d4123840c27f68d7b8e2457777": 1792392440,
+    "new:solana:8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump": 1792392441,
+    "new:robinhood:0x354c460f99b0439e8058cb456185ad5707a20b09": 1792392441,
+    "radar:quack-ai": 1792392442
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -144,24 +148,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0xb7aee7411c850e480eaed50d37aeace4e601fe70",
-      "ts": 1792124588,
-      "type": "new",
-      "symbol": "BANANA",
-      "name": "BANANA",
-      "price": "0.0002842",
-      "address": "0xb7aee7411c850e480eaed50d37aeace4e601fe70"
-    },
-    {
-      "key": "radar:injective-protocol",
-      "ts": 1792124588,
-      "type": "radar",
-      "symbol": "INJ",
-      "name": "Injective",
-      "price": 9.1,
-      "cg_id": "injective-protocol"
-    },
-    {
       "key": "new:robinhood:0x48d343cae84ab737c46ce63cb74c926609eb03bb",
       "ts": 1792199255,
       "type": "new",
@@ -234,15 +220,6 @@
       "address": "0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798"
     },
     {
-      "key": "radar:quack-ai",
-      "ts": 1792284998,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.129193,
-      "cg_id": "quack-ai"
-    },
-    {
       "key": "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550",
       "ts": 1792373861,
       "type": "new",
@@ -250,6 +227,42 @@
       "name": "$15",
       "price": "0.0002410",
       "address": "0xdae123f1ee92892f4a9582bacd01a6c5f29b2550"
+    },
+    {
+      "key": "new:bsc:0x792567ede27247d4123840c27f68d7b8e2457777",
+      "ts": 1792392440,
+      "type": "new",
+      "symbol": "フリーダム.オブ.マネー",
+      "name": "フリーダム.オブ.マネー",
+      "price": "0.0001231",
+      "address": "0x792567ede27247d4123840c27f68d7b8e2457777"
+    },
+    {
+      "key": "new:solana:8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump",
+      "ts": 1792392441,
+      "type": "new",
+      "symbol": "XBT",
+      "name": "XBT",
+      "price": "0.0004411",
+      "address": "8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump"
+    },
+    {
+      "key": "new:robinhood:0x354c460f99b0439e8058cb456185ad5707a20b09",
+      "ts": 1792392441,
+      "type": "new",
+      "symbol": "NILLIONAIRE",
+      "name": "NILLIONAIRE",
+      "price": "0.0001976",
+      "address": "0x354c460f99b0439e8058cb456185ad5707a20b09"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1792392442,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.162562,
+      "cg_id": "quack-ai"
     }
   ]
 }
