@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-20",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump": 1792460832,
     "new:solana:cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump": 1792460833,
     "new:robinhood:0x53a8211374a6517e520f07f1a12f7f91c4261252": 1792460833,
-    "radar:bedrock-token": 1792460834
+    "radar:bedrock-token": 1792460834,
+    "new:robinhood:0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1": 1792498610
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -143,18 +144,16 @@
     "newlist:OKX合约:GS": 1792199252,
     "newlist:OKX合约:JPM": 1792199253,
     "newlist:OKX合约:MCD": 1792199254,
-    "newlist:OKX合约:V": 1792199254
+    "newlist:OKX合约:V": 1792199254,
+    "newlist:Gate:Q3L": 1792498606,
+    "newlist:Gate:Q3S": 1792498606,
+    "newlist:OKX合约:CRML": 1792498607,
+    "newlist:OKX合约:CVNA": 1792498608,
+    "newlist:OKX合约:MP": 1792498608,
+    "newlist:OKX合约:RUM": 1792498609,
+    "newlist:OKX合约:TWST": 1792498609
   },
   "history": [
-    {
-      "key": "new:robinhood:0x6ce63b11a5d538f0633bdf08509249f253993d12",
-      "ts": 1792215189,
-      "type": "new",
-      "symbol": "CHAMELEON",
-      "name": "CHAMELEON",
-      "price": "0.001420",
-      "address": "0x6ce63b11a5d538f0633bdf08509249f253993d12"
-    },
     {
       "key": "new:ethereum:0xd58813e2bdb4647bd63d42304bd1d50cef605261",
       "ts": 1792284995,
@@ -271,6 +270,15 @@
       "name": "Bedrock",
       "price": 0.670323,
       "cg_id": "bedrock-token"
+    },
+    {
+      "key": "new:robinhood:0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1",
+      "ts": 1792498610,
+      "type": "new",
+      "symbol": "LIFAS",
+      "name": "LIFAS",
+      "price": "0.0002808",
+      "address": "0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1"
     }
   ]
 }
