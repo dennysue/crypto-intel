@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-19",
-  "cap_count": 5,
+  "cap_date": "2026-10-20",
+  "cap_count": 4,
   "sent": {
-    "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550": 1792373861,
-    "new:bsc:0x792567ede27247d4123840c27f68d7b8e2457777": 1792392440,
-    "new:solana:8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump": 1792392441,
-    "new:robinhood:0x354c460f99b0439e8058cb456185ad5707a20b09": 1792392441,
-    "radar:quack-ai": 1792392442
+    "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump": 1792460832,
+    "new:solana:cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump": 1792460833,
+    "new:robinhood:0x53a8211374a6517e520f07f1a12f7f91c4261252": 1792460833,
+    "radar:bedrock-token": 1792460834
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -148,33 +147,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x48d343cae84ab737c46ce63cb74c926609eb03bb",
-      "ts": 1792199255,
-      "type": "new",
-      "symbol": "MUT8",
-      "name": "MUT8",
-      "price": "0.001106",
-      "address": "0x48d343cae84ab737c46ce63cb74c926609eb03bb"
-    },
-    {
-      "key": "new:solana:dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump",
-      "ts": 1792199256,
-      "type": "new",
-      "symbol": "MAGA2028",
-      "name": "MAGA2028",
-      "price": "0.0004165",
-      "address": "dplpk6bijy492g81seskfw6veyeh5v5yzy8uwsgepump"
-    },
-    {
-      "key": "new:robinhood:0x177daf3d674e358c5cb0fe335ca8c23e003843e3",
-      "ts": 1792199256,
-      "type": "new",
-      "symbol": "COMS",
-      "name": "COMS",
-      "price": "0.0003369",
-      "address": "0x177daf3d674e358c5cb0fe335ca8c23e003843e3"
-    },
-    {
       "key": "new:robinhood:0x6ce63b11a5d538f0633bdf08509249f253993d12",
       "ts": 1792215189,
       "type": "new",
@@ -263,6 +235,42 @@
       "name": "Quack AI",
       "price": 0.162562,
       "cg_id": "quack-ai"
+    },
+    {
+      "key": "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump",
+      "ts": 1792460832,
+      "type": "new",
+      "symbol": "COLLECTINU",
+      "name": "COLLECTINU",
+      "price": "0.0004777",
+      "address": "hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump"
+    },
+    {
+      "key": "new:solana:cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump",
+      "ts": 1792460833,
+      "type": "new",
+      "symbol": "ADOGYMOUS",
+      "name": "ADOGYMOUS",
+      "price": "0.0005788",
+      "address": "cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
+    },
+    {
+      "key": "new:robinhood:0x53a8211374a6517e520f07f1a12f7f91c4261252",
+      "ts": 1792460833,
+      "type": "new",
+      "symbol": "TA",
+      "name": "TA",
+      "price": "0.0001970",
+      "address": "0x53a8211374a6517e520f07f1a12f7f91c4261252"
+    },
+    {
+      "key": "radar:bedrock-token",
+      "ts": 1792460834,
+      "type": "radar",
+      "symbol": "BR",
+      "name": "Bedrock",
+      "price": 0.670323,
+      "cg_id": "bedrock-token"
     }
   ]
 }
