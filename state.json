@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-20",
-  "cap_count": 5,
+  "cap_date": "2026-10-21",
+  "cap_count": 4,
   "sent": {
-    "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump": 1792460832,
-    "new:solana:cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump": 1792460833,
-    "new:robinhood:0x53a8211374a6517e520f07f1a12f7f91c4261252": 1792460833,
-    "radar:bedrock-token": 1792460834,
-    "new:robinhood:0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1": 1792498610
+    "new:solana:amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump": 1792547420,
+    "new:robinhood:0xd81c003788fc9d667a58cae060f039d8fdc4e995": 1792547420,
+    "radar:compound-governance-token": 1792547421,
+    "radar:convex-finance": 1792547421
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -155,42 +154,6 @@
   },
   "history": [
     {
-      "key": "new:ethereum:0xd58813e2bdb4647bd63d42304bd1d50cef605261",
-      "ts": 1792284995,
-      "type": "new",
-      "symbol": "CLAUDIA",
-      "name": "CLAUDIA",
-      "price": "0.006675",
-      "address": "0xd58813e2bdb4647bd63d42304bd1d50cef605261"
-    },
-    {
-      "key": "new:solana:6jve4nqpab3nkkxe6vakceijvsz8hpszyvdhh54hpump",
-      "ts": 1792284996,
-      "type": "new",
-      "symbol": "QTITS",
-      "name": "QTITS",
-      "price": "0.0004448",
-      "address": "6jve4nqpab3nkkxe6vakceijvsz8hpszyvdhh54hpump"
-    },
-    {
-      "key": "new:robinhood:0xed8c0904bd5bf4001dc0feddf0d6f3087b457d2d",
-      "ts": 1792284996,
-      "type": "new",
-      "symbol": "KOINU",
-      "name": "KOINU",
-      "price": "0.0004274",
-      "address": "0xed8c0904bd5bf4001dc0feddf0d6f3087b457d2d"
-    },
-    {
-      "key": "new:robinhood:0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798",
-      "ts": 1792284997,
-      "type": "new",
-      "symbol": "ANTWAR",
-      "name": "ANTWAR",
-      "price": "0.0001109",
-      "address": "0xc25d86bc1e8d0d23f4521bfab8bf37e1db5dc798"
-    },
-    {
       "key": "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550",
       "ts": 1792373861,
       "type": "new",
@@ -279,6 +242,42 @@
       "name": "LIFAS",
       "price": "0.0002808",
       "address": "0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1"
+    },
+    {
+      "key": "new:solana:amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump",
+      "ts": 1792547420,
+      "type": "new",
+      "symbol": "KIMCHIBOSS",
+      "name": "KIMCHIBOSS",
+      "price": "0.0008334",
+      "address": "amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump"
+    },
+    {
+      "key": "new:robinhood:0xd81c003788fc9d667a58cae060f039d8fdc4e995",
+      "ts": 1792547420,
+      "type": "new",
+      "symbol": "KIMCHI",
+      "name": "KIMCHI",
+      "price": "0.0003102",
+      "address": "0xd81c003788fc9d667a58cae060f039d8fdc4e995"
+    },
+    {
+      "key": "radar:compound-governance-token",
+      "ts": 1792547421,
+      "type": "radar",
+      "symbol": "COMP",
+      "name": "Compound",
+      "price": 26.25,
+      "cg_id": "compound-governance-token"
+    },
+    {
+      "key": "radar:convex-finance",
+      "ts": 1792547421,
+      "type": "radar",
+      "symbol": "CVX",
+      "name": "Convex Finance",
+      "price": 2.53,
+      "cg_id": "convex-finance"
     }
   ]
 }
