@@ -1,12 +1,9 @@
 {
-  "cap_date": "2026-10-21",
-  "cap_count": 5,
+  "cap_date": "2026-10-22",
+  "cap_count": 2,
   "sent": {
-    "new:solana:amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump": 1792547420,
-    "new:robinhood:0xd81c003788fc9d667a58cae060f039d8fdc4e995": 1792547420,
-    "radar:compound-governance-token": 1792547421,
-    "radar:convex-finance": 1792547421,
-    "radar:bitway": 1792565757
+    "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be": 1792637955,
+    "radar:hood-sword-inu": 1792637955
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -155,15 +152,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0xdae123f1ee92892f4a9582bacd01a6c5f29b2550",
-      "ts": 1792373861,
-      "type": "new",
-      "symbol": "$15",
-      "name": "$15",
-      "price": "0.0002410",
-      "address": "0xdae123f1ee92892f4a9582bacd01a6c5f29b2550"
-    },
-    {
       "key": "new:bsc:0x792567ede27247d4123840c27f68d7b8e2457777",
       "ts": 1792392440,
       "type": "new",
@@ -288,6 +276,24 @@
       "name": "Bitway",
       "price": 2.1,
       "cg_id": "bitway"
+    },
+    {
+      "key": "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be",
+      "ts": 1792637955,
+      "type": "new",
+      "symbol": "RETAIL",
+      "name": "RETAIL",
+      "price": "0.0005620",
+      "address": "86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be"
+    },
+    {
+      "key": "radar:hood-sword-inu",
+      "ts": 1792637955,
+      "type": "radar",
+      "symbol": "HOODINU",
+      "name": "Hood Sword Inu",
+      "price": 0.158761,
+      "cg_id": "hood-sword-inu"
     }
   ]
 }
