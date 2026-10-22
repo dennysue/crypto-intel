@@ -1,9 +1,12 @@
 {
   "cap_date": "2026-10-22",
-  "cap_count": 2,
+  "cap_count": 5,
   "sent": {
     "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be": 1792637955,
-    "radar:hood-sword-inu": 1792637955
+    "radar:hood-sword-inu": 1792637955,
+    "new:bsc:0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff": 1792657676,
+    "new:bsc:0x0af9a0016769951e7a6b9a88358748b1f34f277b": 1792657676,
+    "radar:akedo": 1792657677
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -152,42 +155,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0x792567ede27247d4123840c27f68d7b8e2457777",
-      "ts": 1792392440,
-      "type": "new",
-      "symbol": "フリーダム.オブ.マネー",
-      "name": "フリーダム.オブ.マネー",
-      "price": "0.0001231",
-      "address": "0x792567ede27247d4123840c27f68d7b8e2457777"
-    },
-    {
-      "key": "new:solana:8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump",
-      "ts": 1792392441,
-      "type": "new",
-      "symbol": "XBT",
-      "name": "XBT",
-      "price": "0.0004411",
-      "address": "8nfx91yvhxyhkn8cnmjg9q4bcerlkfdovteomxstpump"
-    },
-    {
-      "key": "new:robinhood:0x354c460f99b0439e8058cb456185ad5707a20b09",
-      "ts": 1792392441,
-      "type": "new",
-      "symbol": "NILLIONAIRE",
-      "name": "NILLIONAIRE",
-      "price": "0.0001976",
-      "address": "0x354c460f99b0439e8058cb456185ad5707a20b09"
-    },
-    {
-      "key": "radar:quack-ai",
-      "ts": 1792392442,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.162562,
-      "cg_id": "quack-ai"
-    },
-    {
       "key": "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump",
       "ts": 1792460832,
       "type": "new",
@@ -294,6 +261,33 @@
       "name": "Hood Sword Inu",
       "price": 0.158761,
       "cg_id": "hood-sword-inu"
+    },
+    {
+      "key": "new:bsc:0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff",
+      "ts": 1792657676,
+      "type": "new",
+      "symbol": "CRAZYCOIN",
+      "name": "CRAZYCOIN",
+      "price": "0.003010",
+      "address": "0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff"
+    },
+    {
+      "key": "new:bsc:0x0af9a0016769951e7a6b9a88358748b1f34f277b",
+      "ts": 1792657676,
+      "type": "new",
+      "symbol": "GXB",
+      "name": "GXB",
+      "price": "0.2246",
+      "address": "0x0af9a0016769951e7a6b9a88358748b1f34f277b"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1792657677,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.02545621,
+      "cg_id": "akedo"
     }
   ]
 }
