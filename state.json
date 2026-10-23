@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-22",
-  "cap_count": 5,
+  "cap_date": "2026-10-23",
+  "cap_count": 4,
   "sent": {
-    "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be": 1792637955,
-    "radar:hood-sword-inu": 1792637955,
-    "new:bsc:0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff": 1792657676,
-    "new:bsc:0x0af9a0016769951e7a6b9a88358748b1f34f277b": 1792657676,
-    "radar:akedo": 1792657677
+    "new:solana:bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump": 1792714867,
+    "new:robinhood:0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895": 1792714867,
+    "radar:akedo": 1792714868,
+    "radar:bitway": 1792714868
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -244,15 +243,6 @@
       "cg_id": "convex-finance"
     },
     {
-      "key": "radar:bitway",
-      "ts": 1792565757,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 2.1,
-      "cg_id": "bitway"
-    },
-    {
       "key": "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be",
       "ts": 1792637955,
       "type": "new",
@@ -289,13 +279,40 @@
       "address": "0x0af9a0016769951e7a6b9a88358748b1f34f277b"
     },
     {
+      "key": "new:solana:bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump",
+      "ts": 1792714867,
+      "type": "new",
+      "symbol": "KIMCHINU",
+      "name": "KIMCHINU",
+      "price": "0.0007417",
+      "address": "bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump"
+    },
+    {
+      "key": "new:robinhood:0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895",
+      "ts": 1792714867,
+      "type": "new",
+      "symbol": "FALCONS",
+      "name": "FALCONS",
+      "price": "0.0002980",
+      "address": "0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895"
+    },
+    {
       "key": "radar:akedo",
-      "ts": 1792657677,
+      "ts": 1792714868,
       "type": "radar",
       "symbol": "AKE",
       "name": "Akedo",
-      "price": 0.02545621,
+      "price": 0.0315075,
       "cg_id": "akedo"
+    },
+    {
+      "key": "radar:bitway",
+      "ts": 1792714868,
+      "type": "radar",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "price": 1.88,
+      "cg_id": "bitway"
     }
   ]
 }
