@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-23",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:solana:bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump": 1792714867,
     "new:robinhood:0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895": 1792714867,
     "radar:akedo": 1792714868,
-    "radar:bitway": 1792714868
+    "radar:bitway": 1792714868,
+    "new:bsc:0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521": 1792749619
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -162,42 +163,6 @@
   },
   "history": [
     {
-      "key": "new:solana:hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump",
-      "ts": 1792460832,
-      "type": "new",
-      "symbol": "COLLECTINU",
-      "name": "COLLECTINU",
-      "price": "0.0004777",
-      "address": "hdpubr4csu9uhicx1vx7sagtqtojfq36cwcffkgrpump"
-    },
-    {
-      "key": "new:solana:cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump",
-      "ts": 1792460833,
-      "type": "new",
-      "symbol": "ADOGYMOUS",
-      "name": "ADOGYMOUS",
-      "price": "0.0005788",
-      "address": "cv37zbhxdgza5cgeppjhshexz9jpslncwuaqrbgcpump"
-    },
-    {
-      "key": "new:robinhood:0x53a8211374a6517e520f07f1a12f7f91c4261252",
-      "ts": 1792460833,
-      "type": "new",
-      "symbol": "TA",
-      "name": "TA",
-      "price": "0.0001970",
-      "address": "0x53a8211374a6517e520f07f1a12f7f91c4261252"
-    },
-    {
-      "key": "radar:bedrock-token",
-      "ts": 1792460834,
-      "type": "radar",
-      "symbol": "BR",
-      "name": "Bedrock",
-      "price": 0.670323,
-      "cg_id": "bedrock-token"
-    },
-    {
       "key": "new:robinhood:0x58a8046743ed5c8b44099d6461cd7d4f7439e8e1",
       "ts": 1792498610,
       "type": "new",
@@ -313,6 +278,15 @@
       "name": "Bitway",
       "price": 1.88,
       "cg_id": "bitway"
+    },
+    {
+      "key": "new:bsc:0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521",
+      "ts": 1792749619,
+      "type": "new",
+      "symbol": "50000000",
+      "name": "50000000",
+      "price": "0.2584",
+      "address": "0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521"
     }
   ]
 }
