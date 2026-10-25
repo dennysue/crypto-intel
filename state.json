@@ -1,12 +1,9 @@
 {
-  "cap_date": "2026-10-24",
-  "cap_count": 5,
+  "cap_date": "2026-10-25",
+  "cap_count": 2,
   "sent": {
-    "new:solana:j9wl4zqvcfvltydjthomgclasjhrmzomnvmp4y2cpump": 1792800695,
-    "new:solana:ebwetxzlptdoxrokpbuthkupwv1dg9dftawazfz6pump": 1792800696,
-    "new:robinhood:0x7a882351537da6940666af2308ef8fe1bcef4317": 1792800697,
-    "radar:irys": 1792800697,
-    "radar:akedo": 1792800698
+    "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump": 1792892299,
+    "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump": 1792892300
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -174,42 +171,6 @@
   },
   "history": [
     {
-      "key": "new:solana:amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump",
-      "ts": 1792547420,
-      "type": "new",
-      "symbol": "KIMCHIBOSS",
-      "name": "KIMCHIBOSS",
-      "price": "0.0008334",
-      "address": "amus3kcheipzwtzmefruzw6dr9ymykswu8rgboaupump"
-    },
-    {
-      "key": "new:robinhood:0xd81c003788fc9d667a58cae060f039d8fdc4e995",
-      "ts": 1792547420,
-      "type": "new",
-      "symbol": "KIMCHI",
-      "name": "KIMCHI",
-      "price": "0.0003102",
-      "address": "0xd81c003788fc9d667a58cae060f039d8fdc4e995"
-    },
-    {
-      "key": "radar:compound-governance-token",
-      "ts": 1792547421,
-      "type": "radar",
-      "symbol": "COMP",
-      "name": "Compound",
-      "price": 26.25,
-      "cg_id": "compound-governance-token"
-    },
-    {
-      "key": "radar:convex-finance",
-      "ts": 1792547421,
-      "type": "radar",
-      "symbol": "CVX",
-      "name": "Convex Finance",
-      "price": 2.53,
-      "cg_id": "convex-finance"
-    },
-    {
       "key": "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be",
       "ts": 1792637955,
       "type": "new",
@@ -325,6 +286,24 @@
       "name": "Akedo",
       "price": 0.03841704,
       "cg_id": "akedo"
+    },
+    {
+      "key": "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump",
+      "ts": 1792892299,
+      "type": "new",
+      "symbol": "MAYA",
+      "name": "MAYA",
+      "price": "0.001092",
+      "address": "3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump"
+    },
+    {
+      "key": "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump",
+      "ts": 1792892300,
+      "type": "new",
+      "symbol": "KURUMI",
+      "name": "KURUMI",
+      "price": "0.0003758",
+      "address": "auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump"
     }
   ]
 }
