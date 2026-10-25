@@ -1,9 +1,10 @@
 {
   "cap_date": "2026-10-25",
-  "cap_count": 2,
+  "cap_count": 3,
   "sent": {
     "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump": 1792892299,
-    "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump": 1792892300
+    "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump": 1792892300,
+    "radar:cap-4": 1792911001
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -171,24 +172,6 @@
   },
   "history": [
     {
-      "key": "new:solana:86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be",
-      "ts": 1792637955,
-      "type": "new",
-      "symbol": "RETAIL",
-      "name": "RETAIL",
-      "price": "0.0005620",
-      "address": "86j9yovzuucjlaq4hfyax1cphrc9sjhwhsn4h9hh79be"
-    },
-    {
-      "key": "radar:hood-sword-inu",
-      "ts": 1792637955,
-      "type": "radar",
-      "symbol": "HOODINU",
-      "name": "Hood Sword Inu",
-      "price": 0.158761,
-      "cg_id": "hood-sword-inu"
-    },
-    {
       "key": "new:bsc:0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff",
       "ts": 1792657676,
       "type": "new",
@@ -304,6 +287,15 @@
       "name": "KURUMI",
       "price": "0.0003758",
       "address": "auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump"
+    },
+    {
+      "key": "radar:cap-4",
+      "ts": 1792911001,
+      "type": "radar",
+      "symbol": "CAP",
+      "name": "Cap",
+      "price": 0.086019,
+      "cg_id": "cap-4"
     }
   ]
 }
