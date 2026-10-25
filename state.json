@@ -1,10 +1,12 @@
 {
   "cap_date": "2026-10-25",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump": 1792892299,
     "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump": 1792892300,
-    "radar:cap-4": 1792911001
+    "radar:cap-4": 1792911001,
+    "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018": 1792930018,
+    "radar:chain-2": 1792930018
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -172,24 +174,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff",
-      "ts": 1792657676,
-      "type": "new",
-      "symbol": "CRAZYCOIN",
-      "name": "CRAZYCOIN",
-      "price": "0.003010",
-      "address": "0xfeef9e068dcd8d9b662d6ad70e946cc4e31dffff"
-    },
-    {
-      "key": "new:bsc:0x0af9a0016769951e7a6b9a88358748b1f34f277b",
-      "ts": 1792657676,
-      "type": "new",
-      "symbol": "GXB",
-      "name": "GXB",
-      "price": "0.2246",
-      "address": "0x0af9a0016769951e7a6b9a88358748b1f34f277b"
-    },
-    {
       "key": "new:solana:bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump",
       "ts": 1792714867,
       "type": "new",
@@ -296,6 +280,24 @@
       "name": "Cap",
       "price": 0.086019,
       "cg_id": "cap-4"
+    },
+    {
+      "key": "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018",
+      "ts": 1792930018,
+      "type": "new",
+      "symbol": "CHUBBY",
+      "name": "CHUBBY",
+      "price": "0.0001291",
+      "address": "0xb8a580938811644389701a1ab6ab42b2d76f4018"
+    },
+    {
+      "key": "radar:chain-2",
+      "ts": 1792930018,
+      "type": "radar",
+      "symbol": "XCN",
+      "name": "Onyxcoin",
+      "price": 0.00441577,
+      "cg_id": "chain-2"
     }
   ]
 }
