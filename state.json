@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-26",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78": 1792978723,
     "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump": 1792978723,
     "radar:cap-4": 1792978724,
-    "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump": 1792997810
+    "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump": 1792997810,
+    "new:robinhood:0xc4e06244a8cd281f1cc8b790707dd01a51d16698": 1793022903
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -173,15 +174,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521",
-      "ts": 1792749619,
-      "type": "new",
-      "symbol": "50000000",
-      "name": "50000000",
-      "price": "0.2584",
-      "address": "0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521"
-    },
-    {
       "key": "new:solana:j9wl4zqvcfvltydjthomgclasjhrmzomnvmp4y2cpump",
       "ts": 1792800695,
       "type": "new",
@@ -297,6 +289,15 @@
       "name": "TFOMO",
       "price": "0.0004623",
       "address": "hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump"
+    },
+    {
+      "key": "new:robinhood:0xc4e06244a8cd281f1cc8b790707dd01a51d16698",
+      "ts": 1793022903,
+      "type": "new",
+      "symbol": "ILY",
+      "name": "ILY",
+      "price": "0.0002619",
+      "address": "0xc4e06244a8cd281f1cc8b790707dd01a51d16698"
     }
   ]
 }
