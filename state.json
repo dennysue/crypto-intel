@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-10-26",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78": 1792978723,
     "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump": 1792978723,
-    "radar:cap-4": 1792978724
+    "radar:cap-4": 1792978724,
+    "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump": 1792997810
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -287,6 +288,15 @@
       "name": "Cap",
       "price": 0.112963,
       "cg_id": "cap-4"
+    },
+    {
+      "key": "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump",
+      "ts": 1792997810,
+      "type": "new",
+      "symbol": "TFOMO",
+      "name": "TFOMO",
+      "price": "0.0004623",
+      "address": "hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump"
     }
   ]
 }
