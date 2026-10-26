@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-10-25",
-  "cap_count": 5,
+  "cap_date": "2026-10-26",
+  "cap_count": 3,
   "sent": {
-    "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump": 1792892299,
-    "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump": 1792892300,
-    "radar:cap-4": 1792911001,
-    "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018": 1792930018,
-    "radar:chain-2": 1792930018
+    "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78": 1792978723,
+    "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump": 1792978723,
+    "radar:cap-4": 1792978724
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -174,33 +172,6 @@
   },
   "history": [
     {
-      "key": "new:solana:bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump",
-      "ts": 1792714867,
-      "type": "new",
-      "symbol": "KIMCHINU",
-      "name": "KIMCHINU",
-      "price": "0.0007417",
-      "address": "bbazxnpruwyfvuhnwwk25vzhwd5prwdj5n47njtgpump"
-    },
-    {
-      "key": "new:robinhood:0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895",
-      "ts": 1792714867,
-      "type": "new",
-      "symbol": "FALCONS",
-      "name": "FALCONS",
-      "price": "0.0002980",
-      "address": "0xad459c3adc5ea2d3b0d9c62524b0756ce9fc5895"
-    },
-    {
-      "key": "radar:bitway",
-      "ts": 1792714868,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 1.88,
-      "cg_id": "bitway"
-    },
-    {
       "key": "new:bsc:0xd7aa9ed7a3b5b575743f8c3a628f050f2f2fc521",
       "ts": 1792749619,
       "type": "new",
@@ -273,15 +244,6 @@
       "address": "auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump"
     },
     {
-      "key": "radar:cap-4",
-      "ts": 1792911001,
-      "type": "radar",
-      "symbol": "CAP",
-      "name": "Cap",
-      "price": 0.086019,
-      "cg_id": "cap-4"
-    },
-    {
       "key": "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018",
       "ts": 1792930018,
       "type": "new",
@@ -298,6 +260,33 @@
       "name": "Onyxcoin",
       "price": 0.00441577,
       "cg_id": "chain-2"
+    },
+    {
+      "key": "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78",
+      "ts": 1792978723,
+      "type": "new",
+      "symbol": "ZERO",
+      "name": "ZERO",
+      "price": "0.001380",
+      "address": "0x34bdf88065352838f5a917ea039c8b9adecd9e78"
+    },
+    {
+      "key": "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump",
+      "ts": 1792978723,
+      "type": "new",
+      "symbol": "TIT",
+      "name": "TIT",
+      "price": "0.001417",
+      "address": "c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump"
+    },
+    {
+      "key": "radar:cap-4",
+      "ts": 1792978724,
+      "type": "radar",
+      "symbol": "CAP",
+      "name": "Cap",
+      "price": 0.112963,
+      "cg_id": "cap-4"
     }
   ]
 }
