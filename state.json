@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-26",
+  "cap_date": "2026-10-27",
   "cap_count": 5,
   "sent": {
-    "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78": 1792978723,
-    "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump": 1792978723,
-    "radar:cap-4": 1792978724,
-    "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump": 1792997810,
-    "new:robinhood:0xc4e06244a8cd281f1cc8b790707dd01a51d16698": 1793022903
+    "new:ethereum:0xf2fe457d03302ea6c3b1f23038adeea88aeb0761": 1793067338,
+    "new:solana:27qg7ecngfmbthfqeqxts4qjfnvu6gxf8w1ahjijpump": 1793067339,
+    "new:solana:6zmfmxjovo7ivtrypsp7ysphm5tcbv4sh5twsdgapump": 1793067340,
+    "new:solana:dmnmwuvo1a9hbsnixbdnatsohczj8cdamuwvrm1qpump": 1793067341,
+    "new:robinhood:0x8caeb823afe6bd6e6737da976f47b0a8395cbec8": 1793067342
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -182,51 +182,6 @@
   },
   "history": [
     {
-      "key": "new:solana:j9wl4zqvcfvltydjthomgclasjhrmzomnvmp4y2cpump",
-      "ts": 1792800695,
-      "type": "new",
-      "symbol": "MOUSTACHE",
-      "name": "MOUSTACHE",
-      "price": "0.0006930",
-      "address": "j9wl4zqvcfvltydjthomgclasjhrmzomnvmp4y2cpump"
-    },
-    {
-      "key": "new:solana:ebwetxzlptdoxrokpbuthkupwv1dg9dftawazfz6pump",
-      "ts": 1792800696,
-      "type": "new",
-      "symbol": "IC",
-      "name": "IC",
-      "price": "0.0004229",
-      "address": "ebwetxzlptdoxrokpbuthkupwv1dg9dftawazfz6pump"
-    },
-    {
-      "key": "new:robinhood:0x7a882351537da6940666af2308ef8fe1bcef4317",
-      "ts": 1792800697,
-      "type": "new",
-      "symbol": "KURIBO",
-      "name": "KURIBO",
-      "price": "0.0002123",
-      "address": "0x7a882351537da6940666af2308ef8fe1bcef4317"
-    },
-    {
-      "key": "radar:irys",
-      "ts": 1792800697,
-      "type": "radar",
-      "symbol": "IRYS",
-      "name": "Irys",
-      "price": 0.080385,
-      "cg_id": "irys"
-    },
-    {
-      "key": "radar:akedo",
-      "ts": 1792800698,
-      "type": "radar",
-      "symbol": "AKE",
-      "name": "Akedo",
-      "price": 0.03841704,
-      "cg_id": "akedo"
-    },
-    {
       "key": "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump",
       "ts": 1792892299,
       "type": "new",
@@ -306,6 +261,51 @@
       "name": "ILY",
       "price": "0.0002619",
       "address": "0xc4e06244a8cd281f1cc8b790707dd01a51d16698"
+    },
+    {
+      "key": "new:ethereum:0xf2fe457d03302ea6c3b1f23038adeea88aeb0761",
+      "ts": 1793067338,
+      "type": "new",
+      "symbol": "GINNAN",
+      "name": "GINNAN",
+      "price": "0.0005901",
+      "address": "0xf2fe457d03302ea6c3b1f23038adeea88aeb0761"
+    },
+    {
+      "key": "new:solana:27qg7ecngfmbthfqeqxts4qjfnvu6gxf8w1ahjijpump",
+      "ts": 1793067339,
+      "type": "new",
+      "symbol": "ELON2028",
+      "name": "ELON2028",
+      "price": "0.001460",
+      "address": "27qg7ecngfmbthfqeqxts4qjfnvu6gxf8w1ahjijpump"
+    },
+    {
+      "key": "new:solana:6zmfmxjovo7ivtrypsp7ysphm5tcbv4sh5twsdgapump",
+      "ts": 1793067340,
+      "type": "new",
+      "symbol": "TRUMP2028",
+      "name": "TRUMP2028",
+      "price": "0.0009110",
+      "address": "6zmfmxjovo7ivtrypsp7ysphm5tcbv4sh5twsdgapump"
+    },
+    {
+      "key": "new:solana:dmnmwuvo1a9hbsnixbdnatsohczj8cdamuwvrm1qpump",
+      "ts": 1793067341,
+      "type": "new",
+      "symbol": "HACHI",
+      "name": "HACHI",
+      "price": "0.0003865",
+      "address": "dmnmwuvo1a9hbsnixbdnatsohczj8cdamuwvrm1qpump"
+    },
+    {
+      "key": "new:robinhood:0x8caeb823afe6bd6e6737da976f47b0a8395cbec8",
+      "ts": 1793067342,
+      "type": "new",
+      "symbol": "EDS",
+      "name": "EDS",
+      "price": "0.0002390",
+      "address": "0x8caeb823afe6bd6e6737da976f47b0a8395cbec8"
     }
   ]
 }
