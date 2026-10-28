@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-28",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x8173d4841e574919d0dffc5ba65707a2dacd219c": 1793153317,
     "new:robinhood:0x35601a4b95474096226cb7362c3273fe7a9b94d3": 1793153318,
     "radar:bitway": 1793153318,
-    "radar:pons": 1793153319
+    "radar:pons": 1793153319,
+    "radar:quack-ai": 1793200648
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -195,24 +196,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018",
-      "ts": 1792930018,
-      "type": "new",
-      "symbol": "CHUBBY",
-      "name": "CHUBBY",
-      "price": "0.0001291",
-      "address": "0xb8a580938811644389701a1ab6ab42b2d76f4018"
-    },
-    {
-      "key": "radar:chain-2",
-      "ts": 1792930018,
-      "type": "radar",
-      "symbol": "XCN",
-      "name": "Onyxcoin",
-      "price": 0.00441577,
-      "cg_id": "chain-2"
-    },
-    {
       "key": "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78",
       "ts": 1792978723,
       "type": "new",
@@ -337,6 +320,15 @@
       "name": "Pons",
       "price": 0.291199,
       "cg_id": "pons"
+    },
+    {
+      "key": "radar:quack-ai",
+      "ts": 1793200648,
+      "type": "radar",
+      "symbol": "Q",
+      "name": "Quack AI",
+      "price": 0.058302,
+      "cg_id": "quack-ai"
     }
   ]
 }
