@@ -1,12 +1,11 @@
 {
-  "cap_date": "2026-10-27",
-  "cap_count": 5,
+  "cap_date": "2026-10-28",
+  "cap_count": 4,
   "sent": {
-    "new:ethereum:0xf2fe457d03302ea6c3b1f23038adeea88aeb0761": 1793067338,
-    "new:solana:27qg7ecngfmbthfqeqxts4qjfnvu6gxf8w1ahjijpump": 1793067339,
-    "new:solana:6zmfmxjovo7ivtrypsp7ysphm5tcbv4sh5twsdgapump": 1793067340,
-    "new:solana:dmnmwuvo1a9hbsnixbdnatsohczj8cdamuwvrm1qpump": 1793067341,
-    "new:robinhood:0x8caeb823afe6bd6e6737da976f47b0a8395cbec8": 1793067342
+    "new:robinhood:0x8173d4841e574919d0dffc5ba65707a2dacd219c": 1793153317,
+    "new:robinhood:0x35601a4b95474096226cb7362c3273fe7a9b94d3": 1793153318,
+    "radar:bitway": 1793153318,
+    "radar:pons": 1793153319
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -196,24 +195,6 @@
   },
   "history": [
     {
-      "key": "new:solana:3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump",
-      "ts": 1792892299,
-      "type": "new",
-      "symbol": "MAYA",
-      "name": "MAYA",
-      "price": "0.001092",
-      "address": "3kpyr7um657bbcw64glhqpjfpybyjeivhu4ed3cnpump"
-    },
-    {
-      "key": "new:solana:auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump",
-      "ts": 1792892300,
-      "type": "new",
-      "symbol": "KURUMI",
-      "name": "KURUMI",
-      "price": "0.0003758",
-      "address": "auhk6bstmu6nemt7epnveljtgezx9js76lm48pxipump"
-    },
-    {
       "key": "new:robinhood:0xb8a580938811644389701a1ab6ab42b2d76f4018",
       "ts": 1792930018,
       "type": "new",
@@ -320,6 +301,42 @@
       "name": "EDS",
       "price": "0.0002390",
       "address": "0x8caeb823afe6bd6e6737da976f47b0a8395cbec8"
+    },
+    {
+      "key": "new:robinhood:0x8173d4841e574919d0dffc5ba65707a2dacd219c",
+      "ts": 1793153317,
+      "type": "new",
+      "symbol": "MEOWLY",
+      "name": "MEOWLY",
+      "price": "0.0004565",
+      "address": "0x8173d4841e574919d0dffc5ba65707a2dacd219c"
+    },
+    {
+      "key": "new:robinhood:0x35601a4b95474096226cb7362c3273fe7a9b94d3",
+      "ts": 1793153318,
+      "type": "new",
+      "symbol": "MEAT",
+      "name": "MEAT",
+      "price": "0.0004348",
+      "address": "0x35601a4b95474096226cb7362c3273fe7a9b94d3"
+    },
+    {
+      "key": "radar:bitway",
+      "ts": 1793153318,
+      "type": "radar",
+      "symbol": "BTW",
+      "name": "Bitway",
+      "price": 1.73,
+      "cg_id": "bitway"
+    },
+    {
+      "key": "radar:pons",
+      "ts": 1793153319,
+      "type": "radar",
+      "symbol": "PONS",
+      "name": "Pons",
+      "price": 0.291199,
+      "cg_id": "pons"
     }
   ]
 }
