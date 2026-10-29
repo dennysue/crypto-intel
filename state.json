@@ -1,12 +1,9 @@
 {
-  "cap_date": "2026-10-28",
-  "cap_count": 5,
+  "cap_date": "2026-10-29",
+  "cap_count": 2,
   "sent": {
-    "new:robinhood:0x8173d4841e574919d0dffc5ba65707a2dacd219c": 1793153317,
-    "new:robinhood:0x35601a4b95474096226cb7362c3273fe7a9b94d3": 1793153318,
-    "radar:bitway": 1793153318,
-    "radar:pons": 1793153319,
-    "radar:quack-ai": 1793200648
+    "new:solana:bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr": 1793232555,
+    "radar:quack-ai": 1793232556
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -322,12 +319,21 @@
       "cg_id": "pons"
     },
     {
+      "key": "new:solana:bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr",
+      "ts": 1793232555,
+      "type": "new",
+      "symbol": "FLOAT",
+      "name": "FLOAT",
+      "price": "0.001484",
+      "address": "bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr"
+    },
+    {
       "key": "radar:quack-ai",
-      "ts": 1793200648,
+      "ts": 1793232556,
       "type": "radar",
       "symbol": "Q",
       "name": "Quack AI",
-      "price": 0.058302,
+      "price": 0.067541,
       "cg_id": "quack-ai"
     }
   ]
