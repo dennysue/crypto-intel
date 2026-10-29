@@ -1,9 +1,12 @@
 {
   "cap_date": "2026-10-29",
-  "cap_count": 2,
+  "cap_count": 5,
   "sent": {
     "new:solana:bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr": 1793232555,
-    "radar:quack-ai": 1793232556
+    "radar:quack-ai": 1793232556,
+    "new:bsc:0xb124890d2db132d26008bed87089e3bd6e467777": 1793295369,
+    "new:solana:b41bvvrsqfgcvfnh5245pbqmncrrazh3yaqz9jvbpump": 1793295370,
+    "new:solana:fkugf7cpfy7hhujwberctfaex3xclfch9pkj2rduqtme": 1793295371
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -189,54 +192,10 @@
     "newlist:OKX合约:BAC": 1793142124,
     "newlist:OKX合约:CEG": 1793142125,
     "newlist:OKX合约:IBKR": 1793142125,
-    "newlist:OKX合约:MPWR": 1793142126
+    "newlist:OKX合约:MPWR": 1793142126,
+    "listing:288627": 1793295368
   },
   "history": [
-    {
-      "key": "new:ethereum:0x34bdf88065352838f5a917ea039c8b9adecd9e78",
-      "ts": 1792978723,
-      "type": "new",
-      "symbol": "ZERO",
-      "name": "ZERO",
-      "price": "0.001380",
-      "address": "0x34bdf88065352838f5a917ea039c8b9adecd9e78"
-    },
-    {
-      "key": "new:solana:c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump",
-      "ts": 1792978723,
-      "type": "new",
-      "symbol": "TIT",
-      "name": "TIT",
-      "price": "0.001417",
-      "address": "c4bdpk4bqaccsg5vvpzximdr48gpaqyffq5iymsrpump"
-    },
-    {
-      "key": "radar:cap-4",
-      "ts": 1792978724,
-      "type": "radar",
-      "symbol": "CAP",
-      "name": "Cap",
-      "price": 0.112963,
-      "cg_id": "cap-4"
-    },
-    {
-      "key": "new:solana:hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump",
-      "ts": 1792997810,
-      "type": "new",
-      "symbol": "TFOMO",
-      "name": "TFOMO",
-      "price": "0.0004623",
-      "address": "hjfzt5yvfedg2wjewtxekro2skb1chhj97xxx4bpump"
-    },
-    {
-      "key": "new:robinhood:0xc4e06244a8cd281f1cc8b790707dd01a51d16698",
-      "ts": 1793022903,
-      "type": "new",
-      "symbol": "ILY",
-      "name": "ILY",
-      "price": "0.0002619",
-      "address": "0xc4e06244a8cd281f1cc8b790707dd01a51d16698"
-    },
     {
       "key": "new:ethereum:0xf2fe457d03302ea6c3b1f23038adeea88aeb0761",
       "ts": 1793067338,
@@ -335,6 +294,33 @@
       "name": "Quack AI",
       "price": 0.067541,
       "cg_id": "quack-ai"
+    },
+    {
+      "key": "new:bsc:0xb124890d2db132d26008bed87089e3bd6e467777",
+      "ts": 1793295369,
+      "type": "new",
+      "symbol": "PUMPKIN",
+      "name": "PUMPKIN",
+      "price": "0.0001887",
+      "address": "0xb124890d2db132d26008bed87089e3bd6e467777"
+    },
+    {
+      "key": "new:solana:b41bvvrsqfgcvfnh5245pbqmncrrazh3yaqz9jvbpump",
+      "ts": 1793295370,
+      "type": "new",
+      "symbol": "BLOBO",
+      "name": "BLOBO",
+      "price": "0.0002234",
+      "address": "b41bvvrsqfgcvfnh5245pbqmncrrazh3yaqz9jvbpump"
+    },
+    {
+      "key": "new:solana:fkugf7cpfy7hhujwberctfaex3xclfch9pkj2rduqtme",
+      "ts": 1793295371,
+      "type": "new",
+      "symbol": "HI",
+      "name": "HI",
+      "price": "0.0002888",
+      "address": "fkugf7cpfy7hhujwberctfaex3xclfch9pkj2rduqtme"
     }
   ]
 }
