@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-10-30",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x0c395ab174044813578d8eb1e21fece9c9696177": 1793324764,
     "radar:quack-ai": 1793346279,
     "radar:beam-2": 1793346280,
-    "radar:kinetiq": 1793346280
+    "radar:kinetiq": 1793346280,
+    "new:solana:etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump": 1793370799
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -306,6 +307,15 @@
       "name": "Kinetiq",
       "price": 0.5545,
       "cg_id": "kinetiq"
+    },
+    {
+      "key": "new:solana:etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump",
+      "ts": 1793370799,
+      "type": "new",
+      "symbol": "SAFU",
+      "name": "SAFU",
+      "price": "0.0004820",
+      "address": "etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump"
     }
   ]
 }
