@@ -1,12 +1,12 @@
 {
-  "cap_date": "2026-10-30",
+  "cap_date": "2026-10-31",
   "cap_count": 5,
   "sent": {
-    "new:robinhood:0x0c395ab174044813578d8eb1e21fece9c9696177": 1793324764,
-    "radar:quack-ai": 1793346279,
-    "radar:beam-2": 1793346280,
-    "radar:kinetiq": 1793346280,
-    "new:solana:etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump": 1793370799
+    "new:solana:hvitmaeh6tktoqonoinwqwcrzsydyiaszhp7ymmspump": 1793413667,
+    "new:solana:6njvg7wv1ubawbphup7pehlbd26u4cj6vxngshobpump": 1793413667,
+    "new:solana:fwatmyiekhruj1yutcmvg1njrhzwwqhwjr11pbympump": 1793413668,
+    "new:robinhood:0xc428f03c4a1d9a84d7c88a25cb56f86795fbb8bd": 1793413668,
+    "new:robinhood:0x7526125d3714920b52dbad4493ae98418164cac5": 1793413669
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -197,45 +197,16 @@
     "newlist:Gate:CBRS3L": 1793324762,
     "newlist:Gate:CBRS3S": 1793324762,
     "newlist:Gate:SOXS3L": 1793324763,
-    "newlist:Gate:SOXS3S": 1793324763
+    "newlist:Gate:SOXS3S": 1793324763,
+    "newlist:Gate:GTSOL": 1793413662,
+    "newlist:OKX合约:BIDU": 1793413663,
+    "newlist:OKX合约:GIGADEV": 1793413663,
+    "newlist:OKX合约:GILD": 1793413664,
+    "newlist:OKX合约:PDD": 1793413665,
+    "newlist:OKX合约:PFE": 1793413665,
+    "newlist:OKX合约:WUXIBIO": 1793413666
   },
   "history": [
-    {
-      "key": "new:robinhood:0x8173d4841e574919d0dffc5ba65707a2dacd219c",
-      "ts": 1793153317,
-      "type": "new",
-      "symbol": "MEOWLY",
-      "name": "MEOWLY",
-      "price": "0.0004565",
-      "address": "0x8173d4841e574919d0dffc5ba65707a2dacd219c"
-    },
-    {
-      "key": "new:robinhood:0x35601a4b95474096226cb7362c3273fe7a9b94d3",
-      "ts": 1793153318,
-      "type": "new",
-      "symbol": "MEAT",
-      "name": "MEAT",
-      "price": "0.0004348",
-      "address": "0x35601a4b95474096226cb7362c3273fe7a9b94d3"
-    },
-    {
-      "key": "radar:bitway",
-      "ts": 1793153318,
-      "type": "radar",
-      "symbol": "BTW",
-      "name": "Bitway",
-      "price": 1.73,
-      "cg_id": "bitway"
-    },
-    {
-      "key": "radar:pons",
-      "ts": 1793153319,
-      "type": "radar",
-      "symbol": "PONS",
-      "name": "Pons",
-      "price": 0.291199,
-      "cg_id": "pons"
-    },
     {
       "key": "new:solana:bv1a7cej5arnjqhmw4krqqafesmsd5lwcdnuzq52bmmr",
       "ts": 1793232555,
@@ -316,6 +287,51 @@
       "name": "SAFU",
       "price": "0.0004820",
       "address": "etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump"
+    },
+    {
+      "key": "new:solana:hvitmaeh6tktoqonoinwqwcrzsydyiaszhp7ymmspump",
+      "ts": 1793413667,
+      "type": "new",
+      "symbol": "LUMI",
+      "name": "LUMI",
+      "price": "0.0004450",
+      "address": "hvitmaeh6tktoqonoinwqwcrzsydyiaszhp7ymmspump"
+    },
+    {
+      "key": "new:solana:6njvg7wv1ubawbphup7pehlbd26u4cj6vxngshobpump",
+      "ts": 1793413667,
+      "type": "new",
+      "symbol": "APPLE",
+      "name": "APPLE",
+      "price": "0.0008062",
+      "address": "6njvg7wv1ubawbphup7pehlbd26u4cj6vxngshobpump"
+    },
+    {
+      "key": "new:solana:fwatmyiekhruj1yutcmvg1njrhzwwqhwjr11pbympump",
+      "ts": 1793413668,
+      "type": "new",
+      "symbol": "LEVERHEDGE",
+      "name": "LEVERHEDGE",
+      "price": "0.0004376",
+      "address": "fwatmyiekhruj1yutcmvg1njrhzwwqhwjr11pbympump"
+    },
+    {
+      "key": "new:robinhood:0xc428f03c4a1d9a84d7c88a25cb56f86795fbb8bd",
+      "ts": 1793413668,
+      "type": "new",
+      "symbol": "JOBS",
+      "name": "JOBS",
+      "price": "0.0001262",
+      "address": "0xc428f03c4a1d9a84d7c88a25cb56f86795fbb8bd"
+    },
+    {
+      "key": "new:robinhood:0x7526125d3714920b52dbad4493ae98418164cac5",
+      "ts": 1793413669,
+      "type": "new",
+      "symbol": "LUMI",
+      "name": "LUMI",
+      "price": "0.0001405",
+      "address": "0x7526125d3714920b52dbad4493ae98418164cac5"
     }
   ]
 }
