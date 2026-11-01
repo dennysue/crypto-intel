@@ -1,8 +1,10 @@
 {
   "cap_date": "2026-11-01",
-  "cap_count": 1,
+  "cap_count": 3,
   "sent": {
-    "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3": 1793495138
+    "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3": 1793495138,
+    "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef": 1793518036,
+    "radar:beam-2": 1793518036
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -249,15 +251,6 @@
       "cg_id": "quack-ai"
     },
     {
-      "key": "radar:beam-2",
-      "ts": 1793346280,
-      "type": "radar",
-      "symbol": "BEAM",
-      "name": "Beam",
-      "price": 0.00417725,
-      "cg_id": "beam-2"
-    },
-    {
       "key": "radar:kinetiq",
       "ts": 1793346280,
       "type": "radar",
@@ -328,6 +321,24 @@
       "name": "NIGGARACKET",
       "price": "0.00008738",
       "address": "0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3"
+    },
+    {
+      "key": "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef",
+      "ts": 1793518036,
+      "type": "new",
+      "symbol": "SAFU",
+      "name": "SAFU",
+      "price": "0.1429",
+      "address": "0x888781c1071d432b7778fd07a6ad8225fa99acef"
+    },
+    {
+      "key": "radar:beam-2",
+      "ts": 1793518036,
+      "type": "radar",
+      "symbol": "BEAM",
+      "name": "Beam",
+      "price": 0.00607945,
+      "cg_id": "beam-2"
     }
   ]
 }
