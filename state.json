@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-11-01",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3": 1793495138,
     "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef": 1793518036,
-    "radar:beam-2": 1793518036
+    "radar:beam-2": 1793518036,
+    "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win": 1793543137
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -339,6 +340,15 @@
       "name": "Beam",
       "price": 0.00607945,
       "cg_id": "beam-2"
+    },
+    {
+      "key": "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win",
+      "ts": 1793543137,
+      "type": "new",
+      "symbol": "1WIN",
+      "name": "1WIN",
+      "price": "0.06014",
+      "address": "fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win"
     }
   ]
 }
