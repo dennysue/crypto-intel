@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-11-01",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3": 1793495138,
     "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef": 1793518036,
     "radar:beam-2": 1793518036,
-    "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win": 1793543137
+    "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win": 1793543137,
+    "new:robinhood:0xaadd5138a7ab4816d5e03caefac9cc0d012fed15": 1793559723
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -207,33 +208,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0xb124890d2db132d26008bed87089e3bd6e467777",
-      "ts": 1793295369,
-      "type": "new",
-      "symbol": "PUMPKIN",
-      "name": "PUMPKIN",
-      "price": "0.0001887",
-      "address": "0xb124890d2db132d26008bed87089e3bd6e467777"
-    },
-    {
-      "key": "new:solana:b41bvvrsqfgcvfnh5245pbqmncrrazh3yaqz9jvbpump",
-      "ts": 1793295370,
-      "type": "new",
-      "symbol": "BLOBO",
-      "name": "BLOBO",
-      "price": "0.0002234",
-      "address": "b41bvvrsqfgcvfnh5245pbqmncrrazh3yaqz9jvbpump"
-    },
-    {
-      "key": "new:solana:fkugf7cpfy7hhujwberctfaex3xclfch9pkj2rduqtme",
-      "ts": 1793295371,
-      "type": "new",
-      "symbol": "HI",
-      "name": "HI",
-      "price": "0.0002888",
-      "address": "fkugf7cpfy7hhujwberctfaex3xclfch9pkj2rduqtme"
-    },
-    {
       "key": "new:robinhood:0x0c395ab174044813578d8eb1e21fece9c9696177",
       "ts": 1793324764,
       "type": "new",
@@ -349,6 +323,15 @@
       "name": "1WIN",
       "price": "0.06014",
       "address": "fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win"
+    },
+    {
+      "key": "new:robinhood:0xaadd5138a7ab4816d5e03caefac9cc0d012fed15",
+      "ts": 1793559723,
+      "type": "new",
+      "symbol": "CAMPUS",
+      "name": "CAMPUS",
+      "price": "0.0001120",
+      "address": "0xaadd5138a7ab4816d5e03caefac9cc0d012fed15"
     }
   ]
 }
