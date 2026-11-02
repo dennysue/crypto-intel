@@ -1,12 +1,8 @@
 {
-  "cap_date": "2026-11-01",
-  "cap_count": 5,
+  "cap_date": "2026-11-02",
+  "cap_count": 1,
   "sent": {
-    "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3": 1793495138,
-    "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef": 1793518036,
-    "radar:beam-2": 1793518036,
-    "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win": 1793543137,
-    "new:robinhood:0xaadd5138a7ab4816d5e03caefac9cc0d012fed15": 1793559723
+    "new:ethereum:0xcaf9faa57678e67636bdf87e2e6245c13e95316d": 1793584345
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -208,15 +204,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x0c395ab174044813578d8eb1e21fece9c9696177",
-      "ts": 1793324764,
-      "type": "new",
-      "symbol": "ZERODAY",
-      "name": "ZERODAY",
-      "price": "0.0001314",
-      "address": "0x0c395ab174044813578d8eb1e21fece9c9696177"
-    },
-    {
       "key": "radar:quack-ai",
       "ts": 1793346279,
       "type": "radar",
@@ -332,6 +319,15 @@
       "name": "CAMPUS",
       "price": "0.0001120",
       "address": "0xaadd5138a7ab4816d5e03caefac9cc0d012fed15"
+    },
+    {
+      "key": "new:ethereum:0xcaf9faa57678e67636bdf87e2e6245c13e95316d",
+      "ts": 1793584345,
+      "type": "new",
+      "symbol": "ANAKIN",
+      "name": "ANAKIN",
+      "price": "0.003647",
+      "address": "0xcaf9faa57678e67636bdf87e2e6245c13e95316d"
     }
   ]
 }
