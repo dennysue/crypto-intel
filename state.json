@@ -1,9 +1,10 @@
 {
   "cap_date": "2026-11-03",
-  "cap_count": 2,
+  "cap_count": 3,
   "sent": {
     "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161": 1793693817,
-    "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez": 1793693817
+    "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez": 1793693817,
+    "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda": 1793722802
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -201,7 +202,12 @@
     "newlist:OKX合约:GILD": 1793413664,
     "newlist:OKX合约:PDD": 1793413665,
     "newlist:OKX合约:PFE": 1793413665,
-    "newlist:OKX合约:WUXIBIO": 1793413666
+    "newlist:OKX合约:WUXIBIO": 1793413666,
+    "newlist:OKX合约:ADI": 1793722799,
+    "newlist:OKX合约:FLEX": 1793722799,
+    "newlist:OKX合约:MELI": 1793722800,
+    "newlist:OKX合约:PEP": 1793722801,
+    "newlist:OKX合约:UMC": 1793722802
   },
   "history": [
     {
@@ -275,6 +281,15 @@
       "name": "XDG",
       "price": "0.0002437",
       "address": "j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez"
+    },
+    {
+      "key": "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda",
+      "ts": 1793722802,
+      "type": "new",
+      "symbol": "UNDERDOG",
+      "name": "UNDERDOG",
+      "price": "0.00008717",
+      "address": "0x0f91e699c363742dc0488604d88cfe77bf96deda"
     }
   ]
 }
