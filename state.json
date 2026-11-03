@@ -1,8 +1,9 @@
 {
-  "cap_date": "2026-11-02",
-  "cap_count": 1,
+  "cap_date": "2026-11-03",
+  "cap_count": 2,
   "sent": {
-    "new:ethereum:0xcaf9faa57678e67636bdf87e2e6245c13e95316d": 1793584345
+    "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161": 1793693817,
+    "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez": 1793693817
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -204,78 +205,6 @@
   },
   "history": [
     {
-      "key": "radar:quack-ai",
-      "ts": 1793346279,
-      "type": "radar",
-      "symbol": "Q",
-      "name": "Quack AI",
-      "price": 0.060098,
-      "cg_id": "quack-ai"
-    },
-    {
-      "key": "radar:kinetiq",
-      "ts": 1793346280,
-      "type": "radar",
-      "symbol": "KNTQ",
-      "name": "Kinetiq",
-      "price": 0.5545,
-      "cg_id": "kinetiq"
-    },
-    {
-      "key": "new:solana:etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump",
-      "ts": 1793370799,
-      "type": "new",
-      "symbol": "SAFU",
-      "name": "SAFU",
-      "price": "0.0004820",
-      "address": "etrgw1dvdunwosdrwamcnb6yy16cshyv34sywuapump"
-    },
-    {
-      "key": "new:solana:hvitmaeh6tktoqonoinwqwcrzsydyiaszhp7ymmspump",
-      "ts": 1793413667,
-      "type": "new",
-      "symbol": "LUMI",
-      "name": "LUMI",
-      "price": "0.0004450",
-      "address": "hvitmaeh6tktoqonoinwqwcrzsydyiaszhp7ymmspump"
-    },
-    {
-      "key": "new:solana:6njvg7wv1ubawbphup7pehlbd26u4cj6vxngshobpump",
-      "ts": 1793413667,
-      "type": "new",
-      "symbol": "APPLE",
-      "name": "APPLE",
-      "price": "0.0008062",
-      "address": "6njvg7wv1ubawbphup7pehlbd26u4cj6vxngshobpump"
-    },
-    {
-      "key": "new:solana:fwatmyiekhruj1yutcmvg1njrhzwwqhwjr11pbympump",
-      "ts": 1793413668,
-      "type": "new",
-      "symbol": "LEVERHEDGE",
-      "name": "LEVERHEDGE",
-      "price": "0.0004376",
-      "address": "fwatmyiekhruj1yutcmvg1njrhzwwqhwjr11pbympump"
-    },
-    {
-      "key": "new:robinhood:0xc428f03c4a1d9a84d7c88a25cb56f86795fbb8bd",
-      "ts": 1793413668,
-      "type": "new",
-      "symbol": "JOBS",
-      "name": "JOBS",
-      "price": "0.0001262",
-      "address": "0xc428f03c4a1d9a84d7c88a25cb56f86795fbb8bd"
-    },
-    {
-      "key": "new:robinhood:0x7526125d3714920b52dbad4493ae98418164cac5",
-      "ts": 1793413669,
-      "type": "new",
-      "symbol": "LUMI",
-      "name": "LUMI",
-      "price": "0.0001405",
-      "address": "0x7526125d3714920b52dbad4493ae98418164cac5"
-    },
-    {
       "key": "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3",
       "ts": 1793495138,
       "type": "new",
@@ -328,6 +257,24 @@
       "name": "ANAKIN",
       "price": "0.003647",
       "address": "0xcaf9faa57678e67636bdf87e2e6245c13e95316d"
+    },
+    {
+      "key": "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161",
+      "ts": 1793693817,
+      "type": "new",
+      "symbol": "WORKER",
+      "name": "WORKER",
+      "price": "0.0001348",
+      "address": "0x4bf4e409b1503277a1650af74e846111262b4161"
+    },
+    {
+      "key": "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez",
+      "ts": 1793693817,
+      "type": "new",
+      "symbol": "XDG",
+      "name": "XDG",
+      "price": "0.0002437",
+      "address": "j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez"
     }
   ]
 }
