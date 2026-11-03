@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-11-03",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161": 1793693817,
     "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez": 1793693817,
-    "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda": 1793722802
+    "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda": 1793722802,
+    "new:solana:3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump": 1793742678
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -290,6 +291,15 @@
       "name": "UNDERDOG",
       "price": "0.00008717",
       "address": "0x0f91e699c363742dc0488604d88cfe77bf96deda"
+    },
+    {
+      "key": "new:solana:3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump",
+      "ts": 1793742678,
+      "type": "new",
+      "symbol": "SA",
+      "name": "SA",
+      "price": "0.0005667",
+      "address": "3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump"
     }
   ]
 }
