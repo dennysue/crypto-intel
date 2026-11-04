@@ -1,11 +1,12 @@
 {
   "cap_date": "2026-11-04",
-  "cap_count": 4,
+  "cap_count": 5,
   "sent": {
     "new:robinhood:0xdb3ae4a818860219522796ae13dffc3176e19f35": 1793757014,
     "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump": 1793757014,
     "new:robinhood:0x5c828dbe3417e4cd6766654c380e5254add2cdb4": 1793780961,
-    "new:solana:f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump": 1793780961
+    "new:solana:f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump": 1793780961,
+    "new:base:0xb1c3a6ac90e324c4072ad4b2a71c5d9382f9565c": 1793809795
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -208,18 +209,13 @@
     "newlist:OKX合约:FLEX": 1793722799,
     "newlist:OKX合约:MELI": 1793722800,
     "newlist:OKX合约:PEP": 1793722801,
-    "newlist:OKX合约:UMC": 1793722802
+    "newlist:OKX合约:UMC": 1793722802,
+    "newlist:Gate:KOR": 1793809792,
+    "newlist:OKX合约:MURATA": 1793809793,
+    "newlist:OKX合约:OXY": 1793809793,
+    "newlist:OKX合约:SMR": 1793809794
   },
   "history": [
-    {
-      "key": "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win",
-      "ts": 1793543137,
-      "type": "new",
-      "symbol": "1WIN",
-      "name": "1WIN",
-      "price": "0.06014",
-      "address": "fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win"
-    },
     {
       "key": "new:robinhood:0xaadd5138a7ab4816d5e03caefac9cc0d012fed15",
       "ts": 1793559723,
@@ -309,6 +305,15 @@
       "name": "SLINGTOSHI",
       "price": "0.0005177",
       "address": "f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump"
+    },
+    {
+      "key": "new:base:0xb1c3a6ac90e324c4072ad4b2a71c5d9382f9565c",
+      "ts": 1793809795,
+      "type": "new",
+      "symbol": "BOOTR",
+      "name": "BOOTR",
+      "price": "0.000001201",
+      "address": "0xb1c3a6ac90e324c4072ad4b2a71c5d9382f9565c"
     }
   ]
 }
