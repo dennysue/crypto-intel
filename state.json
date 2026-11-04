@@ -1,9 +1,11 @@
 {
   "cap_date": "2026-11-04",
-  "cap_count": 2,
+  "cap_count": 4,
   "sent": {
     "new:robinhood:0xdb3ae4a818860219522796ae13dffc3176e19f35": 1793757014,
-    "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump": 1793757014
+    "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump": 1793757014,
+    "new:robinhood:0x5c828dbe3417e4cd6766654c380e5254add2cdb4": 1793780961,
+    "new:solana:f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump": 1793780961
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -210,24 +212,6 @@
   },
   "history": [
     {
-      "key": "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef",
-      "ts": 1793518036,
-      "type": "new",
-      "symbol": "SAFU",
-      "name": "SAFU",
-      "price": "0.1429",
-      "address": "0x888781c1071d432b7778fd07a6ad8225fa99acef"
-    },
-    {
-      "key": "radar:beam-2",
-      "ts": 1793518036,
-      "type": "radar",
-      "symbol": "BEAM",
-      "name": "Beam",
-      "price": 0.00607945,
-      "cg_id": "beam-2"
-    },
-    {
       "key": "new:solana:fjpkugnf5zbpdev18gt8fjctxh3mkrfkoeyekgyr1win",
       "ts": 1793543137,
       "type": "new",
@@ -307,6 +291,24 @@
       "name": "AMD",
       "price": "0.0003385",
       "address": "hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump"
+    },
+    {
+      "key": "new:robinhood:0x5c828dbe3417e4cd6766654c380e5254add2cdb4",
+      "ts": 1793780961,
+      "type": "new",
+      "symbol": "RAM",
+      "name": "RAM",
+      "price": "0.0001124",
+      "address": "0x5c828dbe3417e4cd6766654c380e5254add2cdb4"
+    },
+    {
+      "key": "new:solana:f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump",
+      "ts": 1793780961,
+      "type": "new",
+      "symbol": "SLINGTOSHI",
+      "name": "SLINGTOSHI",
+      "price": "0.0005177",
+      "address": "f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump"
     }
   ]
 }
