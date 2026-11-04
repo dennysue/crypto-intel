@@ -1,11 +1,9 @@
 {
-  "cap_date": "2026-11-03",
-  "cap_count": 4,
+  "cap_date": "2026-11-04",
+  "cap_count": 2,
   "sent": {
-    "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161": 1793693817,
-    "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez": 1793693817,
-    "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda": 1793722802,
-    "new:solana:3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump": 1793742678
+    "new:robinhood:0xdb3ae4a818860219522796ae13dffc3176e19f35": 1793757014,
+    "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump": 1793757014
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -212,15 +210,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3",
-      "ts": 1793495138,
-      "type": "new",
-      "symbol": "NIGGARACKET",
-      "name": "NIGGARACKET",
-      "price": "0.00008738",
-      "address": "0x4e6f59f8177b48b6d03e48e00c7cfca7455a85b3"
-    },
-    {
       "key": "new:bsc:0x888781c1071d432b7778fd07a6ad8225fa99acef",
       "ts": 1793518036,
       "type": "new",
@@ -300,6 +289,24 @@
       "name": "SA",
       "price": "0.0005667",
       "address": "3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump"
+    },
+    {
+      "key": "new:robinhood:0xdb3ae4a818860219522796ae13dffc3176e19f35",
+      "ts": 1793757014,
+      "type": "new",
+      "symbol": "SEXBOT",
+      "name": "SEXBOT",
+      "price": "0.0002634",
+      "address": "0xdb3ae4a818860219522796ae13dffc3176e19f35"
+    },
+    {
+      "key": "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump",
+      "ts": 1793757014,
+      "type": "new",
+      "symbol": "AMD",
+      "name": "AMD",
+      "price": "0.0003385",
+      "address": "hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump"
     }
   ]
 }
