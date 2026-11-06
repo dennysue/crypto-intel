@@ -1,12 +1,10 @@
 {
-  "cap_date": "2026-11-05",
-  "cap_count": 5,
+  "cap_date": "2026-11-06",
+  "cap_count": 3,
   "sent": {
-    "new:solana:2stne98imn7m6k341a7a4xvc8entvlcde5eugakfloat": 1793845177,
-    "new:robinhood:0x0f18c5ccb63fb8f778581e54c0177a5150035790": 1793845178,
-    "radar:cap-4": 1793845178,
-    "radar:instadapp": 1793845179,
-    "radar:derive": 1793845180
+    "new:solana:5vcefq1aatjga39qtdunyjjqybx67w8v8txwhrqopump": 1793933629,
+    "new:robinhood:0x1ce1f2ba0572add626d6bb18a668efb637632545": 1793933630,
+    "new:robinhood:0x6eac35d6ced160f174a0df4fa1f27950a246dc23": 1793933630
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -341,6 +339,33 @@
       "name": "Derive",
       "price": 0.379553,
       "cg_id": "derive"
+    },
+    {
+      "key": "new:solana:5vcefq1aatjga39qtdunyjjqybx67w8v8txwhrqopump",
+      "ts": 1793933629,
+      "type": "new",
+      "symbol": "DIAMOND",
+      "name": "DIAMOND",
+      "price": "0.0005003",
+      "address": "5vcefq1aatjga39qtdunyjjqybx67w8v8txwhrqopump"
+    },
+    {
+      "key": "new:robinhood:0x1ce1f2ba0572add626d6bb18a668efb637632545",
+      "ts": 1793933630,
+      "type": "new",
+      "symbol": "SSSDFG",
+      "name": "SSSDFG",
+      "price": "0.0005372",
+      "address": "0x1ce1f2ba0572add626d6bb18a668efb637632545"
+    },
+    {
+      "key": "new:robinhood:0x6eac35d6ced160f174a0df4fa1f27950a246dc23",
+      "ts": 1793933630,
+      "type": "new",
+      "symbol": "SITF",
+      "name": "SITF",
+      "price": "0.0005570",
+      "address": "0x6eac35d6ced160f174a0df4fa1f27950a246dc23"
     }
   ]
 }
