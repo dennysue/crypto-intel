@@ -1,10 +1,12 @@
 {
   "cap_date": "2026-11-06",
-  "cap_count": 3,
+  "cap_count": 5,
   "sent": {
     "new:solana:5vcefq1aatjga39qtdunyjjqybx67w8v8txwhrqopump": 1793933629,
     "new:robinhood:0x1ce1f2ba0572add626d6bb18a668efb637632545": 1793933630,
-    "new:robinhood:0x6eac35d6ced160f174a0df4fa1f27950a246dc23": 1793933630
+    "new:robinhood:0x6eac35d6ced160f174a0df4fa1f27950a246dc23": 1793933630,
+    "new:near:imeme-2.v2-launchpad.justhoot.near": 1793960261,
+    "new:robinhood:0x0876adfa839d623c10dd1d59310829796f7ce181": 1793960261
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -215,24 +217,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x4bf4e409b1503277a1650af74e846111262b4161",
-      "ts": 1793693817,
-      "type": "new",
-      "symbol": "WORKER",
-      "name": "WORKER",
-      "price": "0.0001348",
-      "address": "0x4bf4e409b1503277a1650af74e846111262b4161"
-    },
-    {
-      "key": "new:solana:j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez",
-      "ts": 1793693817,
-      "type": "new",
-      "symbol": "XDG",
-      "name": "XDG",
-      "price": "0.0002437",
-      "address": "j1pzjnkh4bnbxbsroe4acjv3tyzcgxtn46vrzii6orez"
-    },
-    {
       "key": "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda",
       "ts": 1793722802,
       "type": "new",
@@ -366,6 +350,24 @@
       "name": "SITF",
       "price": "0.0005570",
       "address": "0x6eac35d6ced160f174a0df4fa1f27950a246dc23"
+    },
+    {
+      "key": "new:near:imeme-2.v2-launchpad.justhoot.near",
+      "ts": 1793960261,
+      "type": "new",
+      "symbol": "IMEME",
+      "name": "IMEME",
+      "price": "0.0004911",
+      "address": "imeme-2.v2-launchpad.justhoot.near"
+    },
+    {
+      "key": "new:robinhood:0x0876adfa839d623c10dd1d59310829796f7ce181",
+      "ts": 1793960261,
+      "type": "new",
+      "symbol": "COGE",
+      "name": "COGE",
+      "price": "0.0002308",
+      "address": "0x0876adfa839d623c10dd1d59310829796f7ce181"
     }
   ]
 }
