@@ -1,10 +1,11 @@
 {
   "cap_date": "2026-11-07",
-  "cap_count": 3,
+  "cap_count": 4,
   "sent": {
     "radar:akedo": 1794017292,
     "new:bsc:0x3ffae6988a1fcfaf00c51fb4950c1cd69812180c": 1794040922,
-    "new:ethereum:0xe378f796e92580478277da196b635803ca3affa9": 1794040922
+    "new:ethereum:0xe378f796e92580478277da196b635803ca3affa9": 1794040922,
+    "new:robinhood:0x5cbb5a5b43976d560002f553e3275fe687a4fbfa": 1794064362
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -342,6 +343,15 @@
       "name": "LEONIDA",
       "price": "0.0008476",
       "address": "0xe378f796e92580478277da196b635803ca3affa9"
+    },
+    {
+      "key": "new:robinhood:0x5cbb5a5b43976d560002f553e3275fe687a4fbfa",
+      "ts": 1794064362,
+      "type": "new",
+      "symbol": "TRAUMA",
+      "name": "TRAUMA",
+      "price": "0.0001651",
+      "address": "0x5cbb5a5b43976d560002f553e3275fe687a4fbfa"
     }
   ]
 }
