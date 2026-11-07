@@ -1,12 +1,8 @@
 {
-  "cap_date": "2026-11-06",
-  "cap_count": 5,
+  "cap_date": "2026-11-07",
+  "cap_count": 1,
   "sent": {
-    "new:solana:5vcefq1aatjga39qtdunyjjqybx67w8v8txwhrqopump": 1793933629,
-    "new:robinhood:0x1ce1f2ba0572add626d6bb18a668efb637632545": 1793933630,
-    "new:robinhood:0x6eac35d6ced160f174a0df4fa1f27950a246dc23": 1793933630,
-    "new:near:imeme-2.v2-launchpad.justhoot.near": 1793960261,
-    "new:robinhood:0x0876adfa839d623c10dd1d59310829796f7ce181": 1793960261
+    "radar:akedo": 1794017292
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -220,42 +216,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x0f91e699c363742dc0488604d88cfe77bf96deda",
-      "ts": 1793722802,
-      "type": "new",
-      "symbol": "UNDERDOG",
-      "name": "UNDERDOG",
-      "price": "0.00008717",
-      "address": "0x0f91e699c363742dc0488604d88cfe77bf96deda"
-    },
-    {
-      "key": "new:solana:3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump",
-      "ts": 1793742678,
-      "type": "new",
-      "symbol": "SA",
-      "name": "SA",
-      "price": "0.0005667",
-      "address": "3rgfupcg4vs2twjordbqlgutuzdr7yckjnp33fqypump"
-    },
-    {
-      "key": "new:robinhood:0xdb3ae4a818860219522796ae13dffc3176e19f35",
-      "ts": 1793757014,
-      "type": "new",
-      "symbol": "SEXBOT",
-      "name": "SEXBOT",
-      "price": "0.0002634",
-      "address": "0xdb3ae4a818860219522796ae13dffc3176e19f35"
-    },
-    {
-      "key": "new:solana:hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump",
-      "ts": 1793757014,
-      "type": "new",
-      "symbol": "AMD",
-      "name": "AMD",
-      "price": "0.0003385",
-      "address": "hjibij1bcewjcgpeb22k8y7imdgaf1khgmhuegcdpump"
-    },
-    {
       "key": "new:robinhood:0x5c828dbe3417e4cd6766654c380e5254add2cdb4",
       "ts": 1793780961,
       "type": "new",
@@ -371,6 +331,15 @@
       "name": "COGE",
       "price": "0.0002308",
       "address": "0x0876adfa839d623c10dd1d59310829796f7ce181"
+    },
+    {
+      "key": "radar:akedo",
+      "ts": 1794017292,
+      "type": "radar",
+      "symbol": "AKE",
+      "name": "Akedo",
+      "price": 0.00551716,
+      "cg_id": "akedo"
     }
   ]
 }
