@@ -1,8 +1,10 @@
 {
   "cap_date": "2026-11-07",
-  "cap_count": 1,
+  "cap_count": 3,
   "sent": {
-    "radar:akedo": 1794017292
+    "radar:akedo": 1794017292,
+    "new:bsc:0x3ffae6988a1fcfaf00c51fb4950c1cd69812180c": 1794040922,
+    "new:ethereum:0xe378f796e92580478277da196b635803ca3affa9": 1794040922
   },
   "seen_forever": {
     "listing:283840": 1788637067,
@@ -216,24 +218,6 @@
   },
   "history": [
     {
-      "key": "new:robinhood:0x5c828dbe3417e4cd6766654c380e5254add2cdb4",
-      "ts": 1793780961,
-      "type": "new",
-      "symbol": "RAM",
-      "name": "RAM",
-      "price": "0.0001124",
-      "address": "0x5c828dbe3417e4cd6766654c380e5254add2cdb4"
-    },
-    {
-      "key": "new:solana:f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump",
-      "ts": 1793780961,
-      "type": "new",
-      "symbol": "SLINGTOSHI",
-      "name": "SLINGTOSHI",
-      "price": "0.0005177",
-      "address": "f1lqvm5bitdexprhokxhkr7sdwqcbna8vtemd5gdpump"
-    },
-    {
       "key": "new:base:0xb1c3a6ac90e324c4072ad4b2a71c5d9382f9565c",
       "ts": 1793809795,
       "type": "new",
@@ -340,6 +324,24 @@
       "name": "Akedo",
       "price": 0.00551716,
       "cg_id": "akedo"
+    },
+    {
+      "key": "new:bsc:0x3ffae6988a1fcfaf00c51fb4950c1cd69812180c",
+      "ts": 1794040922,
+      "type": "new",
+      "symbol": "GM",
+      "name": "GM",
+      "price": "0.0007207",
+      "address": "0x3ffae6988a1fcfaf00c51fb4950c1cd69812180c"
+    },
+    {
+      "key": "new:ethereum:0xe378f796e92580478277da196b635803ca3affa9",
+      "ts": 1794040922,
+      "type": "new",
+      "symbol": "LEONIDA",
+      "name": "LEONIDA",
+      "price": "0.0008476",
+      "address": "0xe378f796e92580478277da196b635803ca3affa9"
     }
   ]
 }
